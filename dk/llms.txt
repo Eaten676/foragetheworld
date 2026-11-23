@@ -1,6 +1,6 @@
 # Forage Denmark
 
-> A free guide to wild food in Denmark: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 17 dishes to cook with them.
+> A free guide to wild food in Denmark: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 27 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -54,6 +54,34 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Wild thyme](https://eaten676.github.io/foragetheworld/dk/plants/thyme/): Thymus serpyllum; Smalbladet timian. In season June to August.
 - [Yarrow](https://eaten676.github.io/foragetheworld/dk/plants/yarrow/): Achillea millefolium; Røllike. In season June to September.
 - [Red clover](https://eaten676.github.io/foragetheworld/dk/plants/redclover/): Trifolium pratense; Rødkløver. In season May to September.
+- [Chanterelle](https://eaten676.github.io/foragetheworld/dk/plants/chanterelle/): Cantharellus cibarius; Kantarel. In season July to October.
+- [Porcini](https://eaten676.github.io/foragetheworld/dk/plants/porcini/): Boletus edulis; Karl Johan-svamp. In season August to October.
+- [Giant puffball](https://eaten676.github.io/foragetheworld/dk/plants/puffball/): Calvatia gigantea; Kæmpestøvbold. In season July to September.
+- [Chicken of the woods](https://eaten676.github.io/foragetheworld/dk/plants/chickenwoods/): Laetiporus sulphureus; Svovlporesvamp. In season May to September.
+- [Hedgehog mushroom](https://eaten676.github.io/foragetheworld/dk/plants/hedgehog/): Hydnum repandum; Almindelig pigsvamp. In season August to November.
+- [Cleavers](https://eaten676.github.io/foragetheworld/dk/plants/cleavers/): Galium aparine; Burre-snerre. In season February to May.
+- [Hairy bittercress](https://eaten676.github.io/foragetheworld/dk/plants/bittercress/): Cardamine hirsuta; Roset-springklap. In season January to December.
+- [White and red deadnettle](https://eaten676.github.io/foragetheworld/dk/plants/deadnettle/): Lamium album; Døvnælde. In season March to September.
+- [Ground ivy](https://eaten676.github.io/foragetheworld/dk/plants/groundivy/): Glechoma hederacea; Korsknap. In season March to June.
+- [Wild cherry](https://eaten676.github.io/foragetheworld/dk/plants/wildcherry/): Prunus avium; Fuglekirsebær. In season June to July.
+- [Sweet violet](https://eaten676.github.io/foragetheworld/dk/plants/sweetviolet/): Viola odorata; Marts-viol. In season February to April.
+- [Wood avens root](https://eaten676.github.io/foragetheworld/dk/plants/woodavens/): Geum urbanum; Feber-nellikerod. In season March to October.
+- [Water mint](https://eaten676.github.io/foragetheworld/dk/plants/watermint/): Mentha aquatica; Vandmynte. In season May to September.
+- [Wild marjoram](https://eaten676.github.io/foragetheworld/dk/plants/marjoram/): Origanum vulgare; Merian. In season June to September.
+- [Birch sap](https://eaten676.github.io/foragetheworld/dk/plants/birchsap/): Betula pendula; Birkesaft. In season March to April.
+- [Cherry plum](https://eaten676.github.io/foragetheworld/dk/plants/cherryplum/): Prunus cerasifera; Mirabel. In season July to August.
+- [Beach rose](https://eaten676.github.io/foragetheworld/dk/plants/rugosa/): Rosa rugosa; Rynket rose. In season August to October.
+- [Heather flowers](https://eaten676.github.io/foragetheworld/dk/plants/heather/): Calluna vulgaris; Hedelyng. In season August to September.
+- [Bog myrtle](https://eaten676.github.io/foragetheworld/dk/plants/bogmyrtle/): Myrica gale; Mose-pors. In season June to September.
+- [Scurvy grass](https://eaten676.github.io/foragetheworld/dk/plants/scurvygrass/): Cochlearia officinalis; Læge-kokleare. In season March to July.
+- [Sea rocket](https://eaten676.github.io/foragetheworld/dk/plants/searocket/): Cakile maritima; Strandsennep. In season June to September.
+- [Sea plantain](https://eaten676.github.io/foragetheworld/dk/plants/seaplantain/): Plantago maritima; Strand-vejbred. In season April to August.
+- [Sea lettuce](https://eaten676.github.io/foragetheworld/dk/plants/sealettuce/): Ulva lactuca; Søsalat. In season April to September.
+- [Bird cherry](https://eaten676.github.io/foragetheworld/dk/plants/birdcherry/): Prunus padus; Almindelig hæg. In season July to August.
+- [Stone bramble](https://eaten676.github.io/foragetheworld/dk/plants/stonebramble/): Rubus saxatilis; Fruebær. In season July to August.
+- [Wild chives](https://eaten676.github.io/foragetheworld/dk/plants/wildchives/): Allium schoenoprasum; Purløg. In season May to August.
+- [Periwinkles](https://eaten676.github.io/foragetheworld/dk/plants/periwinkle/): Littorina littorea; Strandsnegl. In season January to December.
+- [Sea purslane](https://eaten676.github.io/foragetheworld/dk/plants/seapurslane/): Atriplex portulacoides; Portulak-kilebæger. In season April to October.
 
 ## Dishes
 
@@ -74,3 +102,13 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Elderflower buttermilk (koldskål)](https://eaten676.github.io/foragetheworld/dk/dishes/elderflower-buttermilk/): Chilled buttermilk sweetened with elderflower, with kammerjunker biscuits.
 - [Blackberry crumble](https://eaten676.github.io/foragetheworld/dk/dishes/blackberry-crumble/): Blackberries under a buttery oat crumble.
 - [Raspberry and gooseberry trifle](https://eaten676.github.io/foragetheworld/dk/dishes/raspberry-and-gooseberry-trifle/): Summer berries layered with cream and macaroons.
+- [Rugosa rose hip syrup](https://eaten676.github.io/foragetheworld/dk/dishes/rugosa-rose-hip-syrup/): Hyben from the beach rose cooked into a deep red syrup.
+- [Birch sap (birkesaft)](https://eaten676.github.io/foragetheworld/dk/dishes/birch-sap/): Fresh spring sap, chilled.
+- [Sea rocket and beach greens salad](https://eaten676.github.io/foragetheworld/dk/dishes/sea-rocket-and-beach-greens-salad/): Peppery beach greens with apple and buttermilk dressing.
+- [Chanterelles on rye (kantareller på rugbrød)](https://eaten676.github.io/foragetheworld/dk/dishes/chanterelles-on-rye/): Butter-fried chanterelles on rye bread with herbs.
+- [Pickled rosehips](https://eaten676.github.io/foragetheworld/dk/dishes/pickled-rosehips/): Seeded hips pickled sweet-sour for pork.
+- [Mirabelle jam](https://eaten676.github.io/foragetheworld/dk/dishes/mirabelle-jam/): Wild cherry plums cooked into a golden jam.
+- [Porcini risotto (karljohan)](https://eaten676.github.io/foragetheworld/dk/dishes/porcini-risotto/): Creamy risotto with fried porcini.
+- [Puffball schnitzel](https://eaten676.github.io/foragetheworld/dk/dishes/puffball-schnitzel/): Breaded slices of young giant puffball, fried.
+- [Elderflower cake](https://eaten676.github.io/foragetheworld/dk/dishes/elderflower-cake/): Sponge soaked in elderflower syrup.
+- [Sea buckthorn sorbet](https://eaten676.github.io/foragetheworld/dk/dishes/sea-buckthorn-sorbet/): Tart orange sorbet of sea buckthorn juice.

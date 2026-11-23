@@ -1,6 +1,6 @@
 # Forage New Zealand
 
-> A free guide to wild food in New Zealand: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 15 dishes to cook with them.
+> A free guide to wild food in New Zealand: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 25 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -31,6 +31,21 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Rose hips](https://eaten676.github.io/foragetheworld/nz/plants/rosehip/): Rosa canina; Rose hips. In season March to May.
 - [Wild fennel](https://eaten676.github.io/foragetheworld/nz/plants/fennel/): Foeniculum vulgare; Wild fennel. In season September to February.
 - [Pipi and tuatua](https://eaten676.github.io/foragetheworld/nz/plants/pipi/): Paphies australis; Pipi, Tuatua. In season all year round.
+- [Karamū berries](https://eaten676.github.io/foragetheworld/nz/plants/karamu/): Coprosma robusta; Karamū berries. In season March to May.
+- [Kiekie fruit](https://eaten676.github.io/foragetheworld/nz/plants/kiekie/): Freycinetia banksii; Kiekie fruit. In season February to April.
+- [Tawa berries](https://eaten676.github.io/foragetheworld/nz/plants/tawa/): Beilschmiedia tawa; Tawa berries. In season February to April.
+- [Native celery](https://eaten676.github.io/foragetheworld/nz/plants/nzcelery/): Apium prostratum; Native celery. In season all year round.
+- [Nasturtium](https://eaten676.github.io/foragetheworld/nz/plants/nasturtium/): Tropaeolum majus; Nasturtium. In season all year round.
+- [Sea lettuce](https://eaten676.github.io/foragetheworld/nz/plants/sealettuce/): Ulva; Sea lettuce. In season September to April.
+- [Harakeke nectar](https://eaten676.github.io/foragetheworld/nz/plants/harakeke/): Phormium tenax; Harakeke nectar. In season October to December.
+- [Wild plums](https://eaten676.github.io/foragetheworld/nz/plants/wildplum/): Prunus cerasifera; Wild plums. In season December to February.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/nz/plants/hawthornnz/): Crataegus monogyna; Hawthorn. In season March to May.
+- [Walnut](https://eaten676.github.io/foragetheworld/nz/plants/walnutnz/): Juglans regia; Walnut. In season March to May.
+- [Sweet chestnut](https://eaten676.github.io/foragetheworld/nz/plants/chestnutnz/): Castanea sativa; Sweet chestnut. In season March to May.
+- [Kina](https://eaten676.github.io/foragetheworld/nz/plants/kina/): Evechinus chloroticus; Kina. In season June to October.
+- [Pāua](https://eaten676.github.io/foragetheworld/nz/plants/paua/): Haliotis iris; Pāua. In season all year round.
+- [Tuangi cockles](https://eaten676.github.io/foragetheworld/nz/plants/cockle/): Austrovenus stutchburyi; Tuangi cockles. In season all year round.
+- [Green-lipped mussels](https://eaten676.github.io/foragetheworld/nz/plants/mussel/): Perna canaliculus; Green-lipped mussels. In season all year round.
 
 ## Dishes
 
@@ -48,4 +63,14 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Nettle soup](https://eaten676.github.io/foragetheworld/nz/dishes/nettle-soup/): Nettle tops with potato, blended.
 - [Horopito fry bread (parāoa parai)](https://eaten676.github.io/foragetheworld/nz/dishes/horopito-fry-bread/): Fried bread dough with a pinch of ground horopito.
 - [Kōnini jam on scones](https://eaten676.github.io/foragetheworld/nz/dishes/k-nini-jam-on-scones/): Tree fuchsia berries cooked into jam.
+- [Harakeke nectar water](https://eaten676.github.io/foragetheworld/nz/dishes/harakeke-nectar-water/): Flax flowers shaken into water for a sweet traditional drink.
+- [Elderberry syrup](https://eaten676.github.io/foragetheworld/nz/dishes/elderberry-syrup/): Late-summer elderberries cooked with honey and spice.
+- [Pāua fritters](https://eaten676.github.io/foragetheworld/nz/dishes/p-ua-fritters/): Minced pāua in egg batter, fried.
+- [Kina on toast](https://eaten676.github.io/foragetheworld/nz/dishes/kina-on-toast/): Fresh kina roe on buttered bread.
+- [Steamed tuangi with kawakawa](https://eaten676.github.io/foragetheworld/nz/dishes/steamed-tuangi-with-kawakawa/): Cockles steamed with kawakawa and butter.
+- [Pickled nasturtium capers](https://eaten676.github.io/foragetheworld/nz/dishes/pickled-nasturtium-capers/): Green nasturtium seeds pickled like capers.
+- [Wild plum sauce](https://eaten676.github.io/foragetheworld/nz/dishes/wild-plum-sauce/): Plums cooked with spices into a sauce for meat.
+- [Green-lipped mussel chowder](https://eaten676.github.io/foragetheworld/nz/dishes/green-lipped-mussel-chowder/): Creamy chowder with green-lipped mussels and native celery.
+- [Watercress and pork boil-up](https://eaten676.github.io/foragetheworld/nz/dishes/watercress-and-pork-boil-up/): Pork bones, potatoes and watercress, the Waikato way.
+- [Kiekie fruit (tāwhara)](https://eaten676.github.io/foragetheworld/nz/dishes/kiekie-fruit/): The sweet bracts eaten fresh in spring.
 - [Blackberry crumble](https://eaten676.github.io/foragetheworld/nz/dishes/blackberry-crumble/): Blackberries under an oat crumble.

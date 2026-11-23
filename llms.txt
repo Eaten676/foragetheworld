@@ -9,6 +9,7 @@
 - [Forage Denmark](https://eaten676.github.io/foragetheworld/dk/llms.txt)
 - [Forage Canada](https://eaten676.github.io/foragetheworld/ca/llms.txt)
 - [Forage United Kingdom](https://eaten676.github.io/foragetheworld/uk/llms.txt)
+- [Forage Ireland](https://eaten676.github.io/foragetheworld/ie/llms.txt)
 - [Forage Germany](https://eaten676.github.io/foragetheworld/de/llms.txt)
 - [Forage Netherlands](https://eaten676.github.io/foragetheworld/nl/llms.txt)
 - [Forage Sweden](https://eaten676.github.io/foragetheworld/se/llms.txt)

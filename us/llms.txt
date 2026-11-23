@@ -1,6 +1,6 @@
 # Forage United States
 
-> A free guide to wild food in the United States: which wild plants are in season in each state and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 41 dishes to cook with them.
+> A free guide to wild food in the United States: which wild plants are in season in each state and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 86 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -83,6 +83,106 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Red clover](https://eaten676.github.io/foragetheworld/us/plants/redclover/): Trifolium pratense; Red clover. In season May to September.
 - [Daylily](https://eaten676.github.io/foragetheworld/us/plants/daylily/): Hemerocallis fulva; Orange daylily, Ditch lily. In season June to July.
 - [Crayfish](https://eaten676.github.io/foragetheworld/us/plants/crayfish/): Procambarus clarkii; Crawfish, Crawdad. In season March to July.
+- [Chanterelle](https://eaten676.github.io/foragetheworld/us/plants/chanterelle/): Cantharellus cibarius; Chanterelle, Girolle. In season June to September.
+- [Porcini](https://eaten676.github.io/foragetheworld/us/plants/porcini/): Boletus edulis; Cep, Penny bun. In season August to October.
+- [Giant puffball](https://eaten676.github.io/foragetheworld/us/plants/puffball/): Calvatia gigantea; Giant puffball. In season August to October.
+- [Chicken of the woods](https://eaten676.github.io/foragetheworld/us/plants/chickenwoods/): Laetiporus sulphureus; Chicken of the woods. In season June to October.
+- [Hedgehog mushroom](https://eaten676.github.io/foragetheworld/us/plants/hedgehog/): Hydnum repandum; Hedgehog mushroom, Wood hedgehog. In season August to December.
+- [Wild gooseberry](https://eaten676.github.io/foragetheworld/us/plants/gooseberry/): Ribes cynosbati; Wild gooseberry. In season July to August.
+- [Black chokeberry](https://eaten676.github.io/foragetheworld/us/plants/chokeberry/): Aronia melanocarpa; Black chokeberry. In season August to September.
+- [Beach plum](https://eaten676.github.io/foragetheworld/us/plants/beachplum/): Prunus maritima; Beach plum. In season August to September.
+- [Muscadine grape](https://eaten676.github.io/foragetheworld/us/plants/muscadine/): Vitis rotundifolia; Muscadine grape. In season August to October.
+- [Mayhaw](https://eaten676.github.io/foragetheworld/us/plants/mayhaw/): Crataegus aestivalis; Mayhaw. In season May.
+- [Highbush cranberry](https://eaten676.github.io/foragetheworld/us/plants/highbushcranberry/): Viburnum trilobum; Highbush cranberry. In season September to November.
+- [Salal](https://eaten676.github.io/foragetheworld/us/plants/salal/): Gaultheria shallon; Salal. In season August to September.
+- [Manzanita berries](https://eaten676.github.io/foragetheworld/us/plants/manzanita/): Arctostaphylos manzanita; Manzanita berries. In season June to August.
+- [Toyon berries](https://eaten676.github.io/foragetheworld/us/plants/toyon/): Heteromeles arbutifolia; Toyon berries. In season November to January.
+- [Ground cherry](https://eaten676.github.io/foragetheworld/us/plants/groundcherry/): Physalis heterophylla; Ground cherry. In season July to September.
+- [White clover](https://eaten676.github.io/foragetheworld/us/plants/whiteclover/): Trifolium repens; White clover. In season May to September.
+- [Fireweed](https://eaten676.github.io/foragetheworld/us/plants/fireweed/): Chamerion angustifolium; Fireweed. In season May to August.
+- [Wild mustard](https://eaten676.github.io/foragetheworld/us/plants/fieldmustard/): Brassica rapa; Wild mustard. In season March to June.
+- [Wild radish](https://eaten676.github.io/foragetheworld/us/plants/wildradish/): Raphanus raphanistrum; Wild radish. In season February to May.
+- [Bull kelp](https://eaten676.github.io/foragetheworld/us/plants/bullkelp/): Nereocystis luetkeana; Bull kelp. In season May to August.
+- [Pickleweed](https://eaten676.github.io/foragetheworld/us/plants/pickleweed/): Salicornia pacifica; Pickleweed. In season May to August.
+- [Cholla buds](https://eaten676.github.io/foragetheworld/us/plants/cholla/): Cylindropuntia acanthocarpa; Cholla buds. In season April to May.
+- [Banana yucca](https://eaten676.github.io/foragetheworld/us/plants/yucca/): Yucca baccata; Banana yucca. In season July to September.
+- [California bay nuts](https://eaten676.github.io/foragetheworld/us/plants/californiabay/): Umbellularia californica; California bay nuts. In season October to November.
+- [Birch sap](https://eaten676.github.io/foragetheworld/us/plants/birchsap/): Betula papyrifera; Birch sap. In season March to April.
+- [Wild raspberry](https://eaten676.github.io/foragetheworld/us/plants/raspberry/): Rubus idaeus subsp. strigosus; Wild raspberry, American red raspberry. In season July to August.
+- [Cleavers](https://eaten676.github.io/foragetheworld/us/plants/cleavers/): Galium aparine; Cleavers, Bedstraw, Sticky willy. In season March to May.
+- [Juniper berries](https://eaten676.github.io/foragetheworld/us/plants/juniper/): Juniperus communis; Juniper berries, Common juniper. In season September to March.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/us/plants/hawthorn/): Crataegus spp.; Hawthorn, Haw, Thornapple. In season September to October.
+- [Dulse](https://eaten676.github.io/foragetheworld/us/plants/dulse/): Palmaria palmata; Dulse. In season April to September.
+- [Laver (wild nori)](https://eaten676.github.io/foragetheworld/us/plants/laver/): Porphyra / Pyropia spp.; Laver (wild nori), Wild nori, Black seaweed. In season March to June.
+- [Irish moss](https://eaten676.github.io/foragetheworld/us/plants/carrageen/): Chondrus crispus; Irish moss, Carrageen. In season May to September.
+- [Sea lettuce](https://eaten676.github.io/foragetheworld/us/plants/sealettuce/): Ulva lactuca; Sea lettuce. In season April to September.
+- [Sugar kelp](https://eaten676.github.io/foragetheworld/us/plants/kelp/): Saccharina latissima; Sugar kelp. In season March to June.
+- [Blue mussels](https://eaten676.github.io/foragetheworld/us/plants/mussel/): Mytilus edulis; Blue mussels. In season October to April.
+- [Sea rocket](https://eaten676.github.io/foragetheworld/us/plants/searocket/): Cakile edentula; Sea rocket, American sea rocket. In season June to September.
+- [Seaside plantain](https://eaten676.github.io/foragetheworld/us/plants/seaplantain/): Plantago maritima; Seaside plantain, Goose tongue. In season May to August.
+- [Mountain sorrel](https://eaten676.github.io/foragetheworld/us/plants/mountainsorrel/): Oxyria digyna; Mountain sorrel. In season June to August.
+- [Arctic bramble](https://eaten676.github.io/foragetheworld/us/plants/arcticbramble/): Rubus arcticus; Arctic bramble, Nagoonberry. In season July to August.
+- [Hop shoots](https://eaten676.github.io/foragetheworld/us/plants/hops/): Humulus lupulus; Hop shoots. In season April to May.
+- [Yarrow](https://eaten676.github.io/foragetheworld/us/plants/yarrow/): Achillea millefolium; Yarrow. In season May to September.
+- [Iceland moss](https://eaten676.github.io/foragetheworld/us/plants/icelandmoss/): Cetraria islandica; Iceland moss. In season all year round.
+- [Scurvy grass](https://eaten676.github.io/foragetheworld/us/plants/scurvygrass/): Cochlearia groenlandica; Scurvy grass. In season June to August.
+- [Sweet gale](https://eaten676.github.io/foragetheworld/us/plants/bogmyrtle/): Myrica gale; Sweet gale, Bog myrtle. In season May to September.
+- [Beach rose](https://eaten676.github.io/foragetheworld/us/plants/rugosa/): Rosa rugosa; Beach rose, Beach rose hips. In season August to October.
+- [Chestnut](https://eaten676.github.io/foragetheworld/us/plants/chestnut/): Castanea spp.; Chestnut, Feral sweet chestnut, Chinese chestnut. In season September to October.
+- [Cloudberry](https://eaten676.github.io/foragetheworld/us/plants/cloudberry/): Rubus chamaemorus; Cloudberry, Salmonberry (Alaska), Bakeapple. In season July to August.
+- [Crowberry](https://eaten676.github.io/foragetheworld/us/plants/crowberry/): Empetrum nigrum; Crowberry, Blackberry (Alaska). In season August to October.
+- [Lingonberry](https://eaten676.github.io/foragetheworld/us/plants/lingonberry/): Vaccinium vitis-idaea; Lingonberry, Lowbush cranberry, Partridgeberry. In season August to October.
+- [Black cherry](https://eaten676.github.io/foragetheworld/us/plants/blackcherry/): Prunus serotina; Black cherry, Wild black cherry, Rum cherry. In season July to September.
+- [Silver buffaloberry](https://eaten676.github.io/foragetheworld/us/plants/buffaloberry/): Shepherdia argentea; Silver buffaloberry, Bullberry. In season August to October.
+- [Soapberry](https://eaten676.github.io/foragetheworld/us/plants/soapberry/): Shepherdia canadensis; Soapberry, Russet buffaloberry, Hooshum. In season July to August.
+- [Hackberry](https://eaten676.github.io/foragetheworld/us/plants/hackberry/): Celtis occidentalis; Hackberry, Sugarberry. In season September to February.
+- [Wintergreen](https://eaten676.github.io/foragetheworld/us/plants/wintergreen/): Gaultheria procumbens; Wintergreen, Teaberry, Checkerberry. In season September to April.
+- [Bunchberry](https://eaten676.github.io/foragetheworld/us/plants/bunchberry/): Cornus canadensis; Bunchberry, Dwarf dogwood, Crackerberry. In season July to September.
+- [Wild black currant](https://eaten676.github.io/foragetheworld/us/plants/wildcurrant/): Ribes americanum / R. hudsonianum; Wild black currant, American black currant. In season July to August.
+- [Dewberry](https://eaten676.github.io/foragetheworld/us/plants/dewberry/): Rubus flagellaris / R. trivialis; Dewberry. In season May to July.
+- [American beautyberry](https://eaten676.github.io/foragetheworld/us/plants/beautyberry/): Callicarpa americana; American beautyberry, French mulberry. In season August to October.
+- [Saguaro fruit](https://eaten676.github.io/foragetheworld/us/plants/saguaro/): Carnegiea gigantea; Saguaro fruit. In season June to July.
+- [Sea grape](https://eaten676.github.io/foragetheworld/us/plants/seagrape/): Coccoloba uvifera; Sea grape. In season August to October.
+- [Saw palmetto](https://eaten676.github.io/foragetheworld/us/plants/sawpalmetto/): Serenoa repens; Saw palmetto. In season August to October.
+- [Loquat](https://eaten676.github.io/foragetheworld/us/plants/loquat/): Eriobotrya japonica; Loquat. In season March to May.
+- [Nannyberry](https://eaten676.github.io/foragetheworld/us/plants/nannyberry/): Viburnum lentago; Nannyberry, Sheepberry. In season September to November.
+- [Squashberry](https://eaten676.github.io/foragetheworld/us/plants/squashberry/): Viburnum edule; Squashberry, Mooseberry, Lowbush cranberry. In season August to October.
+- [Wild apple](https://eaten676.github.io/foragetheworld/us/plants/wildapple/): Malus domestica (feral); Wild apple, Feral apple. In season August to October.
+- [Barrel cactus fruit](https://eaten676.github.io/foragetheworld/us/plants/barrelcactus/): Ferocactus wislizeni; Barrel cactus fruit, Fishhook barrel cactus. In season September to February.
+- [Wild lettuce](https://eaten676.github.io/foragetheworld/us/plants/wildlettuce/): Lactuca canadensis; Wild lettuce. In season April to June.
+- [Sow thistle](https://eaten676.github.io/foragetheworld/us/plants/sowthistle/): Sonchus oleraceus; Sow thistle. In season March to September.
+- [Wood nettle](https://eaten676.github.io/foragetheworld/us/plants/woodnettle/): Laportea canadensis; Wood nettle. In season April to June.
+- [Greenbrier shoots](https://eaten676.github.io/foragetheworld/us/plants/greenbrier/): Smilax spp.; Greenbrier shoots, Catbrier, Smilax. In season March to June.
+- [Solomon's seal shoots](https://eaten676.github.io/foragetheworld/us/plants/solomonseal/): Polygonatum biflorum; Solomon's seal shoots. In season April to May.
+- [Sochan](https://eaten676.github.io/foragetheworld/us/plants/sochan/): Rudbeckia laciniata; Sochan, Cutleaf coneflower. In season March to May.
+- [Orache](https://eaten676.github.io/foragetheworld/us/plants/orach/): Atriplex patula / A. prostrata; Orache, Spearscale, Saltbush. In season May to September.
+- [Beach pea](https://eaten676.github.io/foragetheworld/us/plants/beachpea/): Lathyrus japonicus; Beach pea. In season June to August.
+- [Silverweed](https://eaten676.github.io/foragetheworld/us/plants/silverweed/): Argentina anserina; Silverweed. In season September to November.
+- [Spring beauty](https://eaten676.github.io/foragetheworld/us/plants/springbeauty/): Claytonia virginica; Spring beauty, Fairy spuds. In season March to May.
+- [Chufa](https://eaten676.github.io/foragetheworld/us/plants/chufa/): Cyperus esculentus; Chufa, Tiger nut, Yellow nutsedge. In season September to November.
+- [Prairie turnip](https://eaten676.github.io/foragetheworld/us/plants/prairieturnip/): Pediomelum esculentum; Prairie turnip, Tîpsinna, Timpsila. In season June to July.
+- [Agave hearts](https://eaten676.github.io/foragetheworld/us/plants/agave/): Agave parryi / A. palmeri; Agave hearts, Mescal. In season April to June.
+- [Kudzu](https://eaten676.github.io/foragetheworld/us/plants/kudzu/): Pueraria montana; Kudzu. In season May to September.
+- [Balsam fir tips](https://eaten676.github.io/foragetheworld/us/plants/balsamfir/): Abies balsamea; Balsam fir tips. In season May to June.
+- [Butternut](https://eaten676.github.io/foragetheworld/us/plants/butternut/): Juglans cinerea; Butternut, White walnut. In season September to October.
+- [Chinquapin](https://eaten676.github.io/foragetheworld/us/plants/chinquapin/): Castanea pumila; Chinquapin, Allegheny chinquapin. In season September to October.
+- [Desert chia](https://eaten676.github.io/foragetheworld/us/plants/chia/): Salvia columbariae; Desert chia, Golden chia. In season May to July.
+- [Palo verde beans](https://eaten676.github.io/foragetheworld/us/plants/paloverde/): Parkinsonia microphylla; Palo verde beans. In season May to June.
+- [Sassafras](https://eaten676.github.io/foragetheworld/us/plants/sassafras/): Sassafras albidum; Sassafras, Filé. In season May to September.
+- [Spicebush](https://eaten676.github.io/foragetheworld/us/plants/spicebush/): Lindera benzoin; Spicebush, Wild allspice. In season August to October.
+- [Sweetfern](https://eaten676.github.io/foragetheworld/us/plants/sweetfern/): Comptonia peregrina; Sweetfern. In season May to September.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/us/plants/pineappleweed/): Matricaria discoidea; Pineapple weed, Wild chamomile. In season June to September.
+- [Wild mint](https://eaten676.github.io/foragetheworld/us/plants/wildmint/): Mentha canadensis; Wild mint, American wild mint. In season June to September.
+- [Japanese honeysuckle flowers](https://eaten676.github.io/foragetheworld/us/plants/honeysuckle/): Lonicera japonica; Japanese honeysuckle flowers. In season May to July.
+- [Clams](https://eaten676.github.io/foragetheworld/us/plants/clam/): Mya arenaria / Leukoma staminea; Clams. In season September to May.
+- [Oysters](https://eaten676.github.io/foragetheworld/us/plants/oyster/): Crassostrea virginica / Magallana gigas; Oysters. In season September to April.
+- [Morel](https://eaten676.github.io/foragetheworld/us/plants/morel/): Morchella spp.; Morel. In season April to June.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/us/plants/oystermush/): Pleurotus ostreatus; Oyster mushroom. In season October to May.
+- [Hen of the woods](https://eaten676.github.io/foragetheworld/us/plants/henwoods/): Grifola frondosa; Hen of the woods, Maitake. In season September to October.
+- [Lion's mane](https://eaten676.github.io/foragetheworld/us/plants/lionsmane/): Hericium spp.; Lion's mane. In season August to November.
+- [Black trumpet](https://eaten676.github.io/foragetheworld/us/plants/blacktrumpet/): Craterellus fallax / C. cornucopioides; Black trumpet, Horn of plenty. In season July to October.
+- [Shaggy mane](https://eaten676.github.io/foragetheworld/us/plants/shaggymane/): Coprinus comatus; Shaggy mane, Lawyer's wig. In season May to October.
+- [Chaga](https://eaten676.github.io/foragetheworld/us/plants/chaga/): Inonotus obliquus; Chaga. In season all year round.
 
 ## Dishes
 
@@ -126,4 +226,49 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Pecan pie](https://eaten676.github.io/foragetheworld/us/dishes/pecan-pie/): Pecans in a caramel custard filling.
 - [Maple taffy on snow](https://eaten676.github.io/foragetheworld/us/dishes/maple-taffy-on-snow/): Maple syrup boiled to soft-ball stage and poured on clean snow.
 - [Mulberry galette](https://eaten676.github.io/foragetheworld/us/dishes/mulberry-galette/): Mulberries in a free-form buttery tart.
+- [Manzanita cider](https://eaten676.github.io/foragetheworld/us/dishes/manzanita-cider/): Crushed ripe berries steeped in cold water and strained, a Californian Native drink.
+- [Fireweed tea](https://eaten676.github.io/foragetheworld/us/dishes/fireweed-tea/): Fermented fireweed leaves brewed as tea.
+- [Beach plum jelly](https://eaten676.github.io/foragetheworld/us/dishes/beach-plum-jelly/): Cape Cod beach plums cooked and strained into jelly.
+- [Mayhaw jelly](https://eaten676.github.io/foragetheworld/us/dishes/mayhaw-jelly/): Louisiana and Georgia's spring jelly.
+- [Ground cherry salsa](https://eaten676.github.io/foragetheworld/us/dishes/ground-cherry-salsa/): Ripe ground cherries with chilli, onion and lime.
+- [Pickled bull kelp](https://eaten676.github.io/foragetheworld/us/dishes/pickled-bull-kelp/): Sliced kelp stipe rings in sweet dill brine.
+- [Chanterelle and wild rice soup](https://eaten676.github.io/foragetheworld/us/dishes/chanterelle-and-wild-rice-soup/): Chanterelles and wild rice in a creamy soup.
+- [Chicken of the woods tacos](https://eaten676.github.io/foragetheworld/us/dishes/chicken-of-the-woods-tacos/): Shredded, seared chicken of the woods in tortillas with salsa.
+- [Puffball parmesan](https://eaten676.github.io/foragetheworld/us/dishes/puffball-parmesan/): Breaded puffball slices baked with tomato and cheese.
+- [Porcini pasta](https://eaten676.github.io/foragetheworld/us/dishes/porcini-pasta/): Porcini sautéed with garlic, tossed with pasta and parmesan.
+- [Muscadine hull pie](https://eaten676.github.io/foragetheworld/us/dishes/muscadine-hull-pie/): Southern pie of muscadine hulls and pulp.
+- [Highbush cranberry pudding](https://eaten676.github.io/foragetheworld/us/dishes/highbush-cranberry-pudding/): Tart berry sauce over steamed pudding.
 - [Wild strawberry shortcake](https://eaten676.github.io/foragetheworld/us/dishes/wild-strawberry-shortcake/): Tiny wild strawberries over biscuits with whipped cream.
+- [Pineapple weed tea](https://eaten676.github.io/foragetheworld/us/dishes/pineapple-weed-tea/): Fresh or dried flower heads steeped like chamomile, with honey.
+- [Wild mint iced tea](https://eaten676.github.io/foragetheworld/us/dishes/wild-mint-iced-tea/): Mint steeped strong, chilled and sweetened, with lemon.
+- [Spicebush tea](https://eaten676.github.io/foragetheworld/us/dishes/spicebush-tea/): Twigs and leaves simmered into a citrusy, spicy tea.
+- [Honeysuckle lemonade](https://eaten676.github.io/foragetheworld/us/dishes/honeysuckle-lemonade/): Honeysuckle flower syrup stirred into fresh lemonade.
+- [Horchata de chufa](https://eaten676.github.io/foragetheworld/us/dishes/horchata-de-chufa/): Soaked tiger nuts blended with water, cinnamon and sugar, strained and chilled.
+- [Chaga tea](https://eaten676.github.io/foragetheworld/us/dishes/chaga-tea/): Chaga chunks simmered for a few hours into a dark, earthy brew.
+- [Chia fresca](https://eaten676.github.io/foragetheworld/us/dishes/chia-fresca/): Chia seeds soaked in water with lime and a little honey.
+- [Fried morels](https://eaten676.github.io/foragetheworld/us/dishes/fried-morels/): Halved morels dredged in flour or cracker crumbs and fried in butter, a Midwest spring ritual.
+- [Steamers with drawn butter](https://eaten676.github.io/foragetheworld/us/dishes/steamers-with-drawn-butter/): Soft-shell clams steamed open and dipped in broth then melted butter.
+- [Oysters on the half shell](https://eaten676.github.io/foragetheworld/us/dishes/oysters-on-the-half-shell/): Freshly shucked oysters with lemon and mignonette.
+- [Sochan greens](https://eaten676.github.io/foragetheworld/us/dishes/sochan-greens/): Young leaves boiled, then fried in bacon fat, the Cherokee way.
+- [Beautyberry jelly](https://eaten676.github.io/foragetheworld/us/dishes/beautyberry-jelly/): Beautyberries simmered and strained into a floral pink jelly.
+- [Black cherry jelly](https://eaten676.github.io/foragetheworld/us/dishes/black-cherry-jelly/): Black cherries cooked, strained of their stones and set into dark jelly.
+- [Wild black currant jam](https://eaten676.github.io/foragetheworld/us/dishes/wild-black-currant-jam/): Wild currants cooked with sugar into a tart, rich jam.
+- [Buffaloberry jelly](https://eaten676.github.io/foragetheworld/us/dishes/buffaloberry-jelly/): Frost-sweetened buffaloberries made into a tangy jelly.
+- [Saguaro fruit syrup](https://eaten676.github.io/foragetheworld/us/dishes/saguaro-fruit-syrup/): Saguaro pulp boiled down into a dark, fig-like syrup.
+- [Sea grape jelly](https://eaten676.github.io/foragetheworld/us/dishes/sea-grape-jelly/): Florida sea grapes cooked and strained into jelly.
+- [Kudzu blossom jelly](https://eaten676.github.io/foragetheworld/us/dishes/kudzu-blossom-jelly/): Grape-scented kudzu flowers steeped and set into purple jelly.
+- [Loquat jam](https://eaten676.github.io/foragetheworld/us/dishes/loquat-jam/): Peeled, seeded loquats cooked into a golden jam.
+- [Wild nori furikake](https://eaten676.github.io/foragetheworld/us/dishes/wild-nori-furikake/): Toasted, crumbled wild nori mixed with sesame and salt.
+- [New England clam chowder](https://eaten676.github.io/foragetheworld/us/dishes/new-england-clam-chowder/): Clams, potato, salt pork and cream.
+- [Mussels in white wine](https://eaten676.github.io/foragetheworld/us/dishes/mussels-in-white-wine/): Mussels steamed with garlic, shallots and white wine.
+- [Roasted hen of the woods](https://eaten676.github.io/foragetheworld/us/dishes/roasted-hen-of-the-woods/): Maitake clusters roasted until crisp at the edges.
+- [Lion's mane crab cakes](https://eaten676.github.io/foragetheworld/us/dishes/lion-s-mane-crab-cakes/): Shredded lion's mane in place of crab, pan-fried.
+- [Morel cream pasta](https://eaten676.github.io/foragetheworld/us/dishes/morel-cream-pasta/): Morels sautéed in butter with shallot and cream over pasta.
+- [Oyster mushroom po' boy](https://eaten676.github.io/foragetheworld/us/dishes/oyster-mushroom-po-boy/): Crispy fried oyster mushrooms in a po' boy roll.
+- [Wood nettle pesto pasta](https://eaten676.github.io/foragetheworld/us/dishes/wood-nettle-pesto-pasta/): Blanched wood nettle blended into pesto and tossed with pasta.
+- [Gumbo with filé](https://eaten676.github.io/foragetheworld/us/dishes/gumbo-with-fil/): Chicken and sausage gumbo thickened at the table with filé powder.
+- [Prairie turnip stew](https://eaten676.github.io/foragetheworld/us/dishes/prairie-turnip-stew/): Dried prairie turnips simmered with bison or beef, after Lakota tradition.
+- [Balsam fir shortbread](https://eaten676.github.io/foragetheworld/us/dishes/balsam-fir-shortbread/): Butter shortbread scented with ground fir tips.
+- [Irish moss blancmange](https://eaten676.github.io/foragetheworld/us/dishes/irish-moss-blancmange/): Irish moss simmered in milk with vanilla and set, a Maine classic.
+- [Dewberry cobbler](https://eaten676.github.io/foragetheworld/us/dishes/dewberry-cobbler/): Early dewberries under a buttery cobbler crust.
+- [Wild apple pie](https://eaten676.github.io/foragetheworld/us/dishes/wild-apple-pie/): Mixed feral apples in a double-crust pie with cinnamon.

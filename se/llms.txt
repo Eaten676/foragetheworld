@@ -1,6 +1,6 @@
 # Forage Sweden
 
-> A free guide to wild food in Sweden: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 14 dishes to cook with them.
+> A free guide to wild food in Sweden: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 25 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -44,6 +44,36 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Wild thyme](https://eaten676.github.io/foragetheworld/se/plants/thyme/): Thymus serpyllum; Backtimjan. In season June to August.
 - [Yarrow](https://eaten676.github.io/foragetheworld/se/plants/yarrow/): Achillea millefolium; Rölleka. In season June to September.
 - [Red clover](https://eaten676.github.io/foragetheworld/se/plants/redclover/): Trifolium pratense; Rödklöver. In season June to August.
+- [Chanterelle](https://eaten676.github.io/foragetheworld/se/plants/chanterelle/): Cantharellus cibarius; Kantarell. In season July to September.
+- [Porcini](https://eaten676.github.io/foragetheworld/se/plants/porcini/): Boletus edulis; Karljohanssvamp. In season July to September.
+- [Giant puffball](https://eaten676.github.io/foragetheworld/se/plants/puffball/): Calvatia gigantea; Jätteröksvamp. In season July to September.
+- [Chicken of the woods](https://eaten676.github.io/foragetheworld/se/plants/chickenwoods/): Laetiporus sulphureus; Svavelticka. In season June to August.
+- [Hedgehog mushroom](https://eaten676.github.io/foragetheworld/se/plants/hedgehog/): Hydnum repandum; Blek taggsvamp. In season August to October.
+- [Cleavers](https://eaten676.github.io/foragetheworld/se/plants/cleavers/): Galium aparine; Snärjmåra. In season April to June.
+- [White and red deadnettle](https://eaten676.github.io/foragetheworld/se/plants/deadnettle/): Lamium album; Plister. In season May to August.
+- [Ground ivy](https://eaten676.github.io/foragetheworld/se/plants/groundivy/): Glechoma hederacea; Jordreva. In season May to July.
+- [Birch sap](https://eaten676.github.io/foragetheworld/se/plants/birchsap/): Betula pendula; Björksav. In season April to May.
+- [Bird cherry](https://eaten676.github.io/foragetheworld/se/plants/birdcherry/): Prunus padus; Hägg. In season August.
+- [Beach rose](https://eaten676.github.io/foragetheworld/se/plants/rugosa/): Rosa rugosa; Vresros. In season August to September.
+- [Heather flowers](https://eaten676.github.io/foragetheworld/se/plants/heather/): Calluna vulgaris; Ljung. In season July to September.
+- [Bog myrtle](https://eaten676.github.io/foragetheworld/se/plants/bogmyrtle/): Myrica gale; Pors. In season June to August.
+- [Scurvy grass](https://eaten676.github.io/foragetheworld/se/plants/scurvygrass/): Cochlearia officinalis; Skörbjuggsört. In season May to July.
+- [Sea rocket](https://eaten676.github.io/foragetheworld/se/plants/searocket/): Cakile maritima; Marviol. In season June to August.
+- [Sea plantain](https://eaten676.github.io/foragetheworld/se/plants/seaplantain/): Plantago maritima; Gulkämpar. In season May to August.
+- [Sea lettuce](https://eaten676.github.io/foragetheworld/se/plants/sealettuce/): Ulva lactuca; Havssallat. In season May to September.
+- [Arctic bramble](https://eaten676.github.io/foragetheworld/se/plants/arcticbramble/): Rubus arcticus; Åkerbär. In season July to August.
+- [Stone bramble](https://eaten676.github.io/foragetheworld/se/plants/stonebramble/): Rubus saxatilis; Stenbär. In season July to August.
+- [Iceland moss](https://eaten676.github.io/foragetheworld/se/plants/icelandmoss/): Cetraria islandica; Islandslav. In season June to September.
+- [Mountain sorrel](https://eaten676.github.io/foragetheworld/se/plants/mountainsorrel/): Oxyria digyna; Fjällsyra. In season June to August.
+- [Wild chives](https://eaten676.github.io/foragetheworld/se/plants/wildchives/): Allium schoenoprasum; Gräslök. In season June to August.
+- [Wild cherry](https://eaten676.github.io/foragetheworld/se/plants/wildcherry/): Prunus avium; Fågelbär. In season July.
+- [Water mint](https://eaten676.github.io/foragetheworld/se/plants/watermint/): Mentha aquatica; Vattenmynta. In season June to August.
+- [Wild marjoram](https://eaten676.github.io/foragetheworld/se/plants/marjoram/): Origanum vulgare; Kungsmynta. In season July to August.
+- [Wild gooseberry](https://eaten676.github.io/foragetheworld/se/plants/gooseberry/): Ribes uva-crispa; Krusbär. In season July to August.
+- [Crab apple](https://eaten676.github.io/foragetheworld/se/plants/crabapple/): Malus sylvestris; Vildapel. In season September to October.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/se/plants/hawthorn/): Crataegus monogyna; Hagtorn. In season September to October.
+- [Periwinkles](https://eaten676.github.io/foragetheworld/se/plants/periwinkle/): Littorina littorea; Strandsnäcka. In season January to December.
+- [Garlic mustard](https://eaten676.github.io/foragetheworld/se/plants/garlicmustard/): Alliaria petiolata; Löktrav. In season April to June.
 
 ## Dishes
 
@@ -61,3 +91,14 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Bilberry soup (blåbärssoppa)](https://eaten676.github.io/foragetheworld/se/dishes/bilberry-soup/): Warm or cold bilberry soup, Vasaloppet skiers' fuel.
 - [Rose hip soup (nyponsoppa)](https://eaten676.github.io/foragetheworld/se/dishes/rose-hip-soup/): Sweet rose hip soup with almond biscuits and cream.
 - [Wild strawberries on a straw (smultron)](https://eaten676.github.io/foragetheworld/se/dishes/wild-strawberries-on-a-straw/): Wild strawberries threaded on a grass stalk, Midsummer style.
+- [Birch sap (björksav)](https://eaten676.github.io/foragetheworld/se/dishes/birch-sap/): Fresh spring sap, chilled.
+- [Rose hip and sea buckthorn juice](https://eaten676.github.io/foragetheworld/se/dishes/rose-hip-and-sea-buckthorn-juice/): Vitamin-packed autumn juice, sweetened with honey.
+- [Chanterelle toast (kantarelltoast)](https://eaten676.github.io/foragetheworld/se/dishes/chanterelle-toast/): Chanterelles fried in butter with shallot and cream on toast.
+- [Fried porcini (stekt karljohan)](https://eaten676.github.io/foragetheworld/se/dishes/fried-porcini/): Thick slices of porcini fried in butter.
+- [Rowan jelly with juniper](https://eaten676.github.io/foragetheworld/se/dishes/rowan-jelly-with-juniper/): Rowan and apple jelly spiced with juniper for game.
+- [Pickled spruce shoots](https://eaten676.github.io/foragetheworld/se/dishes/pickled-spruce-shoots/): Young spruce shoots pickled in sweet vinegar.
+- [Hedgehog mushroom pie](https://eaten676.github.io/foragetheworld/se/dishes/hedgehog-mushroom-pie/): Blek taggsvamp in a cream and cheese pie.
+- [Mussels with chives](https://eaten676.github.io/foragetheworld/se/dishes/mussels-with-chives/): West-coast mussels with wine and wild chives.
+- [Lingonberry rye buns](https://eaten676.github.io/foragetheworld/se/dishes/lingonberry-rye-buns/): Rye buns with lingonberry, a northern classic.
+- [Arctic bramble liqueur cream](https://eaten676.github.io/foragetheworld/se/dishes/arctic-bramble-liqueur-cream/): Åkerbär folded into cream with a splash of liqueur.
+- [Elderflower and gooseberry fool](https://eaten676.github.io/foragetheworld/se/dishes/elderflower-and-gooseberry-fool/): Stewed gooseberries with elderflower folded into cream.

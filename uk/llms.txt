@@ -1,6 +1,6 @@
 # Forage United Kingdom
 
-> A free guide to wild food in the UK: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 22 dishes to cook with them.
+> A free guide to wild food in the UK: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 30 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -56,6 +56,34 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Yarrow](https://eaten676.github.io/foragetheworld/uk/plants/yarrow/): Achillea millefolium; Yarrow. In season June to September.
 - [Red clover](https://eaten676.github.io/foragetheworld/uk/plants/redclover/): Trifolium pratense; Red clover. In season May to September.
 - [Burdock root](https://eaten676.github.io/foragetheworld/uk/plants/burdock/): Arctium lappa; Burdock. In season April to October.
+- [Chanterelle](https://eaten676.github.io/foragetheworld/uk/plants/chanterelle/): Cantharellus cibarius; Chanterelle, Girolle. In season July to October.
+- [Porcini](https://eaten676.github.io/foragetheworld/uk/plants/porcini/): Boletus edulis; Cep, Penny bun. In season August to October.
+- [Giant puffball](https://eaten676.github.io/foragetheworld/uk/plants/puffball/): Calvatia gigantea; Giant puffball. In season July to September.
+- [Chicken of the woods](https://eaten676.github.io/foragetheworld/uk/plants/chickenwoods/): Laetiporus sulphureus; Chicken of the woods. In season May to September.
+- [Hedgehog mushroom](https://eaten676.github.io/foragetheworld/uk/plants/hedgehog/): Hydnum repandum; Hedgehog mushroom, Wood hedgehog. In season August to November.
+- [Cleavers](https://eaten676.github.io/foragetheworld/uk/plants/cleavers/): Galium aparine; Cleavers, Goosegrass. In season February to May.
+- [Hairy bittercress](https://eaten676.github.io/foragetheworld/uk/plants/bittercress/): Cardamine hirsuta; Hairy bittercress. In season January to December.
+- [White and red deadnettle](https://eaten676.github.io/foragetheworld/uk/plants/deadnettle/): Lamium album; Deadnettle. In season March to September.
+- [Ground ivy](https://eaten676.github.io/foragetheworld/uk/plants/groundivy/): Glechoma hederacea; Ground ivy. In season March to June.
+- [Wild cherry](https://eaten676.github.io/foragetheworld/uk/plants/wildcherry/): Prunus avium; Wild cherry, Gean. In season June to July.
+- [Sweet violet](https://eaten676.github.io/foragetheworld/uk/plants/sweetviolet/): Viola odorata; Sweet violet. In season February to April.
+- [Wood avens root](https://eaten676.github.io/foragetheworld/uk/plants/woodavens/): Geum urbanum; Wood avens, Herb Bennet. In season March to October.
+- [Water mint](https://eaten676.github.io/foragetheworld/uk/plants/watermint/): Mentha aquatica; Water mint. In season May to September.
+- [Wild marjoram](https://eaten676.github.io/foragetheworld/uk/plants/marjoram/): Origanum vulgare; Wild marjoram, Oregano. In season June to September.
+- [Gorse flowers](https://eaten676.github.io/foragetheworld/uk/plants/gorse/): Ulex europaeus; Gorse, Furze, Whin. In season February to May.
+- [Bog myrtle](https://eaten676.github.io/foragetheworld/uk/plants/bogmyrtle/): Myrica gale; Bog myrtle, Sweet gale. In season June to September.
+- [Heather flowers](https://eaten676.github.io/foragetheworld/uk/plants/heather/): Calluna vulgaris; Heather, Ling. In season August to September.
+- [Rock samphire](https://eaten676.github.io/foragetheworld/uk/plants/rocksamphire/): Crithmum maritimum; Rock samphire. In season May to August.
+- [Sea purslane](https://eaten676.github.io/foragetheworld/uk/plants/seapurslane/): Atriplex portulacoides; Sea purslane. In season April to October.
+- [Scurvy grass](https://eaten676.github.io/foragetheworld/uk/plants/scurvygrass/): Cochlearia officinalis; Scurvy grass. In season March to July.
+- [Sea rocket](https://eaten676.github.io/foragetheworld/uk/plants/searocket/): Cakile maritima; Sea rocket. In season June to September.
+- [Sea plantain](https://eaten676.github.io/foragetheworld/uk/plants/seaplantain/): Plantago maritima; Sea plantain. In season April to August.
+- [Sea lettuce](https://eaten676.github.io/foragetheworld/uk/plants/sealettuce/): Ulva lactuca; Sea lettuce. In season April to September.
+- [Cherry plum](https://eaten676.github.io/foragetheworld/uk/plants/cherryplum/): Prunus cerasifera; Cherry plum, Mirabelle. In season July to August.
+- [Three-cornered leek](https://eaten676.github.io/foragetheworld/uk/plants/threecorner/): Allium triquetrum; Three-cornered leek, Wild onion. In season February to May.
+- [Birch sap](https://eaten676.github.io/foragetheworld/uk/plants/birchsap/): Betula pendula; Birch sap. In season March to April.
+- [Carrageen moss](https://eaten676.github.io/foragetheworld/uk/plants/carrageen/): Chondrus crispus; Carrageen, Irish moss. In season April to August.
+- [Periwinkles](https://eaten676.github.io/foragetheworld/uk/plants/periwinkle/): Littorina littorea; Periwinkles, Winkles. In season January to December.
 
 ## Dishes
 
@@ -81,3 +109,11 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Gooseberry fool](https://eaten676.github.io/foragetheworld/uk/dishes/gooseberry-fool/): Stewed gooseberries with elderflower folded into cream.
 - [Bilberry pie](https://eaten676.github.io/foragetheworld/uk/dishes/bilberry-pie/): Yorkshire 'mucky mouth' pie of bilberries.
 - [Cranachan with raspberries](https://eaten676.github.io/foragetheworld/uk/dishes/cranachan-with-raspberries/): Toasted oats, whisky, honey, cream and wild raspberries.
+- [Gorse flower cordial](https://eaten676.github.io/foragetheworld/uk/dishes/gorse-flower-cordial/): Coconut-scented cordial from gorse blossom.
+- [Heather and honey tea](https://eaten676.github.io/foragetheworld/uk/dishes/heather-and-honey-tea/): Dried heather flowers steeped with honey.
+- [Rock samphire pickle](https://eaten676.github.io/foragetheworld/uk/dishes/rock-samphire-pickle/): The Shakespearean pickle of rock samphire.
+- [Chanterelles on toast](https://eaten676.github.io/foragetheworld/uk/dishes/chanterelles-on-toast/): Chanterelles in butter with thyme on sourdough.
+- [Cherry plum jam](https://eaten676.github.io/foragetheworld/uk/dishes/cherry-plum-jam/): Golden jam of wild cherry plums.
+- [Wild mushroom risotto](https://eaten676.github.io/foragetheworld/uk/dishes/wild-mushroom-risotto/): Risotto with porcini and hedgehog mushrooms.
+- [Sea purslane with sea bass](https://eaten676.github.io/foragetheworld/uk/dishes/sea-purslane-with-sea-bass/): Pan-fried bass with butter-fried sea purslane.
+- [Nettle and cheese scones](https://eaten676.github.io/foragetheworld/uk/dishes/nettle-and-cheese-scones/): Savoury scones with blanched nettles and cheddar.
