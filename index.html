@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Forage the World: wild food near you</title>
+<meta name="description" content="Free guide to wild food in 12 countries: what's in season near you this month, how to harvest it, what to avoid, and what to cook.">
+<link rel="canonical" href="https://eaten676.github.io/foragetheworld/">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/favicon.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Forage the World">
+<meta property="og:title" content="Forage the World: wild food near you"><meta property="og:description" content="Free guide to wild food in 12 countries: what's in season near you this month, how to harvest it, what to avoid, and what to cook."><meta property="og:url" content="https://eaten676.github.io/foragetheworld/">
+<meta property="og:image" content="https://eaten676.github.io/foragetheworld/img/wildgarlic.webp">
+</head>
+<body><style>
+:root{--bg:#fff;--fg:#141a16;--muted:#5e6b63;--line:#dde3df;--green:#00733a;--moss:#e6f7ee;--display:"Bricolage Grotesque","Avenir Next",system-ui,sans-serif;--body:"Atkinson Hyperlegible",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#121614;--fg:#e8eeea;--muted:#9aa69f;--line:#2a332e;--green:#3ddc84;--moss:#183225;color-scheme:dark}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-left,0px))}
+header{display:flex;align-items:center;gap:10px;height:64px;font:700 1.25rem var(--display)}header img{width:34px;height:34px}header span{color:var(--green)}
+h1{font:700 clamp(2rem,6vw,3.4rem)/1.02 var(--display);letter-spacing:-.025em;margin:28px 0 10px;text-wrap:balance}
+.lead{color:var(--muted);font-size:1.1rem;max-width:56ch;margin:0 0 22px}
+.sug{display:none;background:var(--moss);border-radius:14px;padding:14px 16px;margin:0 0 22px;font-size:1rem}.sug a{color:var(--green);font-weight:700}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px;margin-bottom:40px}
+.cc{text-decoration:none;color:inherit;display:block}.cc img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:14px;background:var(--line);display:block}
+.cc b{display:block;font:700 1.1rem var(--display);margin-top:8px}.cc span{color:var(--muted);font-size:.85rem}
+.cc.me img{outline:3px solid var(--green);outline-offset:2px}
+footer{border-top:1px solid var(--line);padding:20px 0 40px;color:var(--muted);font-size:.85rem}
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<div class="wrap">
+<header><img src="img/logo-f.png" alt="">Forage <span>the World</span></header>
+<h1>What's wild near you this month</h1>
+<p class="lead">Pick your country to see which wild greens, berries, nuts and roots are in season where you live, how to harvest them, what to avoid, and what to cook.</p>
+<p class="sug" id="sug"></p>
+<div class="grid"><a class="cc" href="us/" data-c="us"><img src="img/pawpaw.webp" alt="" loading="lazy"><b>United States</b><span>73 wild foods · 41 dishes</span></a><a class="cc" href="ch/" data-c="ch"><img src="img/wildgarlic.webp" alt="" loading="lazy"><b>Switzerland</b><span>43 wild foods · 23 dishes</span></a><a class="cc" href="au/" data-c="au"><img src="img/fingerlime.webp" alt="" loading="lazy"><b>Australia</b><span>27 wild foods · 22 dishes</span></a><a class="cc" href="no/" data-c="no"><img src="img/cloudberry.webp" alt="" loading="lazy"><b>Norway</b><span>32 wild foods · 17 dishes</span></a><a class="cc" href="dk/" data-c="dk"><img src="img/elderflower.webp" alt="" loading="lazy"><b>Denmark</b><span>44 wild foods · 17 dishes</span></a><a class="cc" href="ca/" data-c="ca"><img src="img/serviceberry.webp" alt="" loading="lazy"><b>Canada</b><span>58 wild foods · 20 dishes</span></a><a class="cc" href="uk/" data-c="uk"><img src="img/blackberry.webp" alt="" loading="lazy"><b>United Kingdom</b><span>46 wild foods · 22 dishes</span></a><a class="cc" href="de/" data-c="de"><img src="img/bilberry.webp" alt="" loading="lazy"><b>Germany</b><span>48 wild foods · 19 dishes</span></a><a class="cc" href="nl/" data-c="nl"><img src="img/seabuckthorn.webp" alt="" loading="lazy"><b>Netherlands</b><span>40 wild foods · 13 dishes</span></a><a class="cc" href="se/" data-c="se"><img src="img/lingonberry.webp" alt="" loading="lazy"><b>Sweden</b><span>34 wild foods · 14 dishes</span></a><a class="cc" href="nz/" data-c="nz"><img src="img/kawakawa.webp" alt="" loading="lazy"><b>New Zealand</b><span>21 wild foods · 15 dishes</span></a><a class="cc" href="https://eaten676.github.io/forage-india/" data-c="in"><img src="img/nettle.webp" alt="" loading="lazy"><b>India</b><span>100 wild foods · 124 dishes</span></a></div>
+<footer>Seasons and ranges are approximate. Identify every plant with an experienced local before eating it. Photos from Wikimedia Commons under free licences, credited in each guide.</footer>
+</div>
+<script>
+const TZ={"us": "America/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Anchorage|Detroit|Indiana|Kentucky|Boise)|Pacific/Honolulu", "ca": "America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Montreal|Whitehorse|Yellowknife)", "ch": "Europe/Zurich", "au": "Australia/", "no": "Europe/Oslo", "dk": "Europe/Copenhagen", "uk": "Europe/London", "de": "Europe/Berlin", "nl": "Europe/Amsterdam", "se": "Europe/Stockholm", "nz": "Pacific/Auckland", "in": "Asia/(Kolkata|Calcutta)"};const NAMES={"us": "United States", "ch": "Switzerland", "au": "Australia", "no": "Norway", "dk": "Denmark", "ca": "Canada", "uk": "United Kingdom", "de": "Germany", "nl": "Netherlands", "se": "Sweden", "nz": "New Zealand", "in": "India"};
+try{const tz=Intl.DateTimeFormat().resolvedOptions().timeZone||"";const k=Object.keys(TZ).find(k=>new RegExp(TZ[k]).test(tz));
+if(k){const a=document.querySelector('[data-c="'+k+'"]');a.classList.add("me");const s=document.getElementById("sug");s.innerHTML='Looks like you\'re in '+NAMES[k]+'. <a href="'+a.getAttribute("href")+'">Open Forage '+NAMES[k]+' →</a>';s.style.display="block"}}catch(e){}
+</script>
+<script>if('serviceWorker' in navigator){addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}))}</script>
+</body>
+</html>

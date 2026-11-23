@@ -1,0 +1,68 @@
+# Forage Netherlands
+
+> A free guide to wild food in the Netherlands: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 13 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/nl/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/nl/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/nl/dishes/)
+
+## Wild plants
+
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/nl/plants/nettle/): Urtica dioica; Brandnetel. In season March to June.
+- [Wild garlic](https://eaten676.github.io/foragetheworld/nl/plants/wildgarlic/): Allium ursinum; Daslook. In season March to May.
+- [Dandelion](https://eaten676.github.io/foragetheworld/nl/plants/dandelion/): Taraxacum officinale; Paardenbloem. In season March to October.
+- [Ground elder](https://eaten676.github.io/foragetheworld/nl/plants/groundelder/): Aegopodium podagraria; Zevenblad. In season March to June.
+- [Chickweed](https://eaten676.github.io/foragetheworld/nl/plants/chickweed/): Stellaria media; Vogelmuur. In season March to November.
+- [Common sorrel](https://eaten676.github.io/foragetheworld/nl/plants/sorrel/): Rumex acetosa; Veldzuring. In season April to August.
+- [Garlic mustard](https://eaten676.github.io/foragetheworld/nl/plants/garlicmustard/): Alliaria petiolata; Look-zonder-look. In season March to June.
+- [Fat hen](https://eaten676.github.io/foragetheworld/nl/plants/fathen/): Chenopodium album; Melganzenvoet. In season May to September.
+- [Ribwort plantain](https://eaten676.github.io/foragetheworld/nl/plants/plantain/): Plantago lanceolata; Smalle weegbree. In season April to September.
+- [Watercress](https://eaten676.github.io/foragetheworld/nl/plants/watercress/): Nasturtium officinale; Witte waterkers. In season March to October.
+- [Hop shoots](https://eaten676.github.io/foragetheworld/nl/plants/hops/): Humulus lupulus; Hopscheuten. In season March to May.
+- [Sea beet](https://eaten676.github.io/foragetheworld/nl/plants/seabeet/): Beta vulgaris subsp. maritima; Strandbiet. In season March to October.
+- [Marsh samphire](https://eaten676.github.io/foragetheworld/nl/plants/samphire/): Salicornia europaea; Zeekraal. In season June to August.
+- [Blue mussels](https://eaten676.github.io/foragetheworld/nl/plants/mussel/): Mytilus edulis; Mossel. In season January to December.
+- [Sweet woodruff](https://eaten676.github.io/foragetheworld/nl/plants/woodruff/): Galium odoratum; Lievevrouwebedstro. In season April to May.
+- [Blackberry](https://eaten676.github.io/foragetheworld/nl/plants/blackberry/): Rubus fruticosus; Braam. In season August to September.
+- [Wild raspberry](https://eaten676.github.io/foragetheworld/nl/plants/raspberry/): Rubus idaeus; Framboos. In season July to August.
+- [Bilberry](https://eaten676.github.io/foragetheworld/nl/plants/bilberry/): Vaccinium myrtillus; Blauwe bosbes. In season July to August.
+- [Wild strawberry](https://eaten676.github.io/foragetheworld/nl/plants/strawberry/): Fragaria vesca; Bosaardbei. In season June to July.
+- [Elderberry](https://eaten676.github.io/foragetheworld/nl/plants/elderberry/): Sambucus nigra; Vlierbes. In season August to September.
+- [Elderflower](https://eaten676.github.io/foragetheworld/nl/plants/elderflower/): Sambucus nigra; Vlierbloesem. In season May to June.
+- [Sloe](https://eaten676.github.io/foragetheworld/nl/plants/sloe/): Prunus spinosa; Sleedoorn. In season September to November.
+- [Rose hips](https://eaten676.github.io/foragetheworld/nl/plants/rosehip/): Rosa canina; Rozenbottel. In season September to November.
+- [Rowan berries](https://eaten676.github.io/foragetheworld/nl/plants/rowan/): Sorbus aucuparia; Lijsterbes. In season August to October.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/nl/plants/hawthorn/): Crataegus monogyna; Meidoorn. In season September to October.
+- [Crab apple](https://eaten676.github.io/foragetheworld/nl/plants/crabapple/): Malus sylvestris; Wilde appel. In season September to October.
+- [Sea buckthorn](https://eaten676.github.io/foragetheworld/nl/plants/seabuckthorn/): Hippophae rhamnoides; Duindoorn. In season August to October.
+- [Bog cranberry](https://eaten676.github.io/foragetheworld/nl/plants/cranberry/): Vaccinium oxycoccos; Kleine veenbes. In season September to October.
+- [Crowberry](https://eaten676.github.io/foragetheworld/nl/plants/crowberry/): Empetrum nigrum; Kraaihei. In season August to September.
+- [Wild blackcurrant](https://eaten676.github.io/foragetheworld/nl/plants/blackcurrant/): Ribes nigrum; Zwarte bes. In season July to August.
+- [Juniper berries](https://eaten676.github.io/foragetheworld/nl/plants/juniper/): Juniperus communis; Jeneverbes. In season September to November.
+- [Hazelnut](https://eaten676.github.io/foragetheworld/nl/plants/hazelnut/): Corylus avellana; Hazelnoot. In season August to October.
+- [Sweet chestnut](https://eaten676.github.io/foragetheworld/nl/plants/chestnut/): Castanea sativa; Tamme kastanje. In season October to November.
+- [Walnut](https://eaten676.github.io/foragetheworld/nl/plants/walnut/): Juglans regia; Walnoot. In season September to October.
+- [Beechnut](https://eaten676.github.io/foragetheworld/nl/plants/beechnut/): Fagus sylvatica; Beukennootje. In season September to October.
+- [Meadowsweet](https://eaten676.github.io/foragetheworld/nl/plants/meadowsweet/): Filipendula ulmaria; Moerasspirea. In season June to August.
+- [Lime blossom](https://eaten676.github.io/foragetheworld/nl/plants/linden/): Tilia cordata; Linde. In season June to July.
+- [Wild chamomile](https://eaten676.github.io/foragetheworld/nl/plants/chamomile/): Matricaria chamomilla; Echte kamille. In season June to August.
+- [Yarrow](https://eaten676.github.io/foragetheworld/nl/plants/yarrow/): Achillea millefolium; Duizendblad. In season June to September.
+- [Red clover](https://eaten676.github.io/foragetheworld/nl/plants/redclover/): Trifolium pratense; Rode klaver. In season May to September.
+
+## Dishes
+
+- [Elderflower syrup (vlierbloesemsiroop)](https://eaten676.github.io/foragetheworld/nl/dishes/elderflower-syrup/): Flower heads steeped with lemon, strained and boiled with sugar.
+- [Sea buckthorn juice (duindoornsap)](https://eaten676.github.io/foragetheworld/nl/dishes/sea-buckthorn-juice/): Tart orange berries from the dunes, juiced and sweetened.
+- [Rose hip tea (rozenbotteltee)](https://eaten676.github.io/foragetheworld/nl/dishes/rose-hip-tea/): Dried rose hips simmered into a tangy tea.
+- [Zeeland mussels (Zeeuwse mosselen)](https://eaten676.github.io/foragetheworld/nl/dishes/zeeland-mussels/): Mussels steamed with celery, onion and white wine, with fries.
+- [Fried samphire (zeekraal)](https://eaten676.github.io/foragetheworld/nl/dishes/fried-samphire/): Samphire tossed in butter with garlic.
+- [Blackberry jam (bramenjam)](https://eaten676.github.io/foragetheworld/nl/dishes/blackberry-jam/): Blackberries cooked with sugar and lemon.
+- [Rowan jelly (lijsterbessengelei)](https://eaten676.github.io/foragetheworld/nl/dishes/rowan-jelly/): Rowan with apple, cooked and set for game.
+- [Wild garlic pesto (daslookpesto)](https://eaten676.github.io/foragetheworld/nl/dishes/wild-garlic-pesto/): Wild garlic with cheese, nuts and oil.
+- [Nettle soup (brandnetelsoep)](https://eaten676.github.io/foragetheworld/nl/dishes/nettle-soup/): Young nettles in a creamy potato soup.
+- [Sea beet stamppot](https://eaten676.github.io/foragetheworld/nl/dishes/sea-beet-stamppot/): Mashed potatoes stirred with wilted sea beet and smoked sausage.
+- [Hazelnut cake (hazelnotentaart)](https://eaten676.github.io/foragetheworld/nl/dishes/hazelnut-cake/): Buttery cake with toasted hazelnuts.
+- [Elderberry pudding (vlierbessenpudding)](https://eaten676.github.io/foragetheworld/nl/dishes/elderberry-pudding/): Cooked elderberries thickened into a dark pudding.
+- [Blackberry crumble (bramencrumble)](https://eaten676.github.io/foragetheworld/nl/dishes/blackberry-crumble/): Blackberries under an oat crumble.

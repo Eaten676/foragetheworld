@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eaten676.github.io/foragetheworld/sitemap.xml

@@ -1,0 +1,82 @@
+# Forage Germany
+
+> A free guide to wild food in Germany: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 19 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/de/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/de/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/de/dishes/)
+
+## Wild plants
+
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/de/plants/nettle/): Urtica dioica; Brennnessel. In season March to June.
+- [Wild garlic](https://eaten676.github.io/foragetheworld/de/plants/wildgarlic/): Allium ursinum; Bärlauch. In season March to May.
+- [Dandelion](https://eaten676.github.io/foragetheworld/de/plants/dandelion/): Taraxacum officinale; Löwenzahn. In season March to October.
+- [Ground elder](https://eaten676.github.io/foragetheworld/de/plants/groundelder/): Aegopodium podagraria; Giersch. In season March to June.
+- [Chickweed](https://eaten676.github.io/foragetheworld/de/plants/chickweed/): Stellaria media; Vogelmiere. In season March to November.
+- [Common sorrel](https://eaten676.github.io/foragetheworld/de/plants/sorrel/): Rumex acetosa; Sauerampfer. In season April to August.
+- [Wood sorrel](https://eaten676.github.io/foragetheworld/de/plants/woodsorrel/): Oxalis acetosella; Waldsauerklee. In season April to September.
+- [Garlic mustard](https://eaten676.github.io/foragetheworld/de/plants/garlicmustard/): Alliaria petiolata; Knoblauchsrauke. In season March to June.
+- [Fat hen](https://eaten676.github.io/foragetheworld/de/plants/fathen/): Chenopodium album; Weißer Gänsefuß. In season May to September.
+- [Ribwort plantain](https://eaten676.github.io/foragetheworld/de/plants/plantain/): Plantago lanceolata; Spitzwegerich. In season April to September.
+- [Watercress](https://eaten676.github.io/foragetheworld/de/plants/watercress/): Nasturtium officinale; Brunnenkresse. In season March to October.
+- [Hop shoots](https://eaten676.github.io/foragetheworld/de/plants/hops/): Humulus lupulus; Hopfensprossen. In season March to May.
+- [Spruce tips](https://eaten676.github.io/foragetheworld/de/plants/spruce/): Picea abies; Fichtenspitzen. In season May to June.
+- [Sweet woodruff](https://eaten676.github.io/foragetheworld/de/plants/woodruff/): Galium odoratum; Waldmeister. In season April to May.
+- [Good King Henry](https://eaten676.github.io/foragetheworld/de/plants/goodking/): Blitum bonus-henricus; Guter Heinrich. In season April to July.
+- [Sea beet](https://eaten676.github.io/foragetheworld/de/plants/seabeet/): Beta vulgaris subsp. maritima; Wilde Rübe. In season March to October.
+- [Marsh samphire](https://eaten676.github.io/foragetheworld/de/plants/samphire/): Salicornia europaea; Queller. In season June to August.
+- [Blue mussels](https://eaten676.github.io/foragetheworld/de/plants/mussel/): Mytilus edulis; Miesmuschel. In season January to December.
+- [Blackberry](https://eaten676.github.io/foragetheworld/de/plants/blackberry/): Rubus fruticosus; Brombeere. In season August to September.
+- [Wild raspberry](https://eaten676.github.io/foragetheworld/de/plants/raspberry/): Rubus idaeus; Himbeere. In season July to August.
+- [Bilberry](https://eaten676.github.io/foragetheworld/de/plants/bilberry/): Vaccinium myrtillus; Heidelbeere. In season July to August.
+- [Lingonberry](https://eaten676.github.io/foragetheworld/de/plants/lingonberry/): Vaccinium vitis-idaea; Preiselbeere. In season August to October.
+- [Wild strawberry](https://eaten676.github.io/foragetheworld/de/plants/strawberry/): Fragaria vesca; Walderdbeere. In season June to July.
+- [Elderberry](https://eaten676.github.io/foragetheworld/de/plants/elderberry/): Sambucus nigra; Holunderbeere, Holder. In season August to September.
+- [Elderflower](https://eaten676.github.io/foragetheworld/de/plants/elderflower/): Sambucus nigra; Holunderblüte. In season May to June.
+- [Sloe](https://eaten676.github.io/foragetheworld/de/plants/sloe/): Prunus spinosa; Schlehe. In season September to November.
+- [Rose hips](https://eaten676.github.io/foragetheworld/de/plants/rosehip/): Rosa canina; Hagebutte. In season September to November.
+- [Rowan berries](https://eaten676.github.io/foragetheworld/de/plants/rowan/): Sorbus aucuparia; Vogelbeere, Eberesche. In season August to October.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/de/plants/hawthorn/): Crataegus monogyna; Weißdorn. In season September to October.
+- [Crab apple](https://eaten676.github.io/foragetheworld/de/plants/crabapple/): Malus sylvestris; Holzapfel. In season September to October.
+- [Sea buckthorn](https://eaten676.github.io/foragetheworld/de/plants/seabuckthorn/): Hippophae rhamnoides; Sanddorn. In season August to October.
+- [Bog cranberry](https://eaten676.github.io/foragetheworld/de/plants/cranberry/): Vaccinium oxycoccos; Moosbeere. In season September to October.
+- [Wild blackcurrant](https://eaten676.github.io/foragetheworld/de/plants/blackcurrant/): Ribes nigrum; Schwarze Johannisbeere. In season July to August.
+- [Wild gooseberry](https://eaten676.github.io/foragetheworld/de/plants/gooseberry/): Ribes uva-crispa; Stachelbeere. In season June to July.
+- [Cornelian cherry](https://eaten676.github.io/foragetheworld/de/plants/cornel/): Cornus mas; Kornelkirsche, Tierlibaum. In season August to September.
+- [Barberry](https://eaten676.github.io/foragetheworld/de/plants/barberry/): Berberis vulgaris; Berberitze, Sauerdorn. In season September to October.
+- [Juniper berries](https://eaten676.github.io/foragetheworld/de/plants/juniper/): Juniperus communis; Wacholder. In season September to November.
+- [Hazelnut](https://eaten676.github.io/foragetheworld/de/plants/hazelnut/): Corylus avellana; Haselnuss. In season August to October.
+- [Sweet chestnut](https://eaten676.github.io/foragetheworld/de/plants/chestnut/): Castanea sativa; Edelkastanie, Marroni. In season October to November.
+- [Walnut](https://eaten676.github.io/foragetheworld/de/plants/walnut/): Juglans regia; Walnuss, Baumnuss. In season September to October.
+- [Beechnut](https://eaten676.github.io/foragetheworld/de/plants/beechnut/): Fagus sylvatica; Buchecker. In season September to October.
+- [Meadowsweet](https://eaten676.github.io/foragetheworld/de/plants/meadowsweet/): Filipendula ulmaria; Mädesüß. In season June to August.
+- [Lime blossom](https://eaten676.github.io/foragetheworld/de/plants/linden/): Tilia cordata; Lindenblüte. In season June to July.
+- [Wild chamomile](https://eaten676.github.io/foragetheworld/de/plants/chamomile/): Matricaria chamomilla; Kamille. In season June to August.
+- [Wild thyme](https://eaten676.github.io/foragetheworld/de/plants/thyme/): Thymus serpyllum; Feldthymian. In season June to August.
+- [Yarrow](https://eaten676.github.io/foragetheworld/de/plants/yarrow/): Achillea millefolium; Schafgarbe. In season June to September.
+- [Red clover](https://eaten676.github.io/foragetheworld/de/plants/redclover/): Trifolium pratense; Rotklee. In season May to September.
+- [Burdock root](https://eaten676.github.io/foragetheworld/de/plants/burdock/): Arctium lappa; Große Klette. In season April to October.
+
+## Dishes
+
+- [Elderflower syrup (Holunderblütensirup)](https://eaten676.github.io/foragetheworld/de/dishes/elderflower-syrup/): Flowers steeped with lemon, strained and boiled with sugar. Mixed with sparkling water as Hugo or Holunderschorle.
+- [Woodruff punch (Maibowle)](https://eaten676.github.io/foragetheworld/de/dishes/woodruff-punch/): Wilted woodruff briefly steeped in white wine and topped with sparkling wine.
+- [Sea buckthorn juice (Sanddornsaft)](https://eaten676.github.io/foragetheworld/de/dishes/sea-buckthorn-juice/): Sour Baltic coast berries juiced and sweetened.
+- [Sloe liqueur (Schlehenlikör)](https://eaten676.github.io/foragetheworld/de/dishes/sloe-liqueur/): Frosted sloes steeped in grain spirit with rock sugar.
+- [Rose hip tea (Hagebuttentee)](https://eaten676.github.io/foragetheworld/de/dishes/rose-hip-tea/): Dried rose hips simmered into a ruby tea.
+- [Elderflower fritters (Hollerküchle)](https://eaten676.github.io/foragetheworld/de/dishes/elderflower-fritters/): Flower heads in pancake batter, fried and sugared. A Bavarian and Swabian favourite.
+- [Wild garlic soup (Bärlauchsuppe)](https://eaten676.github.io/foragetheworld/de/dishes/wild-garlic-soup/): Creamy potato soup blended with wild garlic.
+- [Roasted chestnuts (Maronen)](https://eaten676.github.io/foragetheworld/de/dishes/roasted-chestnuts/): Scored and roasted chestnuts from Christmas markets.
+- [Wild garlic pesto (Bärlauchpesto)](https://eaten676.github.io/foragetheworld/de/dishes/wild-garlic-pesto/): Wild garlic, hard cheese, nuts and oil.
+- [Lingonberry compote (Preiselbeeren)](https://eaten676.github.io/foragetheworld/de/dishes/lingonberry-compote/): Lingonberries cooked with sugar to serve with game and Wiener Schnitzel.
+- [Dandelion syrup (Löwenzahnhonig)](https://eaten676.github.io/foragetheworld/de/dishes/dandelion-syrup/): Flower heads simmered with lemon and sugar into a vegan 'honey'.
+- [Ground elder pesto (Gierschpesto)](https://eaten676.github.io/foragetheworld/de/dishes/ground-elder-pesto/): Young ground elder leaves blended with nuts and oil.
+- [Nettle spinach (Brennnesselspinat)](https://eaten676.github.io/foragetheworld/de/dishes/nettle-spinach/): Blanched nettles creamed with onion and nutmeg, with fried eggs and potatoes.
+- [Wild garlic Maultaschen](https://eaten676.github.io/foragetheworld/de/dishes/wild-garlic-maultaschen/): Swabian pasta pockets filled with wild garlic and meat or cheese.
+- [Hop shoots in butter (Hopfenspargel)](https://eaten676.github.io/foragetheworld/de/dishes/hop-shoots-in-butter/): Blanched hop shoots in butter, a Hallertau spring delicacy.
+- [Bilberry pancakes (Heidelbeerpfannkuchen)](https://eaten676.github.io/foragetheworld/de/dishes/bilberry-pancakes/): Thick pancakes studded with bilberries, a Black Forest classic.
+- [Elderberry soup (Fliederbeersuppe)](https://eaten676.github.io/foragetheworld/de/dishes/elderberry-soup/): Northern German hot elderberry soup with apple and semolina dumplings.
+- [Red berry pudding (Rote Grütze)](https://eaten676.github.io/foragetheworld/de/dishes/red-berry-pudding/): Summer berries thickened with starch, with vanilla sauce.
+- [Gooseberry meringue cake (Stachelbeerbaiser)](https://eaten676.github.io/foragetheworld/de/dishes/gooseberry-meringue-cake/): Gooseberries under a crisp meringue on shortcrust.

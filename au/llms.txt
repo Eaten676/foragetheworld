@@ -1,0 +1,64 @@
+# Forage Australia
+
+> A free guide to wild food in Australia: which wild plants are in season in each state and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 22 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/au/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/au/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/au/dishes/)
+
+## Wild plants
+
+- [Warrigal greens](https://eaten676.github.io/foragetheworld/au/plants/warrigal/): Tetragonia tetragonioides; Warrigal greens, New Zealand spinach. In season September to April.
+- [Old man saltbush](https://eaten676.github.io/foragetheworld/au/plants/saltbush/): Atriplex nummularia; Saltbush. In season all year round.
+- [Pigface](https://eaten676.github.io/foragetheworld/au/plants/pigface/): Carpobrotus glaucescens; Pigface, Coastal pigface. In season December to March.
+- [Lilly pilly](https://eaten676.github.io/foragetheworld/au/plants/lillypilly/): Syzygium smithii; Lilly pilly, Riberry. In season February to June.
+- [Finger lime](https://eaten676.github.io/foragetheworld/au/plants/fingerlime/): Citrus australasica; Finger lime, Caviar lime. In season December to May.
+- [Davidson's plum](https://eaten676.github.io/foragetheworld/au/plants/davidson/): Davidsonia jerseyana; Davidson's plum. In season November to February.
+- [Quandong](https://eaten676.github.io/foragetheworld/au/plants/quandong/): Santalum acuminatum; Quandong, Desert peach. In season September to December.
+- [Muntries](https://eaten676.github.io/foragetheworld/au/plants/muntries/): Kunzea pomifera; Muntries, Emu apple. In season January to March.
+- [Desert lime](https://eaten676.github.io/foragetheworld/au/plants/desertlime/): Citrus glauca; Desert lime. In season November to January.
+- [Kakadu plum](https://eaten676.github.io/foragetheworld/au/plants/kakadu/): Terminalia ferdinandiana; Kakadu plum, Gubinge, Billygoat plum. In season March to June.
+- [Desert raisin](https://eaten676.github.io/foragetheworld/au/plants/bushtomato/): Solanum centrale; Bush tomato, Akudjura. In season April to July.
+- [Native raspberry](https://eaten676.github.io/foragetheworld/au/plants/nativeraspberry/): Rubus rosifolius; Rose-leaf bramble, Native raspberry. In season September to December.
+- [Sandpaper fig](https://eaten676.github.io/foragetheworld/au/plants/sandpaperfig/): Ficus coronata; Sandpaper fig. In season December to March.
+- [Blackberry](https://eaten676.github.io/foragetheworld/au/plants/blackberry/): Rubus fruticosus; Blackberry. In season January to March.
+- [Macadamia](https://eaten676.github.io/foragetheworld/au/plants/macadamia/): Macadamia integrifolia; Macadamia, Bauple nut. In season March to August.
+- [Bunya nut](https://eaten676.github.io/foragetheworld/au/plants/bunya/): Araucaria bidwillii; Bunya nut. In season January to March.
+- [Wattleseed](https://eaten676.github.io/foragetheworld/au/plants/wattleseed/): Acacia victoriae; Wattleseed, Elegant wattle. In season November to January.
+- [Lemon myrtle](https://eaten676.github.io/foragetheworld/au/plants/lemonmyrtle/): Backhousia citriodora; Lemon myrtle. In season all year round.
+- [Mountain pepper](https://eaten676.github.io/foragetheworld/au/plants/pepperberry/): Tasmannia lanceolata; Tasmanian pepperberry. In season March to May.
+- [River mint](https://eaten676.github.io/foragetheworld/au/plants/rivermint/): Mentha australis; River mint. In season September to April.
+- [Yam daisy](https://eaten676.github.io/foragetheworld/au/plants/murnong/): Microseris walteri; Murnong, Yam daisy. In season May to August.
+- [Cumbungi](https://eaten676.github.io/foragetheworld/au/plants/cumbungi/): Typha domingensis; Cumbungi, Bulrush. In season September to December.
+- [Samphire](https://eaten676.github.io/foragetheworld/au/plants/seasamphire/): Tecticornia; Samphire, Glasswort. In season September to March.
+- [Wild fennel](https://eaten676.github.io/foragetheworld/au/plants/fennel/): Foeniculum vulgare; Wild fennel. In season August to December.
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/au/plants/nettle/): Urtica incisa; Scrub nettle. In season August to November.
+- [Prickly pear](https://eaten676.github.io/foragetheworld/au/plants/pricklypear/): Opuntia; Prickly pear. In season January to April.
+- [Mussels](https://eaten676.github.io/foragetheworld/au/plants/mussel/): Mytilus galloprovincialis; Blue mussel. In season April to October.
+
+## Dishes
+
+- [Lemon myrtle iced tea](https://eaten676.github.io/foragetheworld/au/dishes/lemon-myrtle-iced-tea/): Lemon myrtle leaves steeped, chilled, with honey.
+- [Lilly pilly cordial](https://eaten676.github.io/foragetheworld/au/dishes/lilly-pilly-cordial/): Berries simmered with sugar and lemon, strained.
+- [Desert lime cordial](https://eaten676.github.io/foragetheworld/au/dishes/desert-lime-cordial/): Whole desert limes cooked into a tangy cordial.
+- [Kakadu plum juice](https://eaten676.github.io/foragetheworld/au/dishes/kakadu-plum-juice/): Kakadu plum pulp blended with water and honey.
+- [River mint tea](https://eaten676.github.io/foragetheworld/au/dishes/river-mint-tea/): Fresh river mint steeped in hot water.
+- [Oysters with finger lime](https://eaten676.github.io/foragetheworld/au/dishes/oysters-with-finger-lime/): Fresh oysters topped with finger lime pearls.
+- [Saltbush chips](https://eaten676.github.io/foragetheworld/au/dishes/saltbush-chips/): Saltbush leaves fried crisp in light batter.
+- [Roasted bunya nuts](https://eaten676.github.io/foragetheworld/au/dishes/roasted-bunya-nuts/): Boiled and roasted bunya nuts with salt.
+- [Steamed mussels with river mint](https://eaten676.github.io/foragetheworld/au/dishes/steamed-mussels-with-river-mint/): Mussels steamed with garlic, white wine and native mint.
+- [Davidson's plum jam](https://eaten676.github.io/foragetheworld/au/dishes/davidson-s-plum-jam/): Sour plums cooked with sugar into a deep red jam.
+- [Quandong chutney](https://eaten676.github.io/foragetheworld/au/dishes/quandong-chutney/): Dried quandongs simmered with onion, vinegar and spice.
+- [Warrigal greens pesto](https://eaten676.github.io/foragetheworld/au/dishes/warrigal-greens-pesto/): Blanched warrigal greens with macadamias, oil and cheese.
+- [Pickled samphire](https://eaten676.github.io/foragetheworld/au/dishes/pickled-samphire/): Samphire tips in spiced vinegar.
+- [Warrigal greens and feta pie](https://eaten676.github.io/foragetheworld/au/dishes/warrigal-greens-and-feta-pie/): Blanched greens in filo with feta and egg.
+- [Saltbush lamb](https://eaten676.github.io/foragetheworld/au/dishes/saltbush-lamb/): Lamb rubbed with dried saltbush and pepperberry, roasted.
+- [Bush tomato kangaroo](https://eaten676.github.io/foragetheworld/au/dishes/bush-tomato-kangaroo/): Kangaroo fillet with a bush tomato and pepperberry rub.
+- [Wattleseed damper](https://eaten676.github.io/foragetheworld/au/dishes/wattleseed-damper/): Campfire bread made with roasted ground wattleseed.
+- [Lemon myrtle shortbread](https://eaten676.github.io/foragetheworld/au/dishes/lemon-myrtle-shortbread/): Buttery shortbread scented with dried lemon myrtle.
+- [Quandong pie](https://eaten676.github.io/foragetheworld/au/dishes/quandong-pie/): Outback classic of quandong halves in shortcrust.
+- [Macadamia and wattleseed ice cream](https://eaten676.github.io/foragetheworld/au/dishes/macadamia-and-wattleseed-ice-cream/): Coffee-like wattleseed custard with toasted macadamias.
+- [Muntrie crumble](https://eaten676.github.io/foragetheworld/au/dishes/muntrie-crumble/): Spiced-apple muntries under an oat crumble.
+- [Finger lime pavlova](https://eaten676.github.io/foragetheworld/au/dishes/finger-lime-pavlova/): Pavlova topped with cream and finger lime caviar.

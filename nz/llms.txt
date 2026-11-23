@@ -1,0 +1,51 @@
+# Forage New Zealand
+
+> A free guide to wild food in New Zealand: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 15 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/nz/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/nz/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/nz/dishes/)
+
+## Wild plants
+
+- [Kawakawa](https://eaten676.github.io/foragetheworld/nz/plants/kawakawa/): Piper excelsum; Kawakawa. In season all year round.
+- [Pūhā](https://eaten676.github.io/foragetheworld/nz/plants/puha/): Sonchus oleraceus; Pūhā, Sow thistle. In season all year round.
+- [Pikopiko](https://eaten676.github.io/foragetheworld/nz/plants/pikopiko/): Asplenium bulbiferum; Pikopiko, Hen and chickens fern. In season August to November.
+- [Kōkihi](https://eaten676.github.io/foragetheworld/nz/plants/kokihi/): Tetragonia tetragonioides; Kōkihi, NZ spinach. In season October to April.
+- [Horopito](https://eaten676.github.io/foragetheworld/nz/plants/horopito/): Pseudowintera colorata; Horopito, Pepper tree. In season all year round.
+- [Karengo](https://eaten676.github.io/foragetheworld/nz/plants/karengo/): Pyropia; Karengo, Nori. In season July to November.
+- [Kōuka](https://eaten676.github.io/foragetheworld/nz/plants/kouka/): Cordyline australis; Kōuka, Cabbage tree. In season August to November.
+- [Supplejack shoots](https://eaten676.github.io/foragetheworld/nz/plants/supplejack/): Ripogonum scandens; Kareao, Supplejack. In season September to December.
+- [Kōnini](https://eaten676.github.io/foragetheworld/nz/plants/konini/): Fuchsia excorticata; Kōnini, Tree fuchsia. In season December to March.
+- [Watercress](https://eaten676.github.io/foragetheworld/nz/plants/watercress/): Nasturtium officinale; Watercress, Wātakirihi. In season August to December.
+- [Three-cornered leek](https://eaten676.github.io/foragetheworld/nz/plants/onionweed/): Allium triquetrum; Onion weed, Three-cornered garlic. In season June to October.
+- [Mānuka](https://eaten676.github.io/foragetheworld/nz/plants/manuka/): Leptospermum scoparium; Mānuka, Tea tree. In season all year round.
+- [Elderflower](https://eaten676.github.io/foragetheworld/nz/plants/elderflower/): Sambucus nigra; Elderflower. In season November to December.
+- [Elderberry](https://eaten676.github.io/foragetheworld/nz/plants/elderberry/): Sambucus nigra; Elderberry. In season February to March.
+- [Blackberry](https://eaten676.github.io/foragetheworld/nz/plants/blackberry/): Rubus fruticosus; Blackberry. In season January to March.
+- [Dandelion](https://eaten676.github.io/foragetheworld/nz/plants/dandelion/): Taraxacum officinale; Dandelion. In season August to April.
+- [Chickweed](https://eaten676.github.io/foragetheworld/nz/plants/chickweed/): Stellaria media; Chickweed. In season April to November.
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/nz/plants/nettle/): Urtica dioica; Stinging nettle. In season August to November.
+- [Rose hips](https://eaten676.github.io/foragetheworld/nz/plants/rosehip/): Rosa canina; Rose hips. In season March to May.
+- [Wild fennel](https://eaten676.github.io/foragetheworld/nz/plants/fennel/): Foeniculum vulgare; Wild fennel. In season September to February.
+- [Pipi and tuatua](https://eaten676.github.io/foragetheworld/nz/plants/pipi/): Paphies australis; Pipi, Tuatua. In season all year round.
+
+## Dishes
+
+- [Kawakawa tea](https://eaten676.github.io/foragetheworld/nz/dishes/kawakawa-tea/): Holey kawakawa leaves steeped in hot water, a traditional rongoā drink.
+- [Mānuka tea](https://eaten676.github.io/foragetheworld/nz/dishes/m-nuka-tea/): A few mānuka leaves steeped in hot water.
+- [Elderflower cordial](https://eaten676.github.io/foragetheworld/nz/dishes/elderflower-cordial/): Flowers steeped with lemon and citric acid, sweetened.
+- [Pipi fritters](https://eaten676.github.io/foragetheworld/nz/dishes/pipi-fritters/): Minced pipi in an egg and flour batter, fried golden.
+- [Pikopiko in butter](https://eaten676.github.io/foragetheworld/nz/dishes/pikopiko-in-butter/): Blanched fern fronds sautéed with butter and garlic.
+- [Steamed kōuka](https://eaten676.github.io/foragetheworld/nz/dishes/steamed-k-uka/): Cabbage tree shoot hearts steamed and buttered.
+- [Horopito salt](https://eaten676.github.io/foragetheworld/nz/dishes/horopito-salt/): Dried horopito ground with sea salt for meat and eggs.
+- [Kawakawa pesto](https://eaten676.github.io/foragetheworld/nz/dishes/kawakawa-pesto/): Kawakawa leaves blended with oil and nuts.
+- [Blackberry jam](https://eaten676.github.io/foragetheworld/nz/dishes/blackberry-jam/): Late-summer blackberries cooked with sugar.
+- [Pork and pūhā boil-up](https://eaten676.github.io/foragetheworld/nz/dishes/pork-and-p-h-boil-up/): Pork bones, potatoes, kūmara and pūhā or watercress simmered with dumplings.
+- [Karengo broth](https://eaten676.github.io/foragetheworld/nz/dishes/karengo-broth/): Seaweed simmered into a savoury broth with fish.
+- [Nettle soup](https://eaten676.github.io/foragetheworld/nz/dishes/nettle-soup/): Nettle tops with potato, blended.
+- [Horopito fry bread (parāoa parai)](https://eaten676.github.io/foragetheworld/nz/dishes/horopito-fry-bread/): Fried bread dough with a pinch of ground horopito.
+- [Kōnini jam on scones](https://eaten676.github.io/foragetheworld/nz/dishes/k-nini-jam-on-scones/): Tree fuchsia berries cooked into jam.
+- [Blackberry crumble](https://eaten676.github.io/foragetheworld/nz/dishes/blackberry-crumble/): Blackberries under an oat crumble.

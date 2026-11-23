@@ -1,0 +1,83 @@
+# Forage United Kingdom
+
+> A free guide to wild food in the UK: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 22 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/uk/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/uk/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/uk/dishes/)
+
+## Wild plants
+
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/uk/plants/nettle/): Urtica dioica; Nettle. In season March to June.
+- [Wild garlic](https://eaten676.github.io/foragetheworld/uk/plants/wildgarlic/): Allium ursinum; Ramsons. In season March to May.
+- [Dandelion](https://eaten676.github.io/foragetheworld/uk/plants/dandelion/): Taraxacum officinale; Dandelion. In season March to October.
+- [Ground elder](https://eaten676.github.io/foragetheworld/uk/plants/groundelder/): Aegopodium podagraria; Ground elder. In season March to June.
+- [Chickweed](https://eaten676.github.io/foragetheworld/uk/plants/chickweed/): Stellaria media; Chickweed. In season March to November.
+- [Common sorrel](https://eaten676.github.io/foragetheworld/uk/plants/sorrel/): Rumex acetosa; Sorrel. In season April to August.
+- [Wood sorrel](https://eaten676.github.io/foragetheworld/uk/plants/woodsorrel/): Oxalis acetosella; Wood sorrel. In season April to September.
+- [Garlic mustard](https://eaten676.github.io/foragetheworld/uk/plants/garlicmustard/): Alliaria petiolata; Jack-by-the-hedge. In season March to June.
+- [Fat hen](https://eaten676.github.io/foragetheworld/uk/plants/fathen/): Chenopodium album; Fat hen. In season May to September.
+- [Ribwort plantain](https://eaten676.github.io/foragetheworld/uk/plants/plantain/): Plantago lanceolata; Ribwort plantain. In season April to September.
+- [Watercress](https://eaten676.github.io/foragetheworld/uk/plants/watercress/): Nasturtium officinale; Watercress. In season March to October.
+- [Hop shoots](https://eaten676.github.io/foragetheworld/uk/plants/hops/): Humulus lupulus; Hop shoots. In season March to May.
+- [Sea beet](https://eaten676.github.io/foragetheworld/uk/plants/seabeet/): Beta vulgaris subsp. maritima; Sea beet. In season March to October.
+- [Marsh samphire](https://eaten676.github.io/foragetheworld/uk/plants/samphire/): Salicornia europaea; Marsh samphire. In season June to August.
+- [Dulse](https://eaten676.github.io/foragetheworld/uk/plants/dulse/): Palmaria palmata; Dulse. In season April to September.
+- [Sugar kelp](https://eaten676.github.io/foragetheworld/uk/plants/kelp/): Saccharina latissima; Sugar kelp. In season March to June.
+- [Laver](https://eaten676.github.io/foragetheworld/uk/plants/laver/): Porphyra umbilicalis; Laver. In season October to April.
+- [Blue mussels](https://eaten676.github.io/foragetheworld/uk/plants/mussel/): Mytilus edulis; Mussels. In season January to December.
+- [Blackberry](https://eaten676.github.io/foragetheworld/uk/plants/blackberry/): Rubus fruticosus; Blackberry, Bramble. In season August to September.
+- [Wild raspberry](https://eaten676.github.io/foragetheworld/uk/plants/raspberry/): Rubus idaeus; Wild raspberry. In season July to August.
+- [Bilberry](https://eaten676.github.io/foragetheworld/uk/plants/bilberry/): Vaccinium myrtillus; Bilberry, Whortleberry. In season July to August.
+- [Lingonberry](https://eaten676.github.io/foragetheworld/uk/plants/lingonberry/): Vaccinium vitis-idaea; Cowberry. In season August to October.
+- [Cloudberry](https://eaten676.github.io/foragetheworld/uk/plants/cloudberry/): Rubus chamaemorus; Cloudberry. In season July to August.
+- [Wild strawberry](https://eaten676.github.io/foragetheworld/uk/plants/strawberry/): Fragaria vesca; Wild strawberry. In season June to July.
+- [Elderberry](https://eaten676.github.io/foragetheworld/uk/plants/elderberry/): Sambucus nigra; Elderberry. In season August to September.
+- [Elderflower](https://eaten676.github.io/foragetheworld/uk/plants/elderflower/): Sambucus nigra; Elderflower. In season May to June.
+- [Sloe](https://eaten676.github.io/foragetheworld/uk/plants/sloe/): Prunus spinosa; Sloe, Blackthorn. In season September to November.
+- [Rose hips](https://eaten676.github.io/foragetheworld/uk/plants/rosehip/): Rosa canina; Rose hips. In season September to November.
+- [Rowan berries](https://eaten676.github.io/foragetheworld/uk/plants/rowan/): Sorbus aucuparia; Rowan, Mountain ash. In season August to October.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/uk/plants/hawthorn/): Crataegus monogyna; Hawthorn, Haws. In season September to October.
+- [Crab apple](https://eaten676.github.io/foragetheworld/uk/plants/crabapple/): Malus sylvestris; Crab apple. In season September to October.
+- [Sea buckthorn](https://eaten676.github.io/foragetheworld/uk/plants/seabuckthorn/): Hippophae rhamnoides; Sea buckthorn. In season August to October.
+- [Crowberry](https://eaten676.github.io/foragetheworld/uk/plants/crowberry/): Empetrum nigrum; Crowberry. In season August to September.
+- [Wild gooseberry](https://eaten676.github.io/foragetheworld/uk/plants/gooseberry/): Ribes uva-crispa; Gooseberry. In season June to July.
+- [Juniper berries](https://eaten676.github.io/foragetheworld/uk/plants/juniper/): Juniperus communis; Juniper. In season September to November.
+- [Hazelnut](https://eaten676.github.io/foragetheworld/uk/plants/hazelnut/): Corylus avellana; Hazelnut, Cobnut. In season August to October.
+- [Sweet chestnut](https://eaten676.github.io/foragetheworld/uk/plants/chestnut/): Castanea sativa; Sweet chestnut. In season October to November.
+- [Walnut](https://eaten676.github.io/foragetheworld/uk/plants/walnut/): Juglans regia; Walnut. In season September to October.
+- [Beechnut](https://eaten676.github.io/foragetheworld/uk/plants/beechnut/): Fagus sylvatica; Beechnut, Beech mast. In season September to October.
+- [Meadowsweet](https://eaten676.github.io/foragetheworld/uk/plants/meadowsweet/): Filipendula ulmaria; Meadowsweet. In season June to August.
+- [Lime blossom](https://eaten676.github.io/foragetheworld/uk/plants/linden/): Tilia cordata; Lime, Linden. In season June to July.
+- [Wild chamomile](https://eaten676.github.io/foragetheworld/uk/plants/chamomile/): Matricaria chamomilla; Chamomile. In season June to August.
+- [Wild thyme](https://eaten676.github.io/foragetheworld/uk/plants/thyme/): Thymus serpyllum; Wild thyme. In season June to August.
+- [Yarrow](https://eaten676.github.io/foragetheworld/uk/plants/yarrow/): Achillea millefolium; Yarrow. In season June to September.
+- [Red clover](https://eaten676.github.io/foragetheworld/uk/plants/redclover/): Trifolium pratense; Red clover. In season May to September.
+- [Burdock root](https://eaten676.github.io/foragetheworld/uk/plants/burdock/): Arctium lappa; Burdock. In season April to October.
+
+## Dishes
+
+- [Elderflower cordial](https://eaten676.github.io/foragetheworld/uk/dishes/elderflower-cordial/): Flower heads steeped overnight with lemon and citric acid, strained into sugar syrup.
+- [Sloe gin](https://eaten676.github.io/foragetheworld/uk/dishes/sloe-gin/): Pricked sloes steeped in gin with sugar from October until Christmas.
+- [Dandelion and burdock](https://eaten676.github.io/foragetheworld/uk/dishes/dandelion-and-burdock/): Old northern English soft drink brewed from the roots, with ginger and sugar.
+- [Rose hip syrup](https://eaten676.github.io/foragetheworld/uk/dishes/rose-hip-syrup/): Wartime vitamin C syrup of rose hips, strained twice to remove the hairs.
+- [Meadowsweet cordial](https://eaten676.github.io/foragetheworld/uk/dishes/meadowsweet-cordial/): Almond-scented cordial from meadowsweet flowers.
+- [Elderflower fritters](https://eaten676.github.io/foragetheworld/uk/dishes/elderflower-fritters/): Flower heads in light batter, fried and dusted with sugar.
+- [Moules marinière](https://eaten676.github.io/foragetheworld/uk/dishes/moules-marini-re/): Mussels steamed with wine, shallots and parsley.
+- [Samphire with butter](https://eaten676.github.io/foragetheworld/uk/dishes/samphire-with-butter/): Steamed samphire tossed in butter, beside fish.
+- [Wild garlic pesto](https://eaten676.github.io/foragetheworld/uk/dishes/wild-garlic-pesto/): Ramsons blended with hard cheese, nuts, oil and lemon.
+- [Bramble jelly](https://eaten676.github.io/foragetheworld/uk/dishes/bramble-jelly/): Blackberries with crab apples for set, strained into a clear jelly.
+- [Hedgerow jelly](https://eaten676.github.io/foragetheworld/uk/dishes/hedgerow-jelly/): Autumn's hedgerow fruits cooked together and strained.
+- [Hawthorn ketchup](https://eaten676.github.io/foragetheworld/uk/dishes/hawthorn-ketchup/): Haws simmered in vinegar, sieved and sweetened into a fruity ketchup.
+- [Rowan jelly](https://eaten676.github.io/foragetheworld/uk/dishes/rowan-jelly/): Traditional Scottish jelly for venison.
+- [Nettle soup](https://eaten676.github.io/foragetheworld/uk/dishes/nettle-soup/): Nettle tops simmered with potato and onion, blended with cream.
+- [Laverbread with cockles and bacon](https://eaten676.github.io/foragetheworld/uk/dishes/laverbread-with-cockles-and-bacon/): The Welsh breakfast of laverbread, cockles and bacon.
+- [Sea beet and potato soup](https://eaten676.github.io/foragetheworld/uk/dishes/sea-beet-and-potato-soup/): Sea beet simmered with potato and stock.
+- [Chestnut and mushroom roast](https://eaten676.github.io/foragetheworld/uk/dishes/chestnut-and-mushroom-roast/): Roasted chestnuts in a nut roast with mushrooms.
+- [Wild garlic soda bread](https://eaten676.github.io/foragetheworld/uk/dishes/wild-garlic-soda-bread/): Irish-style soda bread with chopped ramsons and cheese.
+- [Blackberry and apple crumble](https://eaten676.github.io/foragetheworld/uk/dishes/blackberry-and-apple-crumble/): Blackberries and apple under a buttery crumble, with custard.
+- [Gooseberry fool](https://eaten676.github.io/foragetheworld/uk/dishes/gooseberry-fool/): Stewed gooseberries with elderflower folded into cream.
+- [Bilberry pie](https://eaten676.github.io/foragetheworld/uk/dishes/bilberry-pie/): Yorkshire 'mucky mouth' pie of bilberries.
+- [Cranachan with raspberries](https://eaten676.github.io/foragetheworld/uk/dishes/cranachan-with-raspberries/): Toasted oats, whisky, honey, cream and wild raspberries.

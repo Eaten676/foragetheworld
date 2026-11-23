@@ -1,0 +1,609 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Forage Switzerland: wild food near you, by region and season</title>
+<meta name="description" content="Free guide to 43 wild foods in Switzerland: what's in season in your region this month, how to harvest it, what to avoid and what to cook.">
+<link rel="canonical" href="https://eaten676.github.io/foragetheworld/ch/">
+<meta name="theme-color" content="#ffffff">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="icon" type="image/png" href="../icons/favicon.png">
+<link rel="apple-touch-icon" href="../icons/apple-touch-icon.png">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Forage the World">
+<meta property="og:title" content="Forage Switzerland: wild food near you, by region and season"><meta property="og:description" content="Free guide to 43 wild foods in Switzerland: what's in season in your region this month, how to harvest it, what to avoid and what to cook."><meta property="og:url" content="https://eaten676.github.io/foragetheworld/ch/">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0;font-size:14px}img{max-width:100%}[hidden]{display:none!important}
+/* Layout: a field app — sticky locale bar, tabbed views, card grid, bottom-sheet detail */
+:root{
+  --brand:#00bf63; --on-brand:#ffffff; --bg:#ffffff; --surface:#ffffff; --sunk:#f1f4f2; --fg:#141a16; --muted:#5e6b63; --line:#dde3df;
+  --leaf:#141a16; --leaf-soft:#f1f4f2; --green:#00733a; --green-soft:#e6f7ee; --turmeric:#c98a07; --turmeric-soft:#f6e7c0;
+  --earth:#8a5a2b; --earth-soft:#efe0cf; --river:#2a6a8a; --river-soft:#d8e8f0;
+  --mahua:#7a4b84; --mahua-soft:#ece0ef; --danger:#b3261e; --danger-soft:#fbe9e7;
+  --display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --body:"Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121614; --surface:#121614; --sunk:#1c2420; --fg:#e8eeea; --muted:#9aa69f; --line:#2a332e;
+  --leaf:#e8eeea; --leaf-soft:#1c2420; --green:#3ddc84; --green-soft:#183225; --turmeric:#e8b445; --turmeric-soft:#3a2f14;
+  --earth:#d3a273; --earth-soft:#35281b; --river:#79b6d4; --river-soft:#17303c;
+  --mahua:#c99ad3; --mahua-soft:#33243a; --danger:#f2b8b5; --danger-soft:#3b1f1d; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121614; --surface:#121614; --sunk:#1c2420; --fg:#e8eeea; --muted:#9aa69f; --line:#2a332e;
+  --leaf:#e8eeea; --leaf-soft:#1c2420; --green:#3ddc84; --green-soft:#183225; --turmeric:#e8b445; --turmeric-soft:#3a2f14;
+  --earth:#d3a273; --earth-soft:#35281b; --river:#79b6d4; --river-soft:#17303c;
+  --mahua:#c99ad3; --mahua-soft:#33243a; --danger:#f2b8b5; --danger-soft:#3b1f1d; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--surface)}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0}
+a{color:var(--leaf)}
+button,select,input{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--turmeric);outline-offset:2px}
+
+header.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;background:var(--surface);border-bottom:1px solid var(--line)}
+.bar-row{display:flex;align-items:center;gap:12px;padding-block:10px;min-height:60px}
+.brand{display:flex;align-items:center;gap:8px;text-decoration:none;color:var(--fg);flex:none}
+.brand h1{font-size:1.25rem;font-weight:700;letter-spacing:-.015em;white-space:nowrap}
+.logo{display:block;width:34px;height:34px;flex:none}
+.logo img{display:block;width:100%;height:100%}
+.brand h1 span{color:var(--green);font-weight:700}
+.locale{display:flex;gap:6px;margin-left:auto;min-width:0}
+.locale select{background:var(--sunk);border:1px solid var(--line);border-radius:999px;padding:6px 10px;font-size:.9rem;color:var(--fg);min-width:0}
+#state{max-width:170px} #month{width:72px}
+nav.tabs{display:flex;gap:2px;margin-left:18px}
+nav.tabs a{display:flex;align-items:center;gap:6px;text-decoration:none;color:var(--muted);padding:7px 12px;border-radius:999px;font-weight:700;font-size:.9rem}
+nav.tabs svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none}
+nav.tabs a[aria-current="page"]{background:var(--fg);color:var(--bg)}
+nav.tabs a:not([aria-current="page"]):hover{color:var(--fg);background:var(--sunk)}
+@media (max-width:820px){
+ .brand h1{font-size:1.1rem}
+ nav.tabs{position:fixed;left:0;right:0;bottom:0;z-index:7;margin:0;justify-content:space-around;gap:0;background:color-mix(in srgb,var(--surface) 94%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--line);padding:6px max(8px,env(safe-area-inset-right,0px)) calc(6px + env(safe-area-inset-bottom,0px)) max(8px,env(safe-area-inset-left,0px))}
+ nav.tabs a{flex-direction:column;gap:2px;font-size:.7rem;padding:6px 4px;border-radius:12px;flex:1;max-width:110px;text-align:center}
+ nav.tabs svg{width:22px;height:22px}
+ nav.tabs a[aria-current="page"]{background:var(--sunk);color:var(--fg)}
+ main{padding-bottom:96px!important} footer{padding-bottom:110px!important}
+}
+@media (max-width:400px){.brand h1{display:none}}
+main{padding-block:16px 56px}
+.intro{margin-bottom:12px}
+.intro .stat{margin:4px 0 0;color:var(--muted);font-size:.95rem} .intro .stat b{color:var(--fg);font-variant-numeric:tabular-nums}
+.toolbar{position:sticky;top:calc(env(safe-area-inset-top,0px) + 60px);z-index:4;background:var(--bg);padding:8px 0 6px;margin:0 0 12px;border-bottom:1px solid var(--line)}
+.searchrow{display:flex;gap:8px}
+.searchrow .search{flex:1}
+.chiprow{display:flex;gap:6px;align-items:center;overflow-x:auto;scrollbar-width:none;padding:8px 0 2px;margin-right:calc(-1 * max(16px,env(safe-area-inset-right,0px)))}
+.chiprow::-webkit-scrollbar{display:none}
+.chiprow .chip,.chiprow .seg{flex:none;white-space:nowrap}
+.vr{flex:none;width:1px;height:22px;background:var(--line)}
+.count{font-size:.78rem;color:var(--muted);padding-top:4px}
+.intro h2{font-size:clamp(1.45rem,4vw,2.1rem);line-height:1.1;letter-spacing:-.015em}
+.intro p{margin:6px 0 0;color:var(--muted);max-width:62ch}
+.tally{font-family:var(--display);text-align:right}
+.tally b{display:block;font-size:2.4rem;line-height:1;color:var(--leaf);font-variant-numeric:tabular-nums}
+.tally small{color:var(--muted);font-family:var(--body);font-size:.8rem}
+@media (max-width:560px){.intro{grid-template-columns:1fr}.tally{text-align:left}}
+
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:16px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:none;padding:6px 12px;font-size:.88rem;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--leaf);color:var(--surface)}
+.search{flex:1 1 180px;min-width:0;border:1px solid var(--line);background:var(--sunk);border-radius:999px;padding:8px 14px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.card{display:flex;flex-direction:column;gap:8px;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px;cursor:pointer;min-width:0}
+.card:hover{border-color:var(--muted)}
+.card{overflow:hidden}
+.thumb{display:block;width:calc(100% + 28px);max-width:none;margin:-14px -14px 4px;aspect-ratio:4/3;object-fit:cover;background:var(--sunk)}
+.hero{margin:14px 0 0}
+.heroimg{display:block;width:100%;max-height:52vh;object-fit:cover;border-radius:10px;background:var(--sunk)}
+.hero figcaption{font-size:.75rem;color:var(--muted);margin-top:6px}
+.hero figcaption a{color:var(--muted)}
+.card .top{display:flex;justify-content:space-between;gap:8px;align-items:start}
+.card h3{font-size:1.1rem;line-height:1.2}
+.card .local{color:var(--muted);font-size:.85rem}
+@media (max-width:600px){
+ .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+ .card{padding:10px;gap:5px;border-radius:12px}
+ .thumb{width:calc(100% + 20px);margin:-10px -10px 2px}
+ .card h3{font-size:.98rem}
+ .card .local{font-size:.75rem;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+ .card .top{flex-direction:column;gap:4px}
+ .card .tag{font-size:.6rem;padding:2px 6px}
+ .card p{display:none}
+ .card .avail{font-size:.72rem}
+ .card .warnline{font-size:.7rem}
+ .months span{font-size:.5rem;padding:2px 0}
+}
+.card p{margin:0;font-size:.92rem}
+.tag{flex:none;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;padding:3px 8px;border-radius:6px}
+.t-green{background:var(--green-soft);color:var(--green)} .t-fruit{background:var(--turmeric-soft);color:var(--turmeric)}
+.t-grain{background:var(--turmeric-soft);color:var(--earth)} .t-starch{background:var(--earth-soft);color:var(--earth)} .t-root{background:var(--earth-soft);color:var(--earth)}
+.avail{font-size:.8rem;font-weight:700;color:var(--muted)} .avail.now{color:var(--fg)}
+.sortsel{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 10px;font-size:.88rem}
+.drink .uses{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
+.drink .uses button{font-size:.8rem;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:2px 10px;cursor:pointer}
+.drink p{margin:6px 0}
+.drink .pill{align-self:flex-start;white-space:nowrap;padding:3px 10px;line-height:1.3}
+.drink .warnline{margin:4px 0} .t-protein{background:var(--river-soft);color:var(--river)}
+.t-nut{background:var(--earth-soft);color:var(--earth)} .t-flower{background:var(--mahua-soft);color:var(--mahua)}
+.warnline{color:var(--danger);font-size:.82rem;font-weight:700}
+
+.months{display:grid;grid-template-columns:repeat(12,1fr);gap:2px;margin-top:auto}
+.months span{font-size:.6rem;text-align:center;padding:3px 0;border-radius:3px;background:var(--sunk);color:var(--muted);font-variant-numeric:tabular-nums}
+.months span.on{background:var(--leaf);color:var(--surface);font-weight:700}
+.months span.now{box-shadow:inset 0 0 0 2px var(--turmeric)}
+.empty{padding:24px;border:1px dashed var(--line);border-radius:12px;color:var(--muted);text-align:center}
+
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px}
+.panel h3{font-size:1.15rem;margin-bottom:6px}
+.panel p{margin:0 0 8px;max-width:68ch}
+.nutri-pick{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-bottom:16px}
+.nutri-pick button{text-align:left;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:10px 12px;cursor:pointer}
+.nutri-pick button b{display:block;font-family:var(--display);font-size:1rem}
+.nutri-pick button small{color:var(--muted)}
+.nutri-pick button[aria-pressed="true"]{border-color:var(--leaf);box-shadow:inset 0 0 0 1px var(--leaf);background:var(--leaf-soft)}
+.reality{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-bottom:16px}
+.reality .panel b.big{font-family:var(--display);font-size:1.6rem;color:var(--leaf);display:block;line-height:1.1}
+.list{display:flex;flex-direction:column;gap:6px;margin-top:10px}
+.row{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);cursor:pointer;text-align:left;width:100%}
+.row .why{color:var(--muted);font-size:.86rem}
+.pill{flex:none;font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:999px}
+.pill.now{background:var(--leaf);color:var(--surface)} .pill.later{background:var(--sunk);color:var(--muted)}
+.section-h{font-size:1.2rem;margin:22px 0 10px}
+
+.methods{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.method ol{margin:8px 0;padding-left:20px} .method li{margin-bottom:4px}
+.method .keeps{font-size:.85rem;color:var(--muted)}
+.method .uses{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.method .uses button{font-size:.8rem;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:2px 10px;cursor:pointer}
+
+.danger-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.danger{border-color:var(--danger);background:var(--danger-soft)}
+.danger h3{color:var(--danger)}
+.rules{counter-reset:r;list-style:none;padding:0;margin:0;display:grid;gap:8px}
+.rules li{counter-increment:r;display:grid;grid-template-columns:2rem 1fr;gap:8px;align-items:start}
+.rules li::before{content:counter(r);font-family:var(--display);font-weight:700;color:var(--leaf);font-size:1.3rem;line-height:1.2}
+
+.sheet-bg{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:20;display:flex;align-items:flex-end;justify-content:center}
+.sheet{background:var(--surface);width:min(720px,100%);max-height:88vh;overflow-y:auto;border-radius:16px 16px 0 0;padding:20px max(20px,env(safe-area-inset-left,0px)) calc(24px + env(safe-area-inset-bottom,0px))}
+@media (min-width:760px){.sheet-bg{align-items:center}.sheet{border-radius:16px}}
+.sheet header{display:flex;justify-content:space-between;gap:12px;align-items:start;position:sticky;top:-20px;z-index:2;background:var(--surface);margin:-20px -4px 0;padding:20px 4px 10px}
+.sheet::before{content:"";display:block;width:40px;height:4px;border-radius:4px;background:var(--line);margin:-8px auto 12px}
+@media (min-width:760px){.sheet::before{display:none}}
+.sheet h2{font-size:1.7rem;line-height:1.1}
+.sheet .sci{font-style:italic;color:var(--muted)}
+.close{border:1px solid var(--line);background:var(--bg);border-radius:999px;width:36px;height:36px;cursor:pointer;font-size:1.1rem;flex:none}
+.facts{display:grid;gap:14px;margin-top:16px}
+.facts h4{margin:0 0 4px;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.facts p{margin:0}
+.photo-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.btn{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:8px 14px;font-weight:700;text-decoration:none;border:1px solid var(--leaf)}
+.btn.primary{background:var(--leaf);color:var(--surface)} .btn.ghost{color:var(--leaf)}
+.callout{border-left:4px solid var(--danger);background:var(--danger-soft);padding:10px 12px;border-radius:0 8px 8px 0}
+.menu-head{text-align:center;max-width:640px;margin:8px auto 18px}
+.menu-head .eyebrow{font-size:.75rem;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.menu-head h2{font-size:clamp(1.8rem,5vw,2.6rem);letter-spacing:-.02em;margin:6px 0}
+.menu-head p{color:var(--muted);margin:0}
+.course-nav{position:sticky;top:calc(env(safe-area-inset-top,0px) + 60px);z-index:4;background:var(--bg);display:flex;gap:6px;overflow-x:auto;padding:8px 0;margin-bottom:8px;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.course-nav::-webkit-scrollbar{display:none}
+.course-nav a.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.course-nav a{flex:none;font-size:.85rem;text-decoration:none;color:var(--fg);border:1px solid var(--line);border-radius:999px;padding:5px 12px}
+.course{scroll-margin-top:120px;margin-top:22px}
+.course h3{display:flex;align-items:center;gap:14px;font-size:1.05rem;letter-spacing:.14em;text-transform:uppercase;margin-bottom:12px}
+.course h3::before,.course h3::after{content:"";flex:1;height:1px;background:var(--line)}
+.dishes{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:4px 28px}
+.dish{padding:12px 0;border-bottom:1px dashed var(--line);min-width:0}
+.dish-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.dish h4{font-family:var(--display);font-size:1.12rem;margin:0}
+.dish p{margin:4px 0 6px;font-size:.93rem;color:var(--muted)}
+.dish .pill{white-space:nowrap}
+.dish-f{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:6px}
+.dish-f .uses{display:flex;flex-wrap:wrap;gap:4px}
+.dish-f .uses button{font-size:.75rem;border:1px solid var(--line);background:var(--bg);border-radius:999px;padding:1px 9px;cursor:pointer}
+.fav{font-family:var(--body);font-size:.68rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--turmeric);vertical-align:middle;margin-left:4px;white-space:nowrap}
+.more{display:block;margin:14px auto 0;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:8px 18px;font-weight:700;font-size:.88rem;cursor:pointer}
+.more:hover{border-color:var(--fg)}
+.ytlink{font-size:.82rem;font-weight:700;color:var(--fg);text-decoration:none;white-space:nowrap}
+.ytlink:hover{text-decoration:underline}
+.thumbs{display:flex;gap:6px;margin-top:8px}
+.tb{border:2px solid transparent;padding:0;border-radius:8px;overflow:hidden;width:64px;height:48px;background:var(--sunk);cursor:pointer}
+.tb.on{border-color:var(--fg)} .tb img{width:100%;height:100%;object-fit:cover;display:block}
+.lookalike{border:1px solid var(--danger);background:var(--danger-soft);border-radius:12px;padding:12px}
+.lk-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.lk-head h4{margin:0;font-size:1rem;color:var(--danger);text-transform:none;letter-spacing:0}
+.sev{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;background:var(--danger);color:var(--surface);border-radius:6px;padding:2px 7px}
+.lk-sci{font-size:.82rem;color:var(--muted);font-style:italic;margin:2px 0 8px}
+.lk-pics{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.lk-fig{margin:0;min-width:0} .lk-fig img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:8px;display:block;background:var(--sunk)}
+.lk-fig figcaption{font-size:.7rem;color:var(--muted);margin-top:4px;line-height:1.35} .lk-fig figcaption a{color:var(--muted)}
+.lk-fig .good{color:var(--green);font-size:.8rem} .lk-fig .bad{color:var(--danger);font-size:.8rem}
+.lookalike ul{margin:10px 0 0;padding-left:18px;font-size:.9rem} .lookalike li{margin-bottom:4px}
+.lk-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.lk-grid .panel{padding:10px}
+.dish.has-pic{display:grid;grid-template-columns:88px minmax(0,1fr);gap:12px;align-items:start}
+.dish-body{min-width:0}
+.dishpic{width:88px;height:88px;object-fit:cover;border-radius:10px;background:var(--sunk)}
+.dishcred{font-size:.66rem;color:var(--muted);margin-top:4px} .dishcred a{color:var(--muted)}
+.tip{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:24px;align-items:center;margin-top:40px;padding:24px;border-radius:18px;background:var(--green-soft);border:1px solid var(--line)}
+.tip .eyebrow{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--green)}
+.tip h2{font-size:clamp(1.6rem,4.5vw,2.3rem);letter-spacing:-.02em;line-height:1.05;margin:6px 0 10px}
+.tip p{margin:0 0 16px;max-width:52ch}
+.tip-amts{display:flex;flex-wrap:wrap;gap:6px}
+.tip-amts .chip{text-decoration:none;color:var(--fg);background:var(--surface);cursor:default}
+.tip-amts a.chip{cursor:pointer} .tip-amts a.chip:hover{border-color:var(--fg)}
+.tip-qr{display:flex;flex-direction:column;align-items:center;gap:8px;background:var(--surface);border-radius:14px;padding:18px;text-align:center;border:1px solid var(--line)}
+.qr{width:200px;max-width:100%;aspect-ratio:1;border-radius:10px;background:#fff;object-fit:contain}
+.qr-ph{display:grid;place-items:center;text-align:center;border:2px dashed var(--line);background:var(--sunk);color:var(--muted);font-weight:700;font-size:.9rem}
+.pay-h{font-weight:700} .pay-apps{font-size:.8rem;color:var(--muted)}
+.upi-id{display:flex;gap:6px;align-items:center;flex-wrap:wrap;font-size:.85rem;margin-top:10px}
+.upi-id code{background:var(--surface);padding:4px 8px;border-radius:6px;user-select:all}
+@media (max-width:700px){.tip{grid-template-columns:1fr;padding:18px}}
+.hero{padding:28px 0 8px;max-width:760px}
+.hero .eyebrow{font-size:.75rem;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--green)}
+.hero h2{font-size:clamp(2.1rem,7vw,3.6rem);line-height:1.02;letter-spacing:-.03em;margin:10px 0 12px}
+.hero .big-n{color:var(--green)}
+.hero p{font-size:1.1rem;color:var(--muted);margin:0 0 18px;max-width:52ch}
+.hero-cta{display:flex;gap:10px;flex-wrap:wrap}
+.strip{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;padding:18px 0 6px;scrollbar-width:none;margin-right:calc(-1 * max(16px,env(safe-area-inset-right,0px)))}
+.strip::-webkit-scrollbar{display:none}
+.strip-card{flex:none;width:170px;scroll-snap-align:start;border:0;padding:0;background:none;cursor:pointer;text-align:left;color:var(--fg)}
+.strip-card img{display:block;width:170px;height:210px;object-fit:cover;border-radius:16px;background:var(--sunk)}
+.strip-card span{display:block;font-weight:700;font-size:.92rem;margin-top:6px}
+.promises{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:28px 0}
+.promise{display:block;text-decoration:none;color:var(--fg);border:1px solid var(--line);border-radius:14px;padding:16px;background:var(--surface)}
+.promise b{display:block;font-family:var(--display);font-size:1.3rem;margin-bottom:4px}
+.promise span{color:var(--muted);font-size:.92rem}
+.promise:hover{border-color:var(--fg)}
+@media (max-width:640px){.promises{grid-template-columns:1fr}}
+.row-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:10px}
+.row-h h3{font-size:1.25rem}.row-h a{font-weight:700;font-size:.9rem;color:var(--fg)}
+.tonight-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.t-card{display:block;text-decoration:none;color:var(--fg)}
+.t-card img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:14px;background:var(--sunk);margin-bottom:6px}
+.t-card b{display:block;font-family:var(--display);font-size:1.02rem}
+.t-card span{color:var(--muted);font-size:.82rem}
+@media (max-width:640px){.tonight-grid{grid-template-columns:1fr 1fr}.tonight-grid .t-card:nth-child(3){display:none}}
+.install{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-top:32px;padding:20px;border-radius:16px;border:1px solid var(--line);background:var(--sunk)}
+.install h3{font-size:1.2rem;margin-bottom:4px}.install p{margin:0;color:var(--muted)}
+.install .hint{font-size:.85rem;margin-top:6px}
+.menu-head2{display:flex;justify-content:space-between;align-items:end;gap:14px;flex-wrap:wrap;margin:8px 0 6px}
+.menu-head2 .eyebrow{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:var(--green)}
+.menu-head2 h2{font-size:clamp(1.6rem,5vw,2.3rem);letter-spacing:-.02em;margin:4px 0}
+.menu-head2 p{margin:0;color:var(--muted)}
+.crow{margin-top:26px;scroll-margin-top:76px}
+.crow-h{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:10px}
+.crow-h h3{font-size:1.2rem}.crow-h h3 span{color:var(--muted);font-family:var(--body);font-weight:400;font-size:.9rem;margin-left:4px}
+.seeall{border:0;background:none;font-weight:700;color:var(--fg);cursor:pointer;font-size:.9rem;padding:4px 0}
+.cscroll{display:flex;align-items:flex-start;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:6px;scrollbar-width:none;margin-right:calc(-1 * max(16px,env(safe-area-inset-right,0px)))}
+.cscroll::-webkit-scrollbar{display:none}
+.cscroll .dcard{flex:none;width:168px;scroll-snap-align:start}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:14px}
+.dcard{display:flex;flex-direction:column;align-items:stretch;justify-content:flex-start;align-self:flex-start;border:0;background:none;padding:0;text-align:left;cursor:pointer;color:var(--fg);min-width:0}
+.dimg{position:relative;display:block;width:100%;aspect-ratio:1;border-radius:16px;overflow:hidden;background:var(--sunk)}
+.dimg img{display:block;width:100%;height:100%;object-fit:cover}
+.dimg.ing img{filter:saturate(.85)}
+.dimg.vid::after{content:"";position:absolute;right:8px;bottom:8px;width:26px;height:26px;border-radius:50%;background:rgba(0,0,0,.6) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9 7l8 5-8 5z' fill='white'/%3E%3C/svg%3E") center/18px no-repeat}
+.vbox .vplay{position:relative;display:block;width:100%;aspect-ratio:16/9;padding:0;border:0;background:#000;cursor:pointer;overflow:hidden;border-radius:10px}
+.vbox .vplay img{width:100%;height:100%;object-fit:cover;aspect-ratio:auto;max-height:none}
+.vbox .pbadge{position:absolute;left:50%;top:50%;width:64px;height:64px;margin:-32px 0 0 -32px;border-radius:50%;background:rgba(0,0,0,.65) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9 7l8 5-8 5z' fill='white'/%3E%3C/svg%3E") center/40px no-repeat}
+.sheet .hero{padding:0;max-width:none}
+.vbox .vframe{display:block;width:100%;aspect-ratio:16/9;border:0;background:#000;border-radius:10px}
+.dimg.ing::after{display:none}
+.btn.share svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linejoin:round;margin-right:6px;vertical-align:-3px}
+
+.noimg{display:grid;place-items:center;width:100%;height:100%;font-family:var(--display);font-size:3rem;font-weight:700;color:var(--green);background:var(--green-soft)}
+.favtag{position:absolute;left:8px;top:8px;background:rgba(0,0,0,.62);color:#fff;font-size:.62rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:3px 7px;border-radius:999px}
+.dcard b{display:block;font-family:var(--display);font-size:.98rem;line-height:1.2;margin-top:7px}
+.dmeta{display:block;font-size:.78rem;color:var(--muted);margin-top:2px}.dmeta.now{color:var(--green);font-weight:700}
+@media (min-width:900px){.cscroll .dcard{width:200px}}
+footer{color:var(--muted);font-size:.85rem;padding-block:24px;border-top:1px solid var(--line)}
+@media (prefers-reduced-motion:no-preference){.card,.row,.chip{transition:border-color .15s,background .15s}}
+</style>
+<meta property="og:image" content="https://eaten676.github.io/foragetheworld/img/wildgarlic.webp">
+</head>
+<body>
+
+<header class="bar">
+  <div class="wrap bar-row">
+    <a class="brand" href="./" id="brand" aria-label="Forage home"><span class="logo"><img src="../img/logo-f.png" alt="" width="34" height="34"></span><h1>Forage <span id="cname"></span></h1></a>
+    <nav class="tabs" aria-label="Sections">
+      <a href="#near"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg><span>Near you</span></a><a href="#menu"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h18a9 9 0 0 1-18 0z"/><path d="M8 8c0-2 2-2 2-4M12 8c0-2 2-2 2-4M16 8c0-2 2-2 2-4"/></svg><span>Menu</span></a><a href="#nutrition"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19C5 10 11 5 20 4c-1 9-6 15-15 15z"/><path d="M5 19l8-8"/></svg><span>Nutrition</span></a><a href="#safety"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg><span>Stay safe</span></a>
+    </nav>
+    <div class="locale"><select id="state" aria-label="Your region"></select><select id="month" aria-label="Month"></select></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="v-home"></section>
+  <section id="v-near" hidden></section>
+  <section id="v-nutrition" hidden></section>
+  <section id="v-menu" hidden></section>
+  <section id="v-safety" hidden></section>
+  <div id="tip-root"></div>
+</main>
+<footer class="wrap" id="foot"></footer>
+<div id="sheet-root"></div>
+
+<script>
+const C=/*COUNTRY*/{"code": "ch", "name": "Switzerland", "the": "Switzerland", "regionLabel": "region", "defaultSt": "Zurich", "REGION_NAMES": {"J": "Jura", "M": "Swiss Plateau", "A": "Alps", "T": "Ticino and southern valleys"}, "STATES": {"Aargau": ["M", "J"], "Appenzell Ausserrhoden": ["A", "M"], "Appenzell Innerrhoden": ["A"], "Basel-Landschaft": ["J", "M"], "Basel-Stadt": ["M"], "Bern": ["M", "A", "J"], "Fribourg": ["M", "A"], "Geneva": ["M"], "Glarus": ["A"], "Graubünden": ["A", "T"], "Jura": ["J"], "Lucerne": ["M", "A"], "Neuchâtel": ["J"], "Nidwalden": ["A"], "Obwalden": ["A"], "St. Gallen": ["M", "A"], "Schaffhausen": ["M", "J"], "Schwyz": ["A", "M"], "Solothurn": ["J", "M"], "Thurgau": ["M"], "Ticino": ["T", "A"], "Uri": ["A"], "Valais": ["A"], "Vaud": ["M", "J", "A"], "Zug": ["M"], "Zurich": ["M"]}, "TYPES": {"green": "Greens", "fruit": "Fruit & berries", "root": "Roots & shoots", "grain": "Seeds & grains", "starch": "Sap & starch", "protein": "Protein", "nut": "Nuts", "flower": "Flowers & teas"}, "NUTR": {"energy": {"name": "Calories", "blurb": "Fuel. The hardest thing to forage enough of.", "long": "Greens are filling but low in calories. Real energy comes from nuts, roots and tubers, wild grains, sweet fruit and tree sap boiled to syrup."}, "protein": {"name": "Protein", "blurb": "Muscle and repair. The second big gap.", "long": "Wild plants give some protein but rarely enough. Nuts, seeds, nettles and, where it's legal and clean, shellfish and fish help most."}, "fat": {"name": "Fat", "blurb": "Dense energy and fat-soluble vitamins.", "long": "Fat is scarce in the wild. Nuts are the main source, and they help you absorb vitamin A from greens."}, "vitC": {"name": "Vitamin C", "blurb": "Immunity and iron absorption.", "long": "Easy in summer and autumn. Rose hips, sea buckthorn, berries, sorrel and spruce tips are all rich in it. Eat it alongside greens to absorb more iron."}, "vitA": {"name": "Vitamin A", "blurb": "Eyes and immunity.", "long": "Dark greens and orange fruit are the sources. Cook them with a little fat for better absorption."}, "iron": {"name": "Iron & calcium", "blurb": "Blood and bones.", "long": "Dark leafy greens such as nettle, dock and lamb's quarters are the forager's best source. Pair them with something sour to help absorption."}}, "P": [{"id": "nettle", "name": "Stinging nettle", "sci": "Urtica dioica", "type": "green", "nutr": ["protein", "iron", "vitA"], "note": "Upright plant with toothed, heart-shaped leaves covered in stinging hairs, in rich soil near paths, ruins and streams.", "eat": "Soup, risotto, pesto, tea. Pick the top four leaves with gloves.", "store": "Blanch and freeze, or dry for tea.", "methods": ["freeze", "dry", "detox"], "local": "Brennnessel · Ortie · Ortica", "regions": ["J", "M", "A", "T"], "months": [3, 4, 5, 6]}, {"id": "wildgarlic", "name": "Wild garlic", "sci": "Allium ursinum", "type": "green", "nutr": ["vitC", "vitA"], "note": "Carpets of broad, soft, bright green leaves in damp spring woods, smelling strongly of garlic; white star flowers in May.", "eat": "Pesto, soup, butter, in omelettes; flowers and green seeds too.", "store": "Freeze as pesto or garlic butter.", "methods": ["infuse", "freeze"], "local": "Bärlauch · Ail des ours · Aglio orsino", "regions": ["M", "J", "T"], "months": [3, 4, 5], "warn": "Always crush a leaf and smell garlic. Lily of the valley, autumn crocus and lords-and-ladies grow in the same woods and are poisonous."}, {"id": "dandelion", "name": "Dandelion", "sci": "Taraxacum officinale", "type": "green", "nutr": ["vitA", "vitC", "iron"], "note": "Rosette of jagged leaves with a single yellow flower on each hollow, milky stem.", "eat": "Young leaves in salad, flowers as syrup ('dandelion honey'), roasted root as coffee.", "store": "Flowers into syrup; dry roots.", "methods": ["cordial", "dry"], "local": "Löwenzahn · Dent-de-lion · Tarassaco", "regions": ["J", "M", "A", "T"], "months": [3, 4, 5, 6, 7, 8, 9, 10]}, {"id": "groundelder", "name": "Ground elder", "sci": "Aegopodium podagraria", "type": "green", "nutr": ["vitC", "vitA", "iron"], "note": "Garden weed with leaves split into threes on a triangular stem, forming dense patches in shade.", "eat": "Young glossy leaves like parsley or spinach; in pesto and soups.", "store": "Blanch and freeze.", "methods": ["freeze"], "local": "Giersch · Égopode · Girardina", "regions": ["J", "M", "A", "T"], "months": [3, 4, 5, 6], "warn": "Its white umbels resemble poisonous hemlocks; pick leaves only, and check the triangular stem."}, {"id": "chickweed", "name": "Chickweed", "sci": "Stellaria media", "type": "green", "nutr": ["vitC"], "note": "Soft sprawling mat with tiny white star flowers and a single line of hairs down the stem.", "eat": "Raw in salads and sandwiches.", "store": "Best fresh.", "methods": [], "local": "Vogelmiere · Mouron des oiseaux · Centocchio", "regions": ["J", "M", "A", "T"], "months": [3, 4, 5, 9, 10, 11]}, {"id": "sorrel", "name": "Common sorrel", "sci": "Rumex acetosa", "type": "green", "nutr": ["vitC", "iron"], "note": "Arrow-shaped leaves with downward-pointing lobes in meadows; reddish flower spikes in early summer. Lemony.", "eat": "Soup, green sauce for fish, salads.", "store": "Best fresh; purée and freeze.", "methods": ["freeze"], "local": "Sauerampfer · Oseille · Acetosa", "regions": ["J", "M", "A", "T"], "months": [4, 5, 6, 7, 8], "warn": "High in oxalic acid; eat in moderation."}, {"id": "woodsorrel", "name": "Wood sorrel", "sci": "Oxalis acetosella", "type": "green", "nutr": ["vitC"], "note": "Small clover-like leaves with three heart-shaped leaflets and white, lilac-veined flowers on shady woodland floors.", "eat": "A lemony garnish.", "store": "Best fresh.", "methods": [], "local": "Waldsauerklee · Oxalis petite oseille · Acetosella", "regions": ["J", "M", "A", "T"], "months": [4, 5, 6, 7, 8, 9], "warn": "High in oxalic acid; small amounts."}, {"id": "garlicmustard", "name": "Garlic mustard", "sci": "Alliaria petiolata", "type": "green", "nutr": ["vitA", "vitC"], "note": "Heart-shaped toothed leaves smelling of garlic when crushed; small white four-petalled flowers on hedgebanks.", "eat": "Salads, sauces, pesto.", "store": "Pesto.", "methods": ["infuse"], "local": "Knoblauchsrauke · Alliaire · Alliaria", "regions": ["M", "J", "T"], "months": [3, 4, 5, 6]}, {"id": "fathen", "name": "Fat hen", "sci": "Chenopodium album", "type": "green", "nutr": ["vitA", "vitC", "iron"], "note": "Goose-foot leaves with a white mealy bloom on young tips; weed of gardens and fields.", "eat": "Cook like spinach.", "store": "Blanch and freeze.", "methods": ["freeze"], "local": "Weißer Gänsefuß · Chénopode blanc · Farinello", "regions": ["M", "T"], "months": [5, 6, 7, 8, 9], "warn": "Contains oxalates; cook and eat in moderation."}, {"id": "plantain", "name": "Ribwort plantain", "sci": "Plantago lanceolata", "type": "green", "nutr": ["vitA"], "note": "Narrow ribbed leaves in a rosette and dark flower heads on long stalks; young flower buds taste of mushroom.", "eat": "Young leaves cooked; buds sautéed.", "store": "Dry leaves for tea.", "methods": ["dry"], "local": "Spitzwegerich · Plantain lancéolé · Piantaggine", "regions": ["J", "M", "A", "T"], "months": [4, 5, 6, 7, 8, 9]}, {"id": "watercress", "name": "Watercress", "sci": "Nasturtium officinale", "type": "green", "nutr": ["vitC", "vitA", "iron"], "note": "Glossy rounded leaflets floating in clean, cold, flowing water. Peppery.", "eat": "Soup, or wilted as greens.", "store": "Best fresh.", "methods": [], "local": "Brunnenkresse · Cresson · Crescione", "regions": ["M", "J", "T"], "months": [3, 4, 5, 9, 10], "warn": "Only from clean water and cook it: wild cress can carry liver fluke."}, {"id": "hops", "name": "Hop shoots", "sci": "Humulus lupulus", "type": "root", "nutr": ["vitC"], "note": "Climbing vine of hedges and riverbanks; tender spring shoots taste like asparagus.", "eat": "Blanched in butter, in omelettes or risotto.", "store": "Pickle or freeze.", "methods": ["pickle", "freeze"], "local": "Hopfensprossen · Jets de houblon · Bruscandoli", "regions": ["M", "T"], "months": [3, 4, 5]}, {"id": "spruce", "name": "Spruce tips", "sci": "Picea abies", "type": "green", "nutr": ["vitC"], "note": "Bright green new growth bursting from papery brown casings on spruce branches in late spring. Citrus-resin flavour.", "eat": "Syrup ('spruce honey'), salt, tea.", "store": "Syrup; freeze.", "methods": ["cordial", "freeze"], "local": "Fichtenspitzen · Bourgeons d'épicéa · Germogli di abete", "regions": ["J", "M", "A", "T"], "months": [5, 6], "warn": "Never confuse with yew (flat soft needles, red berries), which is deadly."}, {"id": "goodking", "name": "Good King Henry", "sci": "Blitum bonus-henricus", "type": "green", "nutr": ["iron", "vitA"], "note": "Arrow-shaped, slightly mealy leaves around mountain huts and pastures; flower spikes like spinach.", "eat": "Cook like spinach; shoots like asparagus.", "store": "Blanch and freeze.", "methods": ["freeze"], "local": "Guter Heinrich · Épinard sauvage · Buon Enrico", "regions": ["A", "J"], "months": [4, 5, 6, 7], "warn": "Contains oxalates; cook it."}, {"id": "woodruff", "name": "Sweet woodruff", "sci": "Galium odoratum", "type": "flower", "nutr": [], "note": "Low woodland plant with whorls of narrow leaves and white star flowers; smells of hay and vanilla when wilted.", "eat": "Woodruff syrup and May punch; wilt before using.", "store": "Dry.", "methods": ["dry", "cordial"], "local": "Waldmeister · Aspérule odorante · Asperula", "regions": ["M", "J"], "months": [4, 5], "warn": "Contains coumarin; use only a small bunch per litre."}, {"id": "blackberry", "name": "Blackberry", "sci": "Rubus fruticosus", "type": "fruit", "nutr": ["vitC", "vitA"], "note": "Thorny arching brambles with leaves in threes or fives; berries ripen red to black.", "eat": "Fresh, crumble, jam, jelly.", "store": "Freeze on trays, then bag.", "methods": ["freeze", "jam"], "local": "Brombeere · Mûre · Mora", "regions": ["M", "J", "T"], "months": [8, 9]}, {"id": "raspberry", "name": "Wild raspberry", "sci": "Rubus idaeus", "type": "fruit", "nutr": ["vitC"], "note": "Upright canes in clearings with leaves white underneath; red berries pull off hollow.", "eat": "Fresh, jam, cordial.", "store": "Freeze.", "methods": ["freeze", "jam"], "local": "Himbeere · Framboise · Lampone", "regions": ["J", "M", "A", "T"], "months": [7, 8]}, {"id": "bilberry", "name": "Bilberry", "sci": "Vaccinium myrtillus", "type": "fruit", "nutr": ["vitC"], "note": "Low shrub of acid woods and heaths with bright green angled stems; dark blue berries that stain purple inside.", "eat": "Fresh, pies, soup, pancakes.", "store": "Freeze or dry.", "methods": ["freeze", "jam"], "local": "Heidelbeere · Myrtille · Mirtillo", "regions": ["A", "J", "M"], "months": [7, 8]}, {"id": "lingonberry", "name": "Lingonberry", "sci": "Vaccinium vitis-idaea", "type": "fruit", "nutr": ["vitC"], "note": "Low evergreen shrub with glossy leathery leaves and clusters of tart red berries in pine and spruce forest.", "eat": "Lingonberry jam with meatballs, game and porridge.", "store": "Stir raw with sugar; keeps for months.", "methods": ["jam"], "local": "Preiselbeere · Airelle rouge · Mirtillo rosso", "regions": ["A"], "months": [8, 9, 10]}, {"id": "strawberry", "name": "Wild strawberry", "sci": "Fragaria vesca", "type": "fruit", "nutr": ["vitC"], "note": "Tiny plants on woodland edges and banks with leaves in threes; small, intensely sweet berries.", "eat": "Fresh, or threaded on a grass stalk.", "store": "Best fresh.", "methods": [], "local": "Walderdbeere · Fraise des bois · Fragolina di bosco", "regions": ["J", "M", "A", "T"], "months": [6, 7]}, {"id": "elderberry", "name": "Elderberry", "sci": "Sambucus nigra", "type": "fruit", "nutr": ["vitC", "vitA"], "note": "Shrub with corky bark and flat drooping umbrellas of tiny black berries on red stalks.", "eat": "Cooked: syrup, soup, jelly, chutney.", "store": "Freeze on the stem, then fork off.", "methods": ["cordial", "jam", "detox"], "local": "Holunderbeere · Holder · Baie de sureau · Bacca di sambuco", "regions": ["M", "J", "T"], "months": [8, 9], "warn": "Always cook. Raw berries, stems and leaves cause nausea."}, {"id": "elderflower", "name": "Elderflower", "sci": "Sambucus nigra", "type": "flower", "nutr": ["vitC"], "note": "Flat creamy-white umbrellas of tiny flowers with a musky-sweet scent on a woody shrub in early summer.", "eat": "Cordial, fritters, sparkling elderflower.", "store": "Make cordial or dry.", "methods": ["cordial", "dry"], "local": "Holunderblüte · Fleur de sureau · Fiori di sambuco", "regions": ["M", "J", "T"], "months": [5, 6], "warn": "Hemlock and hemlock water-dropwort also have white umbels, but they are soft plants, not shrubs."}, {"id": "sloe", "name": "Sloe", "sci": "Prunus spinosa", "type": "fruit", "nutr": ["vitC"], "note": "Dense, very thorny hedge shrub with white blossom before the leaves; dusty blue-black fruit, mouth-puckering raw.", "eat": "Sloe gin, sloe jelly, sloe syrup. Best after a frost.", "store": "Freeze to soften.", "methods": ["freeze", "jam"], "local": "Schlehe · Prunelle · Prugnolo", "regions": ["M", "J", "T"], "months": [9, 10, 11], "warn": "Don't crush the stones."}, {"id": "rosehip", "name": "Rose hips", "sci": "Rosa canina", "type": "fruit", "nutr": ["vitC", "vitA"], "note": "Glossy red-orange hips on wild dog roses after the flowers fade; softer after frost.", "eat": "Syrup, tea, soup, jam.", "store": "Dry for tea; syrup.", "methods": ["cordial", "dry"], "local": "Hagebutte · Cynorrhodon · Rosa canina", "regions": ["J", "M", "A", "T"], "months": [9, 10, 11], "warn": "Strain out the hairy seeds, which irritate."}, {"id": "rowan", "name": "Rowan berries", "sci": "Sorbus aucuparia", "type": "fruit", "nutr": ["vitC"], "note": "Tree with feathery leaves of many toothed leaflets and big clusters of orange-red berries.", "eat": "Cooked jelly with apple, for game.", "store": "Freeze before cooking to reduce bitterness.", "methods": ["jam"], "local": "Vogelbeere · Eberesche · Sorbier des oiseleurs · Sorbo degli uccellatori", "regions": ["J", "M", "A", "T"], "months": [8, 9, 10], "warn": "Never eat raw; always cook (raw berries upset the stomach)."}, {"id": "hawthorn", "name": "Hawthorn", "sci": "Crataegus monogyna", "type": "fruit", "nutr": [], "note": "Thorny hedge tree with lobed leaves, white May blossom and clusters of dark red haws.", "eat": "Haws in ketchup, jelly or fruit leather; young leaves raw.", "store": "Jelly or leather.", "methods": ["jam"], "local": "Weißdorn · Aubépine · Biancospino", "regions": ["M", "J"], "months": [9, 10], "warn": "Don't eat the seeds."}, {"id": "crabapple", "name": "Crab apple", "sci": "Malus sylvestris", "type": "fruit", "nutr": ["vitC"], "note": "Small wild apple tree of hedges and woods; hard, sour little apples.", "eat": "Crab apple jelly, chutney; adds pectin to jams.", "store": "Jelly.", "methods": ["jam"], "local": "Holzapfel · Pommier sauvage · Melo selvatico", "regions": ["M", "J"], "months": [9, 10]}, {"id": "seabuckthorn", "name": "Sea buckthorn", "sci": "Hippophae rhamnoides", "type": "fruit", "nutr": ["vitC", "vitA"], "note": "Thorny coastal and riverside shrub with narrow silvery leaves and dense clusters of bright orange berries.", "eat": "Juice, syrup, jam; very sour and rich in vitamin C.", "store": "Freeze whole branches, then shake off berries.", "methods": ["cordial", "freeze"], "local": "Sanddorn · Argousier · Olivello spinoso", "regions": ["A"], "months": [8, 9, 10]}, {"id": "blackcurrant", "name": "Wild blackcurrant", "sci": "Ribes nigrum", "type": "fruit", "nutr": ["vitC"], "note": "Shrub of damp woods with lobed leaves that smell strongly of blackcurrant; black berries in hanging strings.", "eat": "Cordial, jam.", "store": "Freeze or cordial.", "methods": ["cordial", "jam"], "local": "Schwarze Johannisbeere · Cassis · Ribes nero", "regions": ["A", "J"], "months": [7, 8]}, {"id": "cornel", "name": "Cornelian cherry", "sci": "Cornus mas", "type": "fruit", "nutr": ["vitC"], "note": "Shrub flowering yellow in late winter; glossy red olive-shaped fruit, sour until very ripe.", "eat": "Jam, syrup, liqueur.", "store": "Jam.", "methods": ["jam"], "local": "Kornelkirsche · Tierlibaum · Cornouiller mâle · Corniolo", "regions": ["J", "T", "M"], "months": [8, 9]}, {"id": "barberry", "name": "Barberry", "sci": "Berberis vulgaris", "type": "fruit", "nutr": ["vitC"], "note": "Spiny shrub of dry slopes with yellow flowers and hanging strings of bright red, very sour oblong berries.", "eat": "Dried in rice dishes, jelly.", "store": "Dry.", "methods": ["dry"], "local": "Berberitze · Sauerdorn · Épine-vinette · Crespino", "regions": ["A", "J"], "months": [9, 10], "warn": "Only the ripe berries are edible."}, {"id": "juniper", "name": "Juniper berries", "sci": "Juniperus communis", "type": "fruit", "nutr": [], "note": "Spiky evergreen shrub of heaths and mountains; blue-black berries take two years to ripen.", "eat": "A spice for game, sauerkraut and gin.", "store": "Dry.", "methods": ["dry"], "local": "Wacholder · Genièvre · Ginepro", "regions": ["A", "J"], "months": [9, 10, 11], "warn": "Use as a spice only; avoid in pregnancy."}, {"id": "hazelnut", "name": "Hazelnut", "sci": "Corylus avellana", "type": "nut", "nutr": ["fat", "protein", "energy"], "note": "Multi-stemmed shrub with round, toothed leaves; nuts in frilly husks, ripe when they turn brown.", "eat": "Raw, roasted, in baking.", "store": "Dry in the shell.", "methods": ["nuts"], "local": "Haselnuss · Noisette · Nocciola", "regions": ["M", "J", "T"], "months": [8, 9, 10]}, {"id": "chestnut", "name": "Sweet chestnut", "sci": "Castanea sativa", "type": "nut", "nutr": ["energy"], "note": "Large tree with long, saw-toothed leaves; glossy brown nuts inside very spiny green cases.", "eat": "Roasted, chestnut purée, flour, stuffing.", "store": "Freeze peeled, or dry and grind.", "methods": ["nuts"], "local": "Edelkastanie · Marroni · Châtaigne · Castagna", "regions": ["T"], "months": [10, 11], "warn": "Horse chestnuts (conkers) are poisonous: they have one round nut in a case with few, blunt spikes."}, {"id": "walnut", "name": "Walnut", "sci": "Juglans regia", "type": "nut", "nutr": ["fat", "protein", "energy"], "note": "Tree with leaves of 5–9 smooth leaflets; green husks split to drop wrinkled nuts.", "eat": "Raw, in cakes, Engadine nut tart; green walnuts for liqueur in June.", "store": "Dry in the shell.", "methods": ["nuts"], "local": "Walnuss · Baumnuss · Noix · Noce", "regions": ["M", "T"], "months": [9, 10]}, {"id": "beechnut", "name": "Beechnut", "sci": "Fagus sylvatica", "type": "nut", "nutr": ["fat", "energy"], "note": "Smooth grey-barked tree; small triangular nuts in spiny husks, plentiful in mast years.", "eat": "Roasted as a snack, or pressed for oil.", "store": "Dry.", "methods": ["nuts"], "local": "Buchecker · Faîne · Faggiola", "regions": ["M", "J"], "months": [9, 10], "warn": "Eat roasted and in moderation."}, {"id": "stonepine", "name": "Swiss stone pine nuts", "sci": "Pinus cembra", "type": "nut", "nutr": ["fat", "protein", "energy"], "note": "High-alpine pine with needles in fives and squat purple cones holding large wingless seeds.", "eat": "Toasted nuts, Zirbe liqueur and syrup.", "store": "Dry.", "methods": ["nuts"], "local": "Arve · Zirbe · Arolle · Cembro", "regions": ["A"], "months": [9, 10], "warn": "Take only fallen cones; protected in some cantons."}, {"id": "meadowsweet", "name": "Meadowsweet", "sci": "Filipendula ulmaria", "type": "flower", "nutr": [], "note": "Tall plant of damp meadows and ditches with frothy cream flower heads smelling of almond and honey.", "eat": "Cordial, tea, panna cotta.", "store": "Dry flowers.", "methods": ["dry", "cordial"], "local": "Mädesüß · Reine-des-prés · Olmaria", "regions": ["M", "J"], "months": [6, 7, 8], "warn": "Contains salicylates; avoid if allergic to aspirin."}, {"id": "linden", "name": "Lime blossom", "sci": "Tilia cordata", "type": "flower", "nutr": [], "note": "Big tree with heart-shaped leaves and dangling clusters of pale yellow, honey-scented flowers under a leafy wing.", "eat": "Calming tea; young leaves in salad.", "store": "Dry with the bract.", "methods": ["dry"], "local": "Lindenblüte · Tilleul · Tiglio", "regions": ["M", "T"], "months": [6, 7]}, {"id": "chamomile", "name": "Wild chamomile", "sci": "Matricaria chamomilla", "type": "flower", "nutr": [], "note": "Feathery leaves and small daisy flowers with a hollow, cone-shaped yellow centre and apple scent, on field edges.", "eat": "Tea.", "store": "Dry the flower heads.", "methods": ["dry"], "local": "Kamille · Camomille · Camomilla", "regions": ["M"], "months": [6, 7, 8], "warn": "Avoid if allergic to daisies."}, {"id": "thyme", "name": "Wild thyme", "sci": "Thymus serpyllum", "type": "flower", "nutr": [], "note": "Low aromatic mat with tiny leaves and pink-purple flowers on dry, sunny grassland and rocks.", "eat": "Herb for meat and potatoes; tea.", "store": "Dry.", "methods": ["dry"], "local": "Feldthymian · Serpolet · Timo serpillo", "regions": ["A", "J", "T"], "months": [6, 7, 8]}, {"id": "yarrow", "name": "Yarrow", "sci": "Achillea millefolium", "type": "flower", "nutr": [], "note": "Feathery, finely divided leaves and flat clusters of tiny white flowers in meadows and roadsides.", "eat": "Young leaves in salads; tea.", "store": "Dry.", "methods": ["dry"], "local": "Schafgarbe · Achillée millefeuille · Achillea", "regions": ["J", "M", "A", "T"], "months": [6, 7, 8, 9], "warn": "Hemlock has similar white heads but smooth, purple-blotched stems; yarrow's leaves are feather-like."}, {"id": "redclover", "name": "Red clover", "sci": "Trifolium pratense", "type": "flower", "nutr": ["protein"], "note": "Leaves of three with a pale chevron and round pink-purple flower heads.", "eat": "Tea; flowers on salads.", "store": "Dry the heads.", "methods": ["dry"], "local": "Rotklee · Trèfle des prés · Trifoglio pratense", "regions": ["J", "M", "A", "T"], "months": [5, 6, 7, 8, 9]}], "R": [{"c": "drink", "n": "Elderflower syrup (Holunderblütensirup)", "u": ["elderflower"], "d": "Flower heads steeped with lemon for two days, strained and boiled with sugar. Topped up with water or sparkling water.", "yt": "holunderblütensirup rezept", "h": ["M", "J"]}, {"c": "drink", "n": "Spruce tip syrup (Fichtenspitzensirup)", "u": ["spruce"], "d": "Young spruce tips layered with sugar or simmered into a resinous syrup, for tea, coughs and desserts.", "yt": "fichtenspitzensirup", "h": ["A"]}, {"c": "drink", "n": "Linden blossom tea (Lindenblütentee)", "u": ["linden"], "d": "Dried lime flowers steeped as a calming evening tea.", "yt": "lindenblütentee", "h": []}, {"c": "drink", "n": "Rose hip tea (Hagebuttentee)", "u": ["rosehip"], "d": "Dried rose hips simmered into a ruby tea.", "yt": "hagebuttentee selber machen", "h": []}, {"c": "drink", "n": "Woodruff punch (Maibowle)", "u": ["woodruff"], "d": "Wilted woodruff steeped briefly in white wine and sparkling wine.", "yt": "maibowle waldmeister", "h": ["M"]}, {"c": "starter", "n": "Dandelion salad (Löwenzahnsalat)", "u": ["dandelion"], "d": "Young dandelion leaves with warm bacon, croutons and egg.", "yt": "löwenzahnsalat rezept", "h": []}, {"c": "starter", "n": "Elderflower fritters (Holunderküchlein)", "u": ["elderflower"], "d": "Flower heads dipped in beer batter, fried and dusted with sugar.", "yt": "holunderküchlein", "h": ["M"]}, {"c": "starter", "n": "Roasted chestnuts (Marroni)", "u": ["chestnut"], "d": "Scored chestnuts roasted until the shells split, sold hot in winter streets.", "yt": "heisse marroni selber machen", "h": ["T", "M"]}, {"c": "starter", "n": "Wild herb salad (Wildkräutersalat)", "u": ["groundelder", "chickweed", "sorrel", "dandelion"], "d": "Mixed wild greens with flowers and a mustard dressing.", "yt": "wildkräutersalat", "h": []}, {"c": "side", "n": "Wild garlic pesto (Bärlauchpesto)", "u": ["wildgarlic"], "d": "Wild garlic blended with sbrinz or parmesan, nuts and olive oil.", "yt": "bärlauchpesto rezept", "h": ["M", "J"]}, {"c": "side", "n": "Rose hip jam (Hagebuttenkonfitüre)", "u": ["rosehip"], "d": "Seeded rose hips cooked to a tangy orange purée with sugar.", "yt": "hagebuttenkonfitüre", "h": []}, {"c": "side", "n": "Rowan jelly (Vogelbeergelee)", "u": ["rowan"], "d": "Frozen then cooked rowan berries with apple, set into a bittersweet jelly for game.", "yt": "vogelbeergelee", "h": ["A"]}, {"c": "side", "n": "Bilberry jam (Heidelbeerkonfitüre)", "u": ["bilberry"], "d": "Mountain bilberries cooked with sugar and lemon.", "yt": "heidelbeerkonfitüre", "h": ["A"]}, {"c": "main", "n": "Wild garlic spätzle (Bärlauchspätzli)", "u": ["wildgarlic"], "d": "Spätzle dough blended with wild garlic, with browned butter and cheese.", "yt": "bärlauch spätzli", "h": ["M"]}, {"c": "main", "n": "Nettle soup (Brennnesselsuppe)", "u": ["nettle"], "d": "Young nettles simmered with potato and onion, blended with cream.", "yt": "brennnesselsuppe", "h": []}, {"c": "main", "n": "Good King Henry with polenta", "u": ["goodking"], "d": "Alpine wild spinach wilted with butter, served on polenta.", "yt": "guter heinrich rezept", "h": ["A"]}, {"c": "main", "n": "Chestnut gnocchi (Gnocchi di castagne)", "u": ["chestnut"], "d": "Ticino gnocchi of chestnut flour and potato with sage butter.", "yt": "gnocchi di castagne", "h": ["T"]}, {"c": "bread", "n": "Bilberry tart (Heidelbeerwähe)", "u": ["bilberry"], "d": "Flat Swiss tart of bilberries in a custard of cream and egg.", "yt": "heidelbeerwähe", "h": ["A", "M"]}, {"c": "bread", "n": "Engadine nut tart (Engadiner Nusstorte)", "u": ["walnut"], "d": "Shortcrust filled with caramelised walnuts and cream.", "yt": "engadiner nusstorte", "h": ["A"]}, {"c": "dessert", "n": "Vermicelles", "u": ["chestnut"], "d": "Sweet chestnut purée piped into noodles over meringue and cream.", "yt": "vermicelles rezept", "h": ["M", "T"]}, {"c": "dessert", "n": "Elderberry soup (Holundersuppe)", "u": ["elderberry"], "d": "Cooked elderberries thickened with semolina and apple.", "yt": "holunderbeeren suppe", "h": []}, {"c": "dessert", "n": "Cornelian cherry jelly (Tierlibaum-Gelee)", "u": ["cornel"], "d": "Ripe cornelian cherries set into a ruby jelly.", "yt": "kornelkirschen gelee", "h": ["J"]}, {"c": "dessert", "n": "Wild strawberries with cream", "u": ["strawberry"], "d": "Wild strawberries with meringue and double cream from the Gruyère region.", "yt": "meringue double crème gruyère", "h": []}], "YT": {"nettle": "stinging nettle foraging", "wildgarlic": "wild garlic foraging", "dandelion": "dandelion foraging", "groundelder": "ground elder foraging", "chickweed": "chickweed foraging", "sorrel": "common sorrel foraging", "woodsorrel": "wood sorrel foraging", "garlicmustard": "garlic mustard foraging", "fathen": "fat hen foraging", "plantain": "ribwort plantain foraging", "watercress": "watercress foraging", "hops": "hop shoots foraging", "spruce": "spruce tips foraging", "goodking": "good king henry foraging", "woodruff": "sweet woodruff foraging", "blackberry": "blackberry foraging", "raspberry": "wild raspberry foraging", "bilberry": "bilberry foraging", "lingonberry": "lingonberry foraging", "strawberry": "wild strawberry foraging", "elderberry": "elderberry foraging", "elderflower": "elderflower foraging", "sloe": "sloe foraging", "rosehip": "rose hips foraging", "rowan": "rowan berries foraging", "hawthorn": "hawthorn foraging", "crabapple": "crab apple foraging", "seabuckthorn": "sea buckthorn foraging", "blackcurrant": "wild blackcurrant foraging", "cornel": "cornelian cherry foraging", "barberry": "barberry foraging", "juniper": "juniper berries foraging", "hazelnut": "hazelnut foraging", "chestnut": "sweet chestnut foraging", "walnut": "walnut foraging", "beechnut": "beechnut foraging", "stonepine": "swiss stone pine nuts foraging", "meadowsweet": "meadowsweet foraging", "linden": "lime blossom foraging", "chamomile": "wild chamomile foraging", "thyme": "wild thyme foraging", "yarrow": "yarrow foraging", "redclover": "red clover foraging"}, "YT_M": {}, "HARVEST_T": {"green": "Pinch off young tips and top leaves before the plant flowers, when they are tender and mild. Leave the roots and lower leaves so it regrows. Pick away from roads, sprayed verges and dog-walking paths.", "fruit": "Pick only fully ripe fruit that comes away easily, into a shallow container so it doesn't crush. Leave plenty on the plant for birds and wildlife.", "root": "Only dig roots where you have the landowner's permission, since uprooting wild plants is illegal in many places. Take a few from a large patch and backfill the hole.", "starch": "Tap or collect only from healthy, mature trees, and only in the short season the sap runs. Remove taps afterwards so the tree can heal.", "nut": "Gather nuts from the ground once they fall, discarding any with holes or mould. Leave plenty for wildlife, which depends on them for winter.", "flower": "Pick flowers on a dry, sunny morning once the dew has gone, when the scent is strongest. Take a few heads from each plant so it can still set fruit.", "grain": "Shake or strip ripe seed heads into a bag when they rattle and fall easily. Winnow out the chaff in a breeze.", "protein": "Check local rules, licences, size limits and water-quality warnings before taking any shellfish or fish."}, "HARVEST": {}, "METHODS": [{"id": "dry", "name": "Dry herbs and greens", "keeps": "Keeps 6–12 months", "steps": ["Shake off insects and dirt; wash only if needed and dry well.", "Hang in small bunches or spread thinly on a screen in a warm, airy place out of direct sun.", "When leaves crumble, strip them from the stems.", "Store in airtight jars in the dark."]}, {"id": "freeze", "name": "Blanch and freeze", "keeps": "Keeps 8–12 months", "steps": ["Wash and trim.", "Plunge into boiling water for 1–2 minutes, then into ice water.", "Squeeze or drain dry and pack into portions.", "Freeze flat in bags so they thaw fast."]}, {"id": "jam", "name": "Jam, jelly and fruit cheese", "keeps": "Keeps a year unopened", "steps": ["Simmer fruit with a little water until soft; strain through a cloth for jelly.", "Add sugar (about equal weight for jam) and boil hard to setting point.", "Pour into hot sterilised jars and seal.", "Crab apples add pectin to low-pectin berries."]}, {"id": "cordial", "name": "Cordials and syrups", "keeps": "Keeps 2–3 months in the fridge; a year frozen", "steps": ["Steep flowers in cold water overnight, or simmer berries and strain.", "Dissolve sugar into the liquid with lemon or citric acid.", "Bottle hot into sterilised bottles.", "Dilute about 1 to 10 with water or sparkling water."]}, {"id": "infuse", "name": "Infused vinegar, oil and pesto", "keeps": "Vinegar keeps a year; pesto 3 months frozen", "steps": ["Pack fresh herbs or flowers loosely into a jar.", "Cover with vinegar and leave 2–4 weeks in the dark, then strain.", "For pesto, blend leaves with oil, nuts and salt and freeze in ice-cube trays.", "Never store fresh garlic or herbs in oil at room temperature."]}, {"id": "pickle", "name": "Pickle and ferment", "keeps": "Keeps 6–12 months", "steps": ["Pack shoots, buds or roots tightly into a clean jar.", "Cover with hot spiced vinegar brine, or with 2% salt brine to ferment.", "Keep vegetables under the liquid with a weight.", "Ferments are ready in 1–3 weeks; move to the fridge."]}, {"id": "nuts", "name": "Cure and store nuts", "keeps": "Keeps 6–12 months", "steps": ["Remove husks; float nuts in water and discard any that float.", "Dry in the shell in a single layer in an airy, rodent-proof place for 2–4 weeks.", "Store cool and dry; shell as needed.", "Freeze shelled nuts to stop them going rancid."]}, {"id": "leach", "name": "Leach acorns", "keeps": "Flour keeps 6 months frozen", "steps": ["Shell and chop or grind acorns.", "Soak in cold water, changing it daily, until the bitterness is gone (several days), or boil in changes of water.", "Dry the meal at low heat.", "Grind to flour for breads and pancakes."]}, {"id": "roots", "name": "Store roots", "keeps": "Keeps 2–4 months", "steps": ["Don't wash; brush off soil and let skins dry.", "Pack in damp sand or sawdust in a box.", "Keep cold and dark, just above freezing.", "Check monthly and remove any soft ones."]}, {"id": "detox", "name": "Make it safe to eat", "keeps": "Do this every time", "steps": ["Nettles: cooking, blanching or drying removes the sting.", "Fiddleheads: boil 15 minutes and discard the water before eating.", "Elderberries: always cook them; raw berries, leaves and stems cause sickness.", "Acorns: leach out the tannins before eating."]}], "DANGER": [["Hemlock", "Conium maculatum", "Tall, purple-blotched, hollow stems and lacy leaves; smells mousy. Deadly."], ["Hemlock water-dropwort", "Oenanthe crocata", "Celery-like plant of wet ditches with white umbels. One of the most poisonous plants in Europe."], ["Lily of the valley", "Convallaria majalis", "Paired leaves and white bells, mistaken for wild garlic. Affects the heart."], ["Autumn crocus", "Colchicum autumnale", "Glossy spring leaves in meadows, mistaken for wild garlic. Deadly."], ["Foxglove", "Digitalis purpurea", "Soft hairy leaf rosettes before flowering can be confused with comfrey. Affects the heart."], ["Yew", "Taxus baccata", "Flat soft needles and red berries. Seeds and foliage are deadly."], ["Deadly nightshade", "Atropa belladonna", "Shiny black cherry-like berries in a green star. Deadly."], ["Giant hogweed", "Heracleum mantegazzianum", "Huge umbels; sap causes severe burns in sunlight."], ["Wild mushrooms", "Death cap, destroying angel, deadly webcap", "Deadly species look like edible ones. Leave mushrooms to experts who check each one in person."]], "LOOK": [{"p": ["wildgarlic"], "tw": "convallaria", "name": "Lily of the valley", "sci": "Convallaria majalis", "sev": "Deadly", "tells": ["Wild garlic leaves smell strongly of garlic when crushed. Lily of the valley smells of nothing.", "Wild garlic leaves grow singly on their own stalk; lily of the valley comes in pairs wrapped around one stem.", "Wash your hands between leaves, or you'll smell garlic on everything."], "local": "Lily of the valley"}, {"p": ["wildgarlic"], "tw": "colchicum", "name": "Autumn crocus", "sci": "Colchicum autumnale", "sev": "Deadly", "tells": ["Autumn crocus leaves are thick, stiff and glossy in a tight bunch, with no garlic smell.", "They appear in spring in damp meadows, which is also where wild garlic grows near woods."], "local": "Autumn crocus"}, {"p": ["wildgarlic"], "tw": "arum", "name": "Lords-and-ladies", "sci": "Arum maculatum", "sev": "Poisonous", "tells": ["Arum leaves are arrow-shaped with a network of veins, often dark-spotted.", "Wild garlic has parallel veins and smells of garlic."], "local": "Lords-and-ladies"}, {"p": ["elderflower", "elderberry", "groundelder"], "tw": "conium", "name": "Hemlock", "sci": "Conium maculatum", "sev": "Deadly", "tells": ["Elder is a woody shrub; hemlock is a soft plant with hollow stems.", "Hemlock stems are smooth with purple blotches and smell mousy.", "Ground elder has leaves in threes on a triangular, unspotted stem."], "local": "Hemlock"}, {"p": ["watercress", "groundelder"], "tw": "oenanthe", "name": "Hemlock water-dropwort", "sci": "Oenanthe crocata", "sev": "Deadly", "tells": ["Grows in the same wet ditches as watercress.", "It has celery-like, divided leaves and white umbels; watercress has rounded leaflets and small white four-petalled flowers.", "Its roots look like pale fingers; one root can kill."], "local": "Hemlock water-dropwort"}, {"p": ["chestnut"], "tw": "aesculus", "name": "Horse chestnut", "sci": "Aesculus hippocastanum", "sev": "Poisonous", "tells": ["Sweet chestnut cases are covered in fine dense spines like a hedgehog and hold 2–3 flat nuts with a pointed tip.", "Horse chestnut cases have a few blunt spikes and hold one round conker.", "Horse chestnut leaves are hand-shaped; sweet chestnut leaves are single and saw-toothed."], "local": "Horse chestnut"}, {"p": ["bilberry"], "tw": "vacciniumul", "name": "Bog bilberry", "sci": "Vaccinium uliginosum", "sev": "Mild", "tells": ["Bilberry stems are green and angled; bog bilberry has round brown stems and blue-grey leaves.", "Bog bilberry flesh is pale, bilberry is purple right through.", "Bog bilberry is edible but can cause headaches in large amounts."], "local": "Bog bilberry"}, {"p": ["spruce"], "tw": "taxus", "name": "Yew", "sci": "Taxus baccata", "sev": "Deadly", "tells": ["Spruce needles are stiff, square in section and grow all round the twig.", "Yew needles are flat, soft and dark, in two rows, with a paler underside.", "Yew has red cup-shaped berries."], "local": "Yew"}], "COURSES": [["drink", "Drinks"], ["starter", "Starters & snacks"], ["side", "Sauces, preserves & sides"], ["main", "Main course"], ["bread", "Breads & baking"], ["dessert", "Desserts"]], "TIP": null, "rules": [["100% sure or don't eat it.", "Check the leaf, stem, flower, smell and root. If one feature is off, leave it."], ["Learn from an expert.", "Join a guided foraging walk; local foragers know the lookalikes."], ["Try one new food at a time,", "a small cooked portion, then wait a day."], ["Avoid pollution:", "busy roads, sprayed verges and parks, industrial land, dog-walking paths, polluted water."], ["Know the rules.", "Picking for personal use is allowed in Swiss forests, but nature reserves ban it and many plants are protected. Several cantons limit mushrooms per person per day."], ["Don't uproot plants", "and take only what you'll use."], ["Respect farmland:", "meadows are hay crops, so stay on paths until they're cut."]], "CREDITS": {"nettle": {"a": "Evelyn Simak", "l": "CC BY-SA 2.0", "s": "https://commons.wikimedia.org/wiki/File:Fen_nettle_(Urtica_dioica_ssp._galeopsifolia)_-_geograph.org.uk_-_5423125.jpg"}, "wildgarlic": {"a": "Rodolph", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Photo_of_Allium_Ursinum,_wild_garlic,_north-west_Hampshire,_UK,_May_2014.jpg"}, "dandelion": {"a": "Mathieu Kappler", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Taraxacum_officinale_in_Remiremont,_France_-_2022-05-03_-_02.jpg"}, "groundelder": {"a": "Mnolf", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria_young.jpg"}, "chickweed": {"a": "Kaldari", "l": "CC0", "s": "https://commons.wikimedia.org/wiki/File:Kaldari_Stellaria_media_01.jpg"}, "sorrel": {"a": "Didier Descouens", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:(MHNT)_Rumex_acetosa_-_Habit.jpg"}, "woodsorrel": {"a": "6th Happiness", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:6h_common_yellow_oxalis.jpg"}, "garlicmustard": {"a": "O. Pichard", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Alliaria_petiolata_marais-belloy-sur-somme_80_26042007_3.jpg"}, "fathen": {"a": "Rasbak", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Melganzenvoet_bloeiwijze_Chenopodium_album.jpg"}, "plantain": {"a": "Rasbak", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Grote_weegbree_bloeiwijze_Plantago_major_subsp._major.jpg"}, "watercress": {"a": "Masparasol", "l": "CC BY 3.0", "s": "https://commons.wikimedia.org/wiki/File:Watercress_(2).JPG"}, "hops": {"a": "JackyM59", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Inflorescences_femelles_de_houblon_(Humulus_lupulus)_01.jpg"}, "spruce": {"a": "W.carter", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:New_shoots_on_a_spruce_in_Lah%C3%A4lla_3.jpg"}, "goodking": {"a": "See source", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Illustration_Chenopodium_bonus-henricus0.jpg"}, "woodruff": {"a": "Hajotthu 13:34, 11. Mai 2009 (CEST)", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Waldmeister(Mai).JPG"}, "blackberry": {"a": "Doug Goldman. USDA-NRCS-NPDT United States, N…", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Rubus_allegheniensis_NRCS-015.jpg"}, "raspberry": {"a": "Kollányi Gábor", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Fert%C5%91di_k%C3%A1rmin_m%C3%A1lna.JPG"}, "bilberry": {"a": "Amédée Masclef", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:203_Vaccinum_myrtillus_L.jpg"}, "lingonberry": {"a": "Jonas Bergsten", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Vaccinium_vitis-idaea_20060824_003.jpg"}, "strawberry": {"a": "Walter Siegmund (talk)", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Fragaria_virginiana_2427.JPG"}, "elderberry": {"a": "Edal Anton Lefterov", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Sambucus-berries.jpg"}, "elderflower": {"a": "Willow", "l": "CC BY 2.5", "s": "https://commons.wikimedia.org/wiki/File:Sambucus_nigra_004.jpg"}, "sloe": {"a": "Martin Olsson (mnemo on en/sv wikipedia and c…", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Closeup_of_blackthorn_aka_sloe_aka_prunus_spinosa_sweden_20050924.jpg"}, "rosehip": {"a": "Morn the Gorn", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Rose_hips.jpg"}, "rowan": {"a": "Eeno11", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Rowan_tree_20081002b.jpg"}, "hawthorn": {"a": "Elstro", "l": "CC BY 3.0", "s": "https://commons.wikimedia.org/wiki/File:Hawthorn_fruit.JPG"}, "crabapple": {"a": "H. Zell", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Malus_sylvestris_005.JPG"}, "seabuckthorn": {"a": "No machine-readable author provided. Svdmolen…", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Hippophae_rhamnoides-01_(xndr).JPG"}, "blackcurrant": {"a": "Jerzy Opioła", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG"}, "cornel": {"a": "B.navez", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:CornusMas_Fruits_01.jpg"}, "barberry": {"a": "See source", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Illustration_Berberis_vulgaris0.jpg"}, "juniper": {"a": "Steffen Bauer (www.saatpilot.de)", "l": "CC BY 4.0", "s": "https://commons.wikimedia.org/wiki/File:Juniperus_communis_(common_juniper),_fruit_(SaatPilot).jpg"}, "hazelnut": {"a": "See source", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Corylus_americana1.jpg"}, "chestnut": {"a": "Fir0002", "l": "GFDL 1.2", "s": "https://commons.wikimedia.org/wiki/File:Chestnuts.jpg"}, "walnut": {"a": "Ivar Leidus", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Walnuts_-_whole_and_open_with_halved_kernel.jpg"}, "beechnut": {"a": "Tortuosa", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:FagusSylvNuts.jpg"}, "stonepine": {"a": "ILoveAllTrees", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Fresh_Pinus_cembra_cone_in_June.jpg"}, "meadowsweet": {"a": "AnRo0002", "l": "CC0", "s": "https://commons.wikimedia.org/wiki/File:20140715Filipendula_ulmaria.jpg"}, "linden": {"a": "Plant Image Library", "l": "CC BY-SA 2.0", "s": "https://commons.wikimedia.org/wiki/File:Tilia_americana_(American_Linden)_(28268263222).jpg"}, "chamomile": {"a": "Alvesgaspar", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Matricaria_February_2008-1.jpg"}, "thyme": {"a": "See source", "l": "CC BY-SA 3.0", "s": "https://commons.wikimedia.org/wiki/File:Thymus_serpyllum1.jpg"}, "yarrow": {"a": "SAplants", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Achillea_millefolium_(bright).jpg"}, "redclover": {"a": "Ivar Leidus", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Trifolium_pratense_-_Keila2.jpg"}}, "GALLERY": {}, "TWINS": {"convallaria": {"a": "Ivar Leidus", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Convallaria_majalis_inflorescence_-_Keila.jpg"}, "colchicum": {"a": "See source", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Illustration_Colchicum_autumnale0.jpg"}, "arum": {"a": "Francesco Scelsa", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Aro_scuro.jpg"}, "conium": {"a": "See source", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Conium.jpg"}, "oenanthe": {"a": "Krzysztof Ziarnek, Kenraiz", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Oenanthe_crocata_kz04.jpg"}, "aesculus": {"a": "User:Kilom691", "l": "Public domain", "s": "https://commons.wikimedia.org/wiki/File:Illustration_Aesculus_hippocastanum0_clean.jpg"}, "vacciniumul": {"a": "David Gaya", "l": "CC BY-SA 2.5", "s": "https://commons.wikimedia.org/wiki/File:Vaccinium_uliginosum_fruit.jpg"}, "taxus": {"a": "Didier Descouens", "l": "CC BY-SA 4.0", "s": "https://commons.wikimedia.org/wiki/File:Taxus_baccata_MHNT.jpg"}}, "YTV": {}, "DISHPICS": {}, "site": "https://eaten676.github.io/foragetheworld/ch/", "root": "https://eaten676.github.io/foragetheworld/"}/*COUNTRY*/;
+const {CREDITS,GALLERY,TWINS,YTV,DISHPICS,REGION_NAMES,STATES,TYPES,NUTR,P,YT,YT_M,HARVEST_T,HARVEST,METHODS,DANGER,LOOK,TIP,R}=C;
+const MONTHS=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const range=(a,b)=>{const r=[];let m=a;for(let i=0;i<12;i++){r.push(m);if(m===b)break;m=m%12+1}return r};
+const harvestText=p=>HARVEST[p.id]||HARVEST_T[p.type]||HARVEST_T.green;
+const ytURL=q=>"https://www.youtube.com/results?search_query="+encodeURIComponent(q);
+
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+const state={st:store.get("fi-state-"+C.code)||C.defaultSt,m:new Date().getMonth()+1,type:"all",mode:"now",q:"",nutr:"energy",sort:"avail"};
+if(!STATES[state.st])state.st=C.defaultSt;
+
+const regionsOf=()=>STATES[state.st];
+const inRegion=p=>p.regions.some(r=>regionsOf().includes(r));
+const inSeason=(p,m=state.m)=>p.months.includes(m);
+const mAt=k=>((state.m-1+k)%12)+1;
+const untilMonths=p=>{for(let k=0;k<12;k++)if(p.months.includes(mAt(k)))return k;return 99};
+const leftMonths=p=>{if(p.months.length===12)return 12;let k=0;while(k<12&&p.months.includes(mAt(k)))k++;return k};
+const availLabel=p=>{if(p.months.length===12)return "Available all year";const u=untilMonths(p);if(u===0){const l=leftMonths(p);return l===1?`Now · last month`:`Now · ${l} more months`}return `Back in ${MONTHS[mAt(u)-1]}`+(u===1?" (next month)":"")};
+const SORTS={avail:"Most available",ending:"Ending soon",az:"A–Z"};
+function sortList(list){const s=state.sort;return [...list].sort((a,b)=>{
+  if(s==="az")return a.name.localeCompare(b.name);
+  const ua=untilMonths(a),ub=untilMonths(b);
+  if(s==="ending"){if((ua===0)!==(ub===0))return ua===0?-1:1;if(ua===0)return leftMonths(a)-leftMonths(b)||a.name.localeCompare(b.name);return ua-ub||a.name.localeCompare(b.name)}
+  return ua-ub||leftMonths(b)-leftMonths(a)||b.months.length-a.months.length||a.name.localeCompare(b.name)})}
+const local=()=>P.filter(inRegion);
+const photoURL=p=>"https://commons.wikimedia.org/w/index.php?title=Special:MediaSearch&type=image&search="+encodeURIComponent(p.sci);
+const wikiURL=p=>"https://en.wikipedia.org/wiki/Special:Search?search="+encodeURIComponent(p.sci);
+const strip=p=>`<div class="months" aria-label="In season: ${p.months.map(m=>MONTHS[m-1]).join(", ")}">${MONTHS.map((n,i)=>`<span class="${p.months.includes(i+1)?"on":""} ${i+1===state.m?"now":""}">${n[0]}</span>`).join("")}</div>`;
+const tag=p=>`<span class="tag t-${p.type}">${TYPES[p.type]}</span>`;
+
+const lookFor=p=>LOOK.filter(l=>l.p.includes(p.id));
+const twinPic=l=>TWINS[l.tw]?`<figure class="lk-fig"><img src="../img/tw_${l.tw}.webp" alt="${esc(l.name)}" loading="lazy"><figcaption><b class="bad">Not this: ${esc(l.name)}</b><br>Photo: ${esc(TWINS[l.tw].a)} · ${esc(TWINS[l.tw].l)} · <a href="${esc(TWINS[l.tw].s)}" target="_blank" rel="noopener">source</a></figcaption></figure>`:"";
+const ownPic=p=>CREDITS[p.id]?`<figure class="lk-fig"><img src="../img/${p.id}.webp" alt="${esc(p.name)}" loading="lazy"><figcaption><b class="good">${esc(p.name)}</b></figcaption></figure>`:"";
+function lookBlock(p,l){return `<div class="lookalike"><div class="lk-head"><span class="sev">${esc(l.sev)}</span><h4>Don't confuse with ${esc(l.name)}</h4></div>
+ <div class="lk-sci">${esc(l.sci)}${l.local?" · "+esc(l.local):""}</div>
+ <div class="lk-pics">${ownPic(p)}${twinPic(l)}</div>
+ <ul>${l.tells.map(t=>`<li>${esc(t)}</li>`).join("")}</ul></div>`}
+const galleryOf=p=>[{src:`../img/${p.id}.webp`,c:CREDITS[p.id]},...(GALLERY[p.id]||[]).map((g,i)=>({src:`../img/${p.id}_${i+2}.webp`,c:g}))].filter(x=>x.c);
+function galleryHTML(p){const g=galleryOf(p);if(!g.length)return "";
+ const cap=c=>`Photo: ${esc(c.a)} · ${esc(c.l||"free licence")} · <a href="${esc(c.s)}" target="_blank" rel="noopener">Wikimedia Commons</a>`;
+ return `<figure class="hero"><img class="heroimg" id="heroimg" src="${g[0].src}" alt="${esc(p.name)}"><figcaption id="herocap">${cap(g[0].c)}</figcaption>
+ ${g.length>1?`<div class="thumbs">${g.map((x,i)=>`<button class="tb${i?"":" on"}" data-gsrc="${x.src}" data-gcap="${esc(cap(x.c))}" aria-label="Photo ${i+1}"><img src="${x.src}" alt="" loading="lazy"></button>`).join("")}</div>`:""}</figure>`}
+const dishSlug=n=>n.toLowerCase().replace(/\(.*?\)/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+
+const pic=(p,cls)=>CREDITS[p.id]?`<img class="${cls}" src="../img/${p.id}.webp" alt="${esc(p.name)}" loading="lazy" decoding="async">`:"";
+function card(p){return `<button class="card" data-open="${p.id}">${pic(p,"thumb")}
+  <div class="top"><div><h3>${esc(p.name)}</h3><div class="local">${esc(p.local)}</div></div>${tag(p)}</div>
+  <div class="avail ${untilMonths(p)===0?"now":""}">${availLabel(p)}</div>
+  <p>${esc(p.note)}</p>${p.warn?`<div class="warnline">Caution: read before eating</div>`:""}${lookFor(p).length?`<div class="warnline">Has a dangerous lookalike</div>`:""}${strip(p)}</button>`}
+
+function nearList(){
+  const L=local();
+  let list=state.mode==="now"?L.filter(p=>inSeason(p)):L;
+  if(state.type!=="all")list=list.filter(p=>p.type===state.type);
+  if(state.q){const q=state.q.toLowerCase();list=list.filter(p=>(p.name+p.local+p.sci+p.note).toLowerCase().includes(q))}
+  return sortList(list);
+}
+function renderNearList(){
+  const list=nearList();
+  $("#near-count").textContent=`${list.length} ${list.length===1?"plant":"plants"}`;
+  $("#near-list").innerHTML=list.length?`<div class="grid">${list.map(card).join("")}</div>`:`<div class="empty">Nothing matches here${state.mode==="now"?" this month":""}. Try <b>All year</b>, another type, or clear the search.</div>`;
+  document.querySelectorAll("#v-near [data-mode]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.mode===state.mode));
+  document.querySelectorAll("#v-near [data-type]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.type===state.type));
+}
+function tipLink(n){return TIP.upiId?`upi://pay?pa=${TIP.upiId}&pn=${encodeURIComponent(TIP.payee)}&cu=INR&am=${n}&tn=${encodeURIComponent("Kokum sharbat")}`:""}
+function fundHTML(){
+ return `<section class="tip" id="tip" aria-labelledby="tip-h">
+  <div class="tip-copy">
+   <h2 id="tip-h">Feed the forager</h2>
+   <p>Found something tasty? Buy the forager a snack.</p>
+   ${TIP.upiId?`<a class="btn primary" href="upi://pay?pa=${TIP.upiId}&pn=${encodeURIComponent(TIP.payee)}&cu=INR&tn=${encodeURIComponent("Feed the forager")}">Pay with a UPI app</a>`:""}
+   ${TIP.upiId?`<div class="upi-id"><code id="upi">${esc(TIP.upiId)}</code><button class="chip" id="copyupi">Copy UPI ID</button></div>`:""}
+  </div>
+  <div class="tip-qr">${TIP.qr?`<img class="qr" src="${TIP.qr}" alt="UPI QR code">`:`<div class="qr qr-ph" role="img" aria-label="UPI QR code coming soon"><span>UPI QR code<br>coming soon</span></div>`}<div class="pay-h">Scan with any UPI app</div><div class="pay-apps">GPay · PhonePe · Paytm · BHIM</div></div>
+ </section>`}
+let deferredInstall=null;
+addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredInstall=e;const b=document.getElementById("installbtn");if(b)b.hidden=false});
+function renderHome(){
+  const L=local(), now=L.filter(p=>inSeason(p)).sort((a,b)=>((a.months.length===12)-(b.months.length===12))||leftMonths(a)-leftMonths(b)||a.name.localeCompare(b.name));
+  const plantsNow=now.filter(p=>p.type!=="protein");
+  const pics=plantsNow.filter(p=>CREDITS[p.id]).slice(0,8);
+  const names=plantsNow.slice(0,3).map(p=>p.name.split(' ').map(w=>/^(American|Indian|Himalayan|Japanese|Oregon|Jerusalem|Malabar|Swiss|Good|King|Henry|Davidson's|Labrador|New|Zealand|Old|Kakadu|Lords)$/.test(w)?w:w.toLowerCase()).join(' '));
+  const pic=r=>DISHPICS[dishSlug(r.n)]?2:YTV[dishSlug(r.n)]?1:0;
+  const dishes=COURSES.map(([c])=>R.filter(r=>r.c===c&&rUntil(r)===0).sort((a,b)=>(homeScore(b)-homeScore(a))||(pic(b)-pic(a)))[0]).filter(Boolean);
+  const ios=/iphone|ipad|ipod/i.test(navigator.userAgent);
+  $("#v-home").innerHTML=`
+  <section class="hero">
+   <div class="eyebrow">${esc(state.st)} · ${MONTHS[state.m-1]}</div>
+   <h2><span class="big-n">${now.length}</span> wild foods are in season right now</h2>
+   <p>${names.length?`Think ${names.slice(0,-1).join(", ")}${names.length>1?" and ":""}${names.at(-1)}. Here's what to look for near you.`:"Here's what to look for near you."}</p>
+   <div class="hero-cta"><a class="btn primary" href="#near">See what's near me</a><a class="btn ghost" href="#menu">What can I cook?</a></div>
+  </section>
+  ${pics.length?`<div class="strip" aria-label="In season now">${pics.map(p=>`<button class="strip-card" data-open="${p.id}"><img src="../img/${p.id}.webp" alt="" loading="lazy"><span>${esc(p.name)}</span></button>`).join("")}</div>`:""}
+  <section class="promises">
+   <a href="#near" class="promise"><b>Find</b><span>What grows wild near you, by ${esc(C.regionLabel)} and season.</span></a>
+   <a href="#near" class="promise"><b>Harvest</b><span>When, where and how to pick each one.</span></a>
+   <a href="#menu" class="promise"><b>Cook</b><span>A Forage to Table menu, from drinks to desserts.</span></a>
+  </section>
+  ${dishes.length?`<section class="tonight"><div class="row-h"><h3>Tonight's forage to table</h3><a href="#menu">Full menu</a></div>
+   <div class="cscroll">${dishes.map(r=>dishCard(r,COURSES.find(c=>c[0]===r.c)[1])).join("")}</div></section>`:""}
+  <section class="install">
+   <div><h3>Take it into the forest</h3><p>Add Forage ${esc(C.name)} to your home screen. It works offline, with no signal needed.</p></div>
+   <div><button class="btn primary" id="installbtn" ${deferredInstall?"":"hidden"}>Add to home screen</button>
+   <p class="hint">${ios?"On iPhone: tap Share, then <b>Add to Home Screen</b>.":"In your browser menu, tap <b>Add to Home screen</b> or <b>Install app</b>."}</p></div>
+  </section>`;
+  const ib=document.getElementById("installbtn");if(ib)ib.onclick=async()=>{if(!deferredInstall)return;deferredInstall.prompt();await deferredInstall.userChoice;deferredInstall=null;ib.hidden=true};
+}
+function renderNear(){
+  const L=local(), now=L.filter(p=>inSeason(p));
+  const regs=regionsOf().map(r=>REGION_NAMES[r]).join(" & ");
+  $("#v-near").innerHTML=`
+  <div class="intro"><h2>Wild in ${esc(state.st)} this ${MONTHS[state.m-1]}</h2>
+   <p class="stat"><b>${now.length}</b> in season now · ${L.length} in ${esc(regs)}</p></div>
+  <div class="near-body">
+  <div class="toolbar">
+   <div class="searchrow"><input id="q" class="search" type="search" placeholder="Search plants or local names" value="${esc(state.q)}" aria-label="Search plants">
+   <select id="sort" class="sortsel" aria-label="Sort">${Object.entries(SORTS).map(([k,v])=>`<option value="${k}" ${state.sort===k?"selected":""}>${v}</option>`).join("")}</select></div>
+   <div class="chiprow" role="toolbar" aria-label="Filters">
+    <div class="seg" role="group" aria-label="Season"><button data-mode="now" aria-pressed="${state.mode==="now"}">Now</button><button data-mode="all" aria-pressed="${state.mode==="all"}">All year</button></div>
+    <span class="vr" aria-hidden="true"></span>
+    ${["all",...Object.keys(TYPES)].map(t=>`<button class="chip" data-type="${t}" aria-pressed="${state.type===t}">${t==="all"?"All":TYPES[t]}</button>`).join("")}
+   </div>
+   <div class="count" id="near-count"></div>
+  </div>
+  <div id="near-list"></div>
+  </div>`;
+  $("#sort").onchange=e=>{state.sort=e.target.value;renderNearList()};
+  $("#q").addEventListener("input",e=>{state.q=e.target.value;renderNearList()});
+  renderNearList();
+}
+
+function renderNutrition(){
+  const n=NUTR[state.nutr], L=local().filter(p=>p.nutr.includes(state.nutr)).sort((a,b)=>(inSeason(b)-inSeason(a))||a.name.localeCompare(b.name));
+  const nowCount=L.filter(p=>inSeason(p)).length;
+  $("#v-nutrition").innerHTML=`
+  <div class="intro"><div><h2>Find your nutrition in ${esc(state.st)}</h2>
+  <p>Pick a nutrient to see which wild foods near you have it.</p></div></div>
+
+  <div class="nutri-pick" role="group" aria-label="Nutrient">${Object.entries(NUTR).map(([k,v])=>`<button data-nutr="${k}" aria-pressed="${state.nutr===k}"><b>${v.name}</b><small>${v.blurb}</small></button>`).join("")}</div>
+  <div class="panel"><h3>${n.name}</h3><p>${n.long}</p>
+   <p><b>${nowCount}</b> of ${L.length} sources in your region are in season now.</p>
+   <div class="list">${L.length?L.map(p=>`<button class="row" data-open="${p.id}"><span><b>${esc(p.name)}</b><br><span class="why">${esc(p.local.split(" · ")[0])} · ${p.months.length===12?"all year":p.months.map(m=>MONTHS[m-1]).join(", ")}</span></span><span class="pill ${inSeason(p)?"now":"later"}">${inSeason(p)?"In season":"Later"}</span></button>`).join(""):`<div class="empty">No strong wild source in your region. Buy this one.</div>`}</div>
+  </div>`;
+}
+
+const COURSES=C.COURSES||[["drink","Drinks & juices"],["starter","Starters & snacks"],["side","Chutneys, pickles & raitas"],["main","Main course"],["bread","Breads & rice"],["dessert","Desserts"]];
+const isHome=r=>r.h.some(x=>regionsOf().includes(x));
+const homeScore=r=>{const rg=regionsOf();if(!r.h.length)return 0;const own=r.h[0]===rg[0]?3:r.h.includes(rg[0])?2:r.h.some(x=>rg.includes(x))?1:0;return own};
+const rPlants=r=>r.u.map(id=>P.find(p=>p.id===id)).filter(Boolean);
+const rUntil=r=>{const l=rPlants(r).filter(inRegion);return l.length?Math.min(...l.map(untilMonths)):99};
+const ingImg=r=>{const pl=rPlants(r).find(p=>CREDITS[p.id]);return pl?`../img/${pl.id}.webp`:""};
+const dishImg=r=>{const sl=dishSlug(r.n),fb=ingImg(r);if(DISHPICS[sl])return {src:`../img/dish_${sl}.webp`,dish:true};
+  if(YTV[sl])return {src:`https://i.ytimg.com/vi/${YTV[sl].id}/mqdefault.jpg`,dish:true,yt:true,fb};return fb?{src:fb,dish:false}:null};
+const imgFail=el=>{const f=el.dataset.fb;el.onerror=null;if(f){el.src=f;el.parentNode.classList.add("ing");el.parentNode.classList.remove("vid")}else el.remove()};
+const seasonTxt=r=>{const u=rUntil(r);return u===0?"In season":u<99?"From "+MONTHS[mAt(u)-1]:"Other regions"};
+function dishCard(r,label){const im=dishImg(r),u=rUntil(r),i=R.indexOf(r);
+  return `<button class="dcard" data-dish="${i}"><span class="dimg${im&&!im.dish?" ing":""}${im&&im.yt?" vid":""}">${im?`<img src="${im.src}" alt="" loading="lazy"${im.yt?` data-fb="${im.fb}" onerror="imgFail(this)"`:""}>`:`<span class="noimg">${esc(r.n.charAt(0))}</span>`}</span>
+  <b>${esc(r.n)}</b><span class="dmeta ${!label&&u===0?"now":""}">${label?esc(label):seasonTxt(r)}</span></button>`}
+function openDish(i){const r=R[i];if(!r)return;const im=dishImg(r),sl=dishSlug(r.n),dp=DISHPICS[sl],yv=YTV[sl];
+  $("#sheet-root").innerHTML=`<div class="sheet-bg" id="sbg"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t">
+   <header><div><span class="tag t-${r.c==="drink"?"fruit":"green"}">${COURSES.find(c=>c[0]===r.c)[1]}</span><h2 id="sh-t" style="margin-top:8px">${esc(r.n)}</h2>${isHome(r)?`<div class="fav" style="margin:4px 0 0">${esc(state.st)} favourite</div>`:""}</div><button class="close" id="sclose" aria-label="Close">✕</button></header>
+   ${dp?`<figure class="hero"><img class="heroimg" src="${im.src}" alt="${esc(r.n)}"><figcaption>Photo: ${esc(dp.a)} · ${esc(dp.l)} · <a href="${esc(dp.s)}" target="_blank" rel="noopener">source</a></figcaption></figure>`:""}
+   ${yv?`<figure class="hero vbox"><button class="vplay" id="vplay" aria-label="Play the ${esc(r.n)} recipe video"><img class="heroimg" src="https://i.ytimg.com/vi/${yv.id}/hqdefault.jpg" alt="" data-fb="${ingImg(r)}" onerror="imgFail(this)"><span class="pbadge" aria-hidden="true"></span></button>
+     <figcaption>Video: <a href="https://www.youtube.com/watch?v=${yv.id}" target="_blank" rel="noopener">${esc(yv.ch)}</a> on YouTube</figcaption></figure>`
+    :(!dp&&im?`<figure class="hero"><img class="heroimg" src="${im.src}" alt="${esc(r.n)}"><figcaption>Shown: the wild ingredient</figcaption></figure>`:"")}
+   <div class="photo-links"><a class="btn primary" href="${yv?`https://www.youtube.com/watch?v=${yv.id}`:ytURL(r.yt)}" target="_blank" rel="noopener">▶ ${yv?"Watch on YouTube":"Find a recipe video"}</a>${waShare(r.n+": a wild food recipe from Forage "+C.name,`dishes/${sl}/`)}</div>
+   <div class="facts">
+    ${r.w?`<div class="callout"><b>Note.</b> ${esc(r.w)}</div>`:""}
+    <div><h4>How to make it</h4><p>${esc(r.d)}</p></div>
+    <div><h4>Season</h4><p>${seasonTxt(r)}</p></div>
+    <div><h4>Wild ingredients</h4><div class="uses" style="display:flex;flex-wrap:wrap;gap:6px">${rPlants(r).map(p=>`<button class="chip" data-open="${p.id}">${esc(p.name)}</button>`).join("")}</div></div>
+   </div></div></div>`;
+  const close=()=>{$("#sheet-root").innerHTML="";document.removeEventListener("keydown",k);clearDeep()};const k=e=>{if(e.key==="Escape")close()};
+  $("#sclose").onclick=close;$("#sbg").onclick=e=>{if(e.target.id==="sbg")close()};document.addEventListener("keydown",k);$("#sclose").focus();
+  const vp=$("#vplay");if(vp)vp.onclick=()=>{const f=document.createElement("iframe");f.src=`https://www.youtube-nocookie.com/embed/${yv.id}?autoplay=1&rel=0`;f.title=r.n+" recipe video";f.allow="autoplay; encrypted-media; picture-in-picture; fullscreen";f.allowFullscreen=true;f.className="vframe";vp.replaceWith(f)};
+}
+function renderMenu(){
+  const scope=state.menu||"now"; state.open=state.open||{};
+  const pick=r=>scope==="all"?true:scope==="now"?rUntil(r)===0:rUntil(r)<99;
+  const list=R.filter(pick);
+  const nowN=R.filter(r=>rUntil(r)===0).length, locN=R.filter(r=>rUntil(r)<99).length;
+  $("#v-menu").innerHTML=`
+  <div class="menu-head2"><div><div class="eyebrow">Forage to Table</div><h2>The ${esc(state.st)} menu</h2>
+   <p>${nowN} of ${locN} local dishes are in season in ${MONTHS[state.m-1]}.</p></div>
+   <div class="seg" role="group" aria-label="Menu scope"><button data-menu="now" aria-pressed="${scope==="now"}">In season</button><button data-menu="local" aria-pressed="${scope==="local"}">My region</button><button data-menu="all" aria-pressed="${scope==="all"}">All ${esc(C.name)}</button></div></div>
+  ${COURSES.map(([k,v])=>{const items=list.filter(r=>r.c===k).sort((a,b)=>(homeScore(b)-homeScore(a))||(rUntil(a)===0?0:1)-(rUntil(b)===0?0:1)||rUntil(a)-rUntil(b)||(!!DISHPICS[dishSlug(b.n)]-!!DISHPICS[dishSlug(a.n)])||a.n.localeCompare(b.n));
+    if(!items.length)return "";
+    const open=state.open[k];
+    return `<section class="crow" id="course-${k}"><div class="crow-h"><h3>${v} <span>${items.length}</span></h3>${items.length>2?`<button class="seeall" data-more="${k}">${open?"Show less":"See all →"}</button>`:""}</div>
+    <div class="${open?"cgrid":"cscroll"}">${items.map(dishCard).join("")}</div></section>`}).join("")||`<div class="empty">Nothing in season here this month. Try <b>My region</b>.</div>`}`;
+}
+
+function renderSafety(){
+  $("#v-safety").innerHTML=`
+  <div class="intro"><div><h2>Stay safe</h2><p>Most foraging accidents come from a confident wrong identification. These rules and plants apply anywhere in ${esc(C.the||C.name)}.</p></div></div>
+  <div class="panel"><h3>Golden rules</h3><ol class="rules">
+   ${C.rules.map(([b,t])=>`<li><span><b>${b}</b> ${t}</span></li>`).join("")}
+  </ol></div>
+  <h3 class="section-h">Never eat these</h3>
+  <div class="danger-grid">${DANGER.map(([n,l,d])=>`<div class="panel danger"><h3>${n}</h3><div class="local" style="color:var(--muted);font-size:.85rem">${l}</div><p style="margin-top:6px">${d}</p></div>`).join("")}</div>
+  <h3 class="section-h">Lookalikes to know</h3>
+  <p style="color:var(--muted);margin:-4px 0 10px">The edible plant is on the left and its dangerous double on the right.</p>
+  <div class="lk-grid">${LOOK.map(l=>{const p=P.find(x=>x.id===l.p[0]);return `<div class="panel">${lookBlock(p,l)}<div class="uses" style="display:flex;gap:6px;flex-wrap:wrap;margin-top:6px">${l.p.map(id=>{const q=P.find(x=>x.id===id);return `<button class="chip" data-open="${id}">${esc(q.name)}</button>`}).join("")}</div></div>`}).join("")}</div>
+  <h3 class="section-h">Plants that need preparing first</h3>
+  <div class="list">${P.filter(p=>p.warn).map(p=>`<button class="row" data-open="${p.id}"><span><b>${esc(p.name)}</b><br><span class="why">${esc(p.warn)}</span></span></button>`).join("")}</div>`;
+}
+
+function openSheet(id){
+  const p=P.find(x=>x.id===id);if(!p)return;
+  const ms=p.methods.map(m=>METHODS.find(x=>x.id===m)?.name).filter(Boolean);
+  $("#sheet-root").innerHTML=`<div class="sheet-bg" id="sbg"><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-t">
+   <header><div>${tag(p)}<h2 id="sh-t" style="margin-top:8px">${esc(p.name)}</h2><div class="sci">${esc(p.sci)}</div><div class="local" style="color:var(--muted)">${esc(p.local)}</div></div><button class="close" id="sclose" aria-label="Close">✕</button></header>
+   ${galleryHTML(p)}
+   <div class="photo-links">${CREDITS[p.id]?"":`<a class="btn ghost" href="${photoURL(p)}" target="_blank" rel="noopener">See photos</a>`}<a class="btn primary" href="${ytURL("how to harvest "+p.name+" "+p.local.split(" · ")[0])}" target="_blank" rel="noopener">Watch how to harvest</a><a class="btn primary" href="${ytURL(YT[p.id]||p.name+" recipe")}" target="_blank" rel="noopener">Watch how to prepare</a><a class="btn ghost" href="${wikiURL(p)}" target="_blank" rel="noopener">Read on Wikipedia</a>${waShare(p.name+": when it's in season, how to pick it and what to cook",`plants/${p.id}/`)}</div>
+   <div class="facts">
+    ${p.warn?`<div class="callout"><b>Caution.</b> ${esc(p.warn)}</div>`:""}
+    ${lookFor(p).map(l=>lookBlock(p,l)).join("")}
+    <div><h4>How to recognise it</h4><p>${esc(p.note)}</p></div>
+    <div><h4>Season</h4>${strip(p)}</div>
+    <div><h4>Where in ${esc(C.the||C.name)}</h4><p>${p.regions.map(r=>REGION_NAMES[r]).join(" · ")}${inRegion(p)?"":` <b>(not usually in ${esc(state.st)})</b>`}</p></div>
+    ${p.nutr.length?`<div><h4>Good for</h4><p>${p.nutr.map(k=>NUTR[k].name).join(" · ")}</p></div>`:""}
+    <div><h4>How to harvest</h4><p>${esc(harvestText(p))}</p></div>
+    <div><h4>How to eat it</h4><p>${esc(p.eat)}</p></div>
+    ${(()=>{const rs=R.filter(r=>r.u.includes(p.id));return rs.length?`<div><h4>On the menu</h4><p>${rs.map(r=>`<b>${esc(r.n)}</b> · <a href="${YTV[dishSlug(r.n)]?"https://www.youtube.com/watch?v="+YTV[dishSlug(r.n)].id:ytURL(r.yt)}" target="_blank" rel="noopener">video</a>`).join("<br>")}</p></div>`:""})()}
+    <div><h4>How to store it</h4><p>${esc(p.store)}</p></div>
+   </div></div></div>`;
+  const close=()=>{$("#sheet-root").innerHTML="";document.removeEventListener("keydown",esc_);clearDeep()};
+  const esc_=e=>{if(e.key==="Escape")close()};
+  $("#sclose").onclick=close;$("#sbg").onclick=e=>{if(e.target.id==="sbg")close()};
+  document.addEventListener("keydown",esc_);$("#sclose").focus();
+}
+
+const SITE=C.site;
+const waShare=(title,path)=>`<a class="btn ghost share" href="https://wa.me/?text=${encodeURIComponent(title+"\n"+SITE+path)}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.3-3.9A8 8 0 1 1 8 18.7z"/></svg>Share on WhatsApp</a>`;
+const clearDeep=()=>{if(/^#[pd]\//.test(location.hash))history.replaceState(null,"",location.pathname+location.search)};
+const VIEWS=["home","near","menu","nutrition","safety"];
+function route(){
+  const h=location.hash.slice(1),deep=/^[pd]\//.test(h)?h:"";
+  const v=VIEWS.includes(h)?h:"home";
+  $("#sheet-root").innerHTML="";
+  const was=VIEWS.find(x=>!$("#v-"+x).hidden);
+  VIEWS.forEach(x=>{$("#v-"+x).hidden=x!==v});
+  if(was&&was!==v)window.scrollTo({top:0});
+  document.querySelectorAll("nav.tabs a").forEach(a=>a.setAttribute("aria-current",a.getAttribute("href")==="#"+v?"page":"false"));
+  if(deep){const id=decodeURIComponent(deep.slice(2));if(deep[0]==="p")openSheet(id);else{const i=R.findIndex(r=>dishSlug(r.n)===id);if(i>=0)openDish(i)}}
+}
+document.querySelector("a.brand").addEventListener("click",e=>{e.preventDefault();if(location.hash)history.pushState(null,"",location.pathname+location.search);route()});
+addEventListener("popstate",route);
+function renderTip(){$("#tip-root").innerHTML=TIP?fundHTML():""}
+function renderFoot(){$("#foot").innerHTML=`Seasons and ranges are approximate and shift with weather and altitude. Identify every plant with an experienced local before eating it. Photos come from Wikimedia Commons under free licences, with credits under each one.<br><a href="${SITE}plants/">All wild plants</a> · <a href="${SITE}dishes/">All dishes</a> · <a href="${C.root}">Other countries</a>`}
+document.title="Forage "+C.name;$("#cname").textContent=C.name;$("#brand").setAttribute("aria-label","Forage "+C.name+" home");
+function renderAll(){renderFoot();renderTip();renderHome();renderNear();renderNutrition();renderMenu();renderSafety();route()}
+
+const ss=$("#state");Object.keys(STATES).forEach(s=>ss.add(new Option(s,s,false,s===state.st)));
+const ms=$("#month");MONTHS.forEach((m,i)=>ms.add(new Option(m,i+1,false,i+1===state.m)));
+ss.onchange=e=>{state.st=e.target.value;store.set("fi-state-"+C.code,state.st);renderAll()};
+ms.onchange=e=>{state.m=+e.target.value;renderAll()};
+document.addEventListener("click",e=>{
+  const g=e.target.closest("[data-gsrc]");if(g){const h=document.getElementById("heroimg");if(h){h.src=g.dataset.gsrc;document.getElementById("herocap").innerHTML=g.dataset.gcap;document.querySelectorAll(".tb").forEach(t=>t.classList.toggle("on",t===g))}return}
+  if(e.target.id==="copyupi"){const t=TIP.upiId;const done=()=>{e.target.textContent="Copied"};navigator.clipboard?.writeText(t).then(done,()=>{const r=document.createRange();r.selectNodeContents($("#upi"));const sel=getSelection();sel.removeAllRanges();sel.addRange(r)});return}
+  const o=e.target.closest("[data-open]");if(o){openSheet(o.dataset.open);return}
+  const t=e.target.closest("[data-type]");if(t){state.type=t.dataset.type;renderNearList();return}
+  const m=e.target.closest("[data-mode]");if(m){state.mode=m.dataset.mode;renderNearList();return}
+  const dc=e.target.closest("[data-dish]");if(dc){openDish(+dc.dataset.dish);return}
+  const mo=e.target.closest("[data-more]");if(mo){state.open=state.open||{};const k=mo.dataset.more;state.open[k]=!state.open[k];renderMenu();document.getElementById("course-"+k).scrollIntoView({block:"start"});return}
+  const mm=e.target.closest("[data-menu]");if(mm){state.menu=mm.dataset.menu;renderMenu();return}
+  const jp=e.target.closest("[data-jump]");if(jp){e.preventDefault();document.getElementById("course-"+jp.dataset.jump)?.scrollIntoView({behavior:"smooth",block:"start"});return}
+  const n=e.target.closest("[data-nutr]");if(n){state.nutr=n.dataset.nutr;renderNutrition()}
+});
+addEventListener("hashchange",route);
+renderAll();
+</script>
+
+<script>if('serviceWorker' in navigator){addEventListener('load',()=>navigator.serviceWorker.register('../sw.js').catch(()=>{}))}</script>
+</body>
+</html>

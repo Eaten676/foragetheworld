@@ -1,0 +1,64 @@
+# Forage Norway
+
+> A free guide to wild food in Norway: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 17 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/no/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/no/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/no/dishes/)
+
+## Wild plants
+
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/no/plants/nettle/): Urtica dioica; Brennesle. In season April to July.
+- [Wild garlic](https://eaten676.github.io/foragetheworld/no/plants/wildgarlic/): Allium ursinum; Ramsløk. In season April to June.
+- [Dandelion](https://eaten676.github.io/foragetheworld/no/plants/dandelion/): Taraxacum officinale; Løvetann. In season April to September.
+- [Ground elder](https://eaten676.github.io/foragetheworld/no/plants/groundelder/): Aegopodium podagraria; Skvallerkål. In season May to July.
+- [Chickweed](https://eaten676.github.io/foragetheworld/no/plants/chickweed/): Stellaria media; Vassarve. In season May to September.
+- [Common sorrel](https://eaten676.github.io/foragetheworld/no/plants/sorrel/): Rumex acetosa; Engsyre. In season May to August.
+- [Wood sorrel](https://eaten676.github.io/foragetheworld/no/plants/woodsorrel/): Oxalis acetosella; Gaukesyre. In season May to September.
+- [Spruce tips](https://eaten676.github.io/foragetheworld/no/plants/spruce/): Picea abies; Granskudd. In season May to June.
+- [Sea beet](https://eaten676.github.io/foragetheworld/no/plants/seabeet/): Beta vulgaris subsp. maritima; Strandbete. In season May to September.
+- [Dulse](https://eaten676.github.io/foragetheworld/no/plants/dulse/): Palmaria palmata; Søl. In season April to September.
+- [Sugar kelp](https://eaten676.github.io/foragetheworld/no/plants/kelp/): Saccharina latissima; Sukkertare. In season March to June.
+- [Blue mussels](https://eaten676.github.io/foragetheworld/no/plants/mussel/): Mytilus edulis; Blåskjell. In season January to December.
+- [Sweet woodruff](https://eaten676.github.io/foragetheworld/no/plants/woodruff/): Galium odoratum; Myske. In season May to June.
+- [Wild raspberry](https://eaten676.github.io/foragetheworld/no/plants/raspberry/): Rubus idaeus; Bringebær. In season July to August.
+- [Bilberry](https://eaten676.github.io/foragetheworld/no/plants/bilberry/): Vaccinium myrtillus; Blåbær. In season July to September.
+- [Lingonberry](https://eaten676.github.io/foragetheworld/no/plants/lingonberry/): Vaccinium vitis-idaea; Tyttebær. In season August to October.
+- [Cloudberry](https://eaten676.github.io/foragetheworld/no/plants/cloudberry/): Rubus chamaemorus; Multe, Molte. In season July to August.
+- [Wild strawberry](https://eaten676.github.io/foragetheworld/no/plants/strawberry/): Fragaria vesca; Markjordbær. In season June to August.
+- [Crowberry](https://eaten676.github.io/foragetheworld/no/plants/crowberry/): Empetrum nigrum; Krekling. In season August to September.
+- [Bog cranberry](https://eaten676.github.io/foragetheworld/no/plants/cranberry/): Vaccinium oxycoccos; Tranebær. In season September to October.
+- [Wild blackcurrant](https://eaten676.github.io/foragetheworld/no/plants/blackcurrant/): Ribes nigrum; Solbær. In season July to August.
+- [Rose hips](https://eaten676.github.io/foragetheworld/no/plants/rosehip/): Rosa canina; Nype. In season August to October.
+- [Rowan berries](https://eaten676.github.io/foragetheworld/no/plants/rowan/): Sorbus aucuparia; Rogn. In season August to October.
+- [Elderberry](https://eaten676.github.io/foragetheworld/no/plants/elderberry/): Sambucus nigra; Svarthyll. In season August to September.
+- [Elderflower](https://eaten676.github.io/foragetheworld/no/plants/elderflower/): Sambucus nigra; Hylleblomst. In season June to July.
+- [Sea buckthorn](https://eaten676.github.io/foragetheworld/no/plants/seabuckthorn/): Hippophae rhamnoides; Tindved. In season August to October.
+- [Juniper berries](https://eaten676.github.io/foragetheworld/no/plants/juniper/): Juniperus communis; Einer. In season September to November.
+- [Hazelnut](https://eaten676.github.io/foragetheworld/no/plants/hazelnut/): Corylus avellana; Hasselnøtt. In season August to September.
+- [Meadowsweet](https://eaten676.github.io/foragetheworld/no/plants/meadowsweet/): Filipendula ulmaria; Mjødurt. In season July to August.
+- [Wild thyme](https://eaten676.github.io/foragetheworld/no/plants/thyme/): Thymus serpyllum; Kryddertimian. In season June to August.
+- [Yarrow](https://eaten676.github.io/foragetheworld/no/plants/yarrow/): Achillea millefolium; Ryllik. In season June to September.
+- [Red clover](https://eaten676.github.io/foragetheworld/no/plants/redclover/): Trifolium pratense; Rødkløver. In season June to August.
+
+## Dishes
+
+- [Blackcurrant cordial (solbærsaft)](https://eaten676.github.io/foragetheworld/no/dishes/blackcurrant-cordial/): Blackcurrants cooked with sugar and strained, diluted hot in winter.
+- [Crowberry juice (kreklingsaft)](https://eaten676.github.io/foragetheworld/no/dishes/crowberry-juice/): Steam-juiced crowberries, often mixed with bilberry.
+- [Elderflower cordial (hylleblomstsaft)](https://eaten676.github.io/foragetheworld/no/dishes/elderflower-cordial/): Flowers steeped with lemon and citric acid, then sweetened.
+- [Spruce tip syrup (granskuddsirup)](https://eaten676.github.io/foragetheworld/no/dishes/spruce-tip-syrup/): Young spruce shoots simmered with sugar into a citrusy syrup.
+- [Steamed mussels (blåskjell)](https://eaten676.github.io/foragetheworld/no/dishes/steamed-mussels/): Mussels steamed with white wine, garlic and dill.
+- [Dulse crisps (søl)](https://eaten676.github.io/foragetheworld/no/dishes/dulse-crisps/): Dried dulse toasted in a dry pan until crisp.
+- [Lingonberry jam (tyttebærsyltetøy)](https://eaten676.github.io/foragetheworld/no/dishes/lingonberry-jam/): Lingonberries stirred raw with sugar, served with meatballs, game and potato.
+- [Rowan jelly (rognebærgelé)](https://eaten676.github.io/foragetheworld/no/dishes/rowan-jelly/): Rowan berries with apple, cooked and set for game.
+- [Wild garlic butter (ramsløksmør)](https://eaten676.github.io/foragetheworld/no/dishes/wild-garlic-butter/): Chopped ramsons in butter for fish and potatoes.
+- [Juniper-cured game sauce](https://eaten676.github.io/foragetheworld/no/dishes/juniper-cured-game-sauce/): Crushed juniper and lingonberry in a cream sauce for elk or reindeer.
+- [Nettle soup (nesle suppe)](https://eaten676.github.io/foragetheworld/no/dishes/nettle-soup/): Young nettles in a creamy soup with a boiled egg.
+- [Sugar kelp salad (sukkertare)](https://eaten676.github.io/foragetheworld/no/dishes/sugar-kelp-salad/): Blanched kelp ribbons dressed with sesame and vinegar.
+- [Bilberry muffins (blåbærmuffins)](https://eaten676.github.io/foragetheworld/no/dishes/bilberry-muffins/): Muffins packed with forest bilberries.
+- [Cloudberry cream (multekrem)](https://eaten676.github.io/foragetheworld/no/dishes/cloudberry-cream/): Cloudberries folded into whipped cream; a Christmas dessert.
+- [Bilberry soup (blåbærsuppe)](https://eaten676.github.io/foragetheworld/no/dishes/bilberry-soup/): Warm bilberries thickened with potato starch.
+- [Raspberry cream (bringebærkrem)](https://eaten676.github.io/foragetheworld/no/dishes/raspberry-cream/): Crushed raspberries with whipped cream and sugar.
+- [Rose hip soup (nypesuppe)](https://eaten676.github.io/foragetheworld/no/dishes/rose-hip-soup/): Rose hip purée thickened into a sweet soup with cream.

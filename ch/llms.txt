@@ -1,0 +1,81 @@
+# Forage Switzerland
+
+> A free guide to wild food in Switzerland: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 23 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/ch/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/ch/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/ch/dishes/)
+
+## Wild plants
+
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/ch/plants/nettle/): Urtica dioica; Brennnessel, Ortie, Ortica. In season March to June.
+- [Wild garlic](https://eaten676.github.io/foragetheworld/ch/plants/wildgarlic/): Allium ursinum; Bärlauch, Ail des ours, Aglio orsino. In season March to May.
+- [Dandelion](https://eaten676.github.io/foragetheworld/ch/plants/dandelion/): Taraxacum officinale; Löwenzahn, Dent-de-lion, Tarassaco. In season March to October.
+- [Ground elder](https://eaten676.github.io/foragetheworld/ch/plants/groundelder/): Aegopodium podagraria; Giersch, Égopode, Girardina. In season March to June.
+- [Chickweed](https://eaten676.github.io/foragetheworld/ch/plants/chickweed/): Stellaria media; Vogelmiere, Mouron des oiseaux, Centocchio. In season March to November.
+- [Common sorrel](https://eaten676.github.io/foragetheworld/ch/plants/sorrel/): Rumex acetosa; Sauerampfer, Oseille, Acetosa. In season April to August.
+- [Wood sorrel](https://eaten676.github.io/foragetheworld/ch/plants/woodsorrel/): Oxalis acetosella; Waldsauerklee, Oxalis petite oseille, Acetosella. In season April to September.
+- [Garlic mustard](https://eaten676.github.io/foragetheworld/ch/plants/garlicmustard/): Alliaria petiolata; Knoblauchsrauke, Alliaire, Alliaria. In season March to June.
+- [Fat hen](https://eaten676.github.io/foragetheworld/ch/plants/fathen/): Chenopodium album; Weißer Gänsefuß, Chénopode blanc, Farinello. In season May to September.
+- [Ribwort plantain](https://eaten676.github.io/foragetheworld/ch/plants/plantain/): Plantago lanceolata; Spitzwegerich, Plantain lancéolé, Piantaggine. In season April to September.
+- [Watercress](https://eaten676.github.io/foragetheworld/ch/plants/watercress/): Nasturtium officinale; Brunnenkresse, Cresson, Crescione. In season March to October.
+- [Hop shoots](https://eaten676.github.io/foragetheworld/ch/plants/hops/): Humulus lupulus; Hopfensprossen, Jets de houblon, Bruscandoli. In season March to May.
+- [Spruce tips](https://eaten676.github.io/foragetheworld/ch/plants/spruce/): Picea abies; Fichtenspitzen, Bourgeons d'épicéa, Germogli di abete. In season May to June.
+- [Good King Henry](https://eaten676.github.io/foragetheworld/ch/plants/goodking/): Blitum bonus-henricus; Guter Heinrich, Épinard sauvage, Buon Enrico. In season April to July.
+- [Sweet woodruff](https://eaten676.github.io/foragetheworld/ch/plants/woodruff/): Galium odoratum; Waldmeister, Aspérule odorante, Asperula. In season April to May.
+- [Blackberry](https://eaten676.github.io/foragetheworld/ch/plants/blackberry/): Rubus fruticosus; Brombeere, Mûre, Mora. In season August to September.
+- [Wild raspberry](https://eaten676.github.io/foragetheworld/ch/plants/raspberry/): Rubus idaeus; Himbeere, Framboise, Lampone. In season July to August.
+- [Bilberry](https://eaten676.github.io/foragetheworld/ch/plants/bilberry/): Vaccinium myrtillus; Heidelbeere, Myrtille, Mirtillo. In season July to August.
+- [Lingonberry](https://eaten676.github.io/foragetheworld/ch/plants/lingonberry/): Vaccinium vitis-idaea; Preiselbeere, Airelle rouge, Mirtillo rosso. In season August to October.
+- [Wild strawberry](https://eaten676.github.io/foragetheworld/ch/plants/strawberry/): Fragaria vesca; Walderdbeere, Fraise des bois, Fragolina di bosco. In season June to July.
+- [Elderberry](https://eaten676.github.io/foragetheworld/ch/plants/elderberry/): Sambucus nigra; Holunderbeere, Holder, Baie de sureau, Bacca di sambuco. In season August to September.
+- [Elderflower](https://eaten676.github.io/foragetheworld/ch/plants/elderflower/): Sambucus nigra; Holunderblüte, Fleur de sureau, Fiori di sambuco. In season May to June.
+- [Sloe](https://eaten676.github.io/foragetheworld/ch/plants/sloe/): Prunus spinosa; Schlehe, Prunelle, Prugnolo. In season September to November.
+- [Rose hips](https://eaten676.github.io/foragetheworld/ch/plants/rosehip/): Rosa canina; Hagebutte, Cynorrhodon, Rosa canina. In season September to November.
+- [Rowan berries](https://eaten676.github.io/foragetheworld/ch/plants/rowan/): Sorbus aucuparia; Vogelbeere, Eberesche, Sorbier des oiseleurs, Sorbo degli uccellatori. In season August to October.
+- [Hawthorn](https://eaten676.github.io/foragetheworld/ch/plants/hawthorn/): Crataegus monogyna; Weißdorn, Aubépine, Biancospino. In season September to October.
+- [Crab apple](https://eaten676.github.io/foragetheworld/ch/plants/crabapple/): Malus sylvestris; Holzapfel, Pommier sauvage, Melo selvatico. In season September to October.
+- [Sea buckthorn](https://eaten676.github.io/foragetheworld/ch/plants/seabuckthorn/): Hippophae rhamnoides; Sanddorn, Argousier, Olivello spinoso. In season August to October.
+- [Wild blackcurrant](https://eaten676.github.io/foragetheworld/ch/plants/blackcurrant/): Ribes nigrum; Schwarze Johannisbeere, Cassis, Ribes nero. In season July to August.
+- [Cornelian cherry](https://eaten676.github.io/foragetheworld/ch/plants/cornel/): Cornus mas; Kornelkirsche, Tierlibaum, Cornouiller mâle, Corniolo. In season August to September.
+- [Barberry](https://eaten676.github.io/foragetheworld/ch/plants/barberry/): Berberis vulgaris; Berberitze, Sauerdorn, Épine-vinette, Crespino. In season September to October.
+- [Juniper berries](https://eaten676.github.io/foragetheworld/ch/plants/juniper/): Juniperus communis; Wacholder, Genièvre, Ginepro. In season September to November.
+- [Hazelnut](https://eaten676.github.io/foragetheworld/ch/plants/hazelnut/): Corylus avellana; Haselnuss, Noisette, Nocciola. In season August to October.
+- [Sweet chestnut](https://eaten676.github.io/foragetheworld/ch/plants/chestnut/): Castanea sativa; Edelkastanie, Marroni, Châtaigne, Castagna. In season October to November.
+- [Walnut](https://eaten676.github.io/foragetheworld/ch/plants/walnut/): Juglans regia; Walnuss, Baumnuss, Noix, Noce. In season September to October.
+- [Beechnut](https://eaten676.github.io/foragetheworld/ch/plants/beechnut/): Fagus sylvatica; Buchecker, Faîne, Faggiola. In season September to October.
+- [Swiss stone pine nuts](https://eaten676.github.io/foragetheworld/ch/plants/stonepine/): Pinus cembra; Arve, Zirbe, Arolle, Cembro. In season September to October.
+- [Meadowsweet](https://eaten676.github.io/foragetheworld/ch/plants/meadowsweet/): Filipendula ulmaria; Mädesüß, Reine-des-prés, Olmaria. In season June to August.
+- [Lime blossom](https://eaten676.github.io/foragetheworld/ch/plants/linden/): Tilia cordata; Lindenblüte, Tilleul, Tiglio. In season June to July.
+- [Wild chamomile](https://eaten676.github.io/foragetheworld/ch/plants/chamomile/): Matricaria chamomilla; Kamille, Camomille, Camomilla. In season June to August.
+- [Wild thyme](https://eaten676.github.io/foragetheworld/ch/plants/thyme/): Thymus serpyllum; Feldthymian, Serpolet, Timo serpillo. In season June to August.
+- [Yarrow](https://eaten676.github.io/foragetheworld/ch/plants/yarrow/): Achillea millefolium; Schafgarbe, Achillée millefeuille, Achillea. In season June to September.
+- [Red clover](https://eaten676.github.io/foragetheworld/ch/plants/redclover/): Trifolium pratense; Rotklee, Trèfle des prés, Trifoglio pratense. In season May to September.
+
+## Dishes
+
+- [Elderflower syrup (Holunderblütensirup)](https://eaten676.github.io/foragetheworld/ch/dishes/elderflower-syrup/): Flower heads steeped with lemon for two days, strained and boiled with sugar. Topped up with water or sparkling water.
+- [Spruce tip syrup (Fichtenspitzensirup)](https://eaten676.github.io/foragetheworld/ch/dishes/spruce-tip-syrup/): Young spruce tips layered with sugar or simmered into a resinous syrup, for tea, coughs and desserts.
+- [Linden blossom tea (Lindenblütentee)](https://eaten676.github.io/foragetheworld/ch/dishes/linden-blossom-tea/): Dried lime flowers steeped as a calming evening tea.
+- [Rose hip tea (Hagebuttentee)](https://eaten676.github.io/foragetheworld/ch/dishes/rose-hip-tea/): Dried rose hips simmered into a ruby tea.
+- [Woodruff punch (Maibowle)](https://eaten676.github.io/foragetheworld/ch/dishes/woodruff-punch/): Wilted woodruff steeped briefly in white wine and sparkling wine.
+- [Dandelion salad (Löwenzahnsalat)](https://eaten676.github.io/foragetheworld/ch/dishes/dandelion-salad/): Young dandelion leaves with warm bacon, croutons and egg.
+- [Elderflower fritters (Holunderküchlein)](https://eaten676.github.io/foragetheworld/ch/dishes/elderflower-fritters/): Flower heads dipped in beer batter, fried and dusted with sugar.
+- [Roasted chestnuts (Marroni)](https://eaten676.github.io/foragetheworld/ch/dishes/roasted-chestnuts/): Scored chestnuts roasted until the shells split, sold hot in winter streets.
+- [Wild herb salad (Wildkräutersalat)](https://eaten676.github.io/foragetheworld/ch/dishes/wild-herb-salad/): Mixed wild greens with flowers and a mustard dressing.
+- [Wild garlic pesto (Bärlauchpesto)](https://eaten676.github.io/foragetheworld/ch/dishes/wild-garlic-pesto/): Wild garlic blended with sbrinz or parmesan, nuts and olive oil.
+- [Rose hip jam (Hagebuttenkonfitüre)](https://eaten676.github.io/foragetheworld/ch/dishes/rose-hip-jam/): Seeded rose hips cooked to a tangy orange purée with sugar.
+- [Rowan jelly (Vogelbeergelee)](https://eaten676.github.io/foragetheworld/ch/dishes/rowan-jelly/): Frozen then cooked rowan berries with apple, set into a bittersweet jelly for game.
+- [Bilberry jam (Heidelbeerkonfitüre)](https://eaten676.github.io/foragetheworld/ch/dishes/bilberry-jam/): Mountain bilberries cooked with sugar and lemon.
+- [Wild garlic spätzle (Bärlauchspätzli)](https://eaten676.github.io/foragetheworld/ch/dishes/wild-garlic-sp-tzle/): Spätzle dough blended with wild garlic, with browned butter and cheese.
+- [Nettle soup (Brennnesselsuppe)](https://eaten676.github.io/foragetheworld/ch/dishes/nettle-soup/): Young nettles simmered with potato and onion, blended with cream.
+- [Good King Henry with polenta](https://eaten676.github.io/foragetheworld/ch/dishes/good-king-henry-with-polenta/): Alpine wild spinach wilted with butter, served on polenta.
+- [Chestnut gnocchi (Gnocchi di castagne)](https://eaten676.github.io/foragetheworld/ch/dishes/chestnut-gnocchi/): Ticino gnocchi of chestnut flour and potato with sage butter.
+- [Bilberry tart (Heidelbeerwähe)](https://eaten676.github.io/foragetheworld/ch/dishes/bilberry-tart/): Flat Swiss tart of bilberries in a custard of cream and egg.
+- [Engadine nut tart (Engadiner Nusstorte)](https://eaten676.github.io/foragetheworld/ch/dishes/engadine-nut-tart/): Shortcrust filled with caramelised walnuts and cream.
+- [Vermicelles](https://eaten676.github.io/foragetheworld/ch/dishes/vermicelles/): Sweet chestnut purée piped into noodles over meringue and cream.
+- [Elderberry soup (Holundersuppe)](https://eaten676.github.io/foragetheworld/ch/dishes/elderberry-soup/): Cooked elderberries thickened with semolina and apple.
+- [Cornelian cherry jelly (Tierlibaum-Gelee)](https://eaten676.github.io/foragetheworld/ch/dishes/cornelian-cherry-jelly/): Ripe cornelian cherries set into a ruby jelly.
+- [Wild strawberries with cream](https://eaten676.github.io/foragetheworld/ch/dishes/wild-strawberries-with-cream/): Wild strawberries with meringue and double cream from the Gruyère region.
