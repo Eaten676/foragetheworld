@@ -1,6 +1,6 @@
 # Forage New Zealand
 
-> A free guide to wild food in New Zealand: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 25 dishes to cook with them.
+> A free guide to wild food in New Zealand: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 35 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -46,6 +46,28 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Pāua](https://eaten676.github.io/foragetheworld/nz/plants/paua/): Haliotis iris; Pāua. In season all year round.
 - [Tuangi cockles](https://eaten676.github.io/foragetheworld/nz/plants/cockle/): Austrovenus stutchburyi; Tuangi cockles. In season all year round.
 - [Green-lipped mussels](https://eaten676.github.io/foragetheworld/nz/plants/mussel/): Perna canaliculus; Green-lipped mussels. In season all year round.
+- [Poroporo](https://eaten676.github.io/foragetheworld/nz/plants/poroporo/): Solanum aviculare; Poroporo. In season December to April.
+- [Kānuka tea](https://eaten676.github.io/foragetheworld/nz/plants/kanuka/): Kunzea robusta; Kānuka tea. In season all year round.
+- [Feijoa](https://eaten676.github.io/foragetheworld/nz/plants/feijoa/): Acca sellowiana; Feijoa. In season March to June.
+- [Cherry guava](https://eaten676.github.io/foragetheworld/nz/plants/cherryguava/): Psidium cattleianum; Cherry guava. In season February to May.
+- [Hazelnut](https://eaten676.github.io/foragetheworld/nz/plants/hazelnut/): Corylus avellana; Hazelnut. In season February to April.
+- [Oysters](https://eaten676.github.io/foragetheworld/nz/plants/oyster/): Ostrea edulis / Magallana gigas; Oysters, Tio. In season March to August.
+- [Rimurapa · Bull kelp](https://eaten676.github.io/foragetheworld/nz/plants/rimurapa/): Durvillaea antarctica; Rimurapa, Bull kelp. In season all year round.
+- [Hakeka · Wood ear](https://eaten676.github.io/foragetheworld/nz/plants/hakeka/): Auricularia cornea; Hakeka, Wood ear. In season all year round.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/nz/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Saffron milk cap, Pine mushroom. In season March to May.
+- [Slippery jack](https://eaten676.github.io/foragetheworld/nz/plants/slipperyjack/): Suillus luteus; Slippery jack. In season March to June.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/nz/plants/fieldmushroom/): Agaricus campestris; Field mushroom. In season February to April.
+- [Porcini](https://eaten676.github.io/foragetheworld/nz/plants/porcini/): Boletus edulis; Porcini, Cep. In season March to May.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/nz/plants/shaggymane/): Coprinus comatus; Shaggy inkcap. In season March to June.
+- [Ribwort plantain](https://eaten676.github.io/foragetheworld/nz/plants/plantain/): Plantago lanceolata; Ribwort plantain. In season September to April.
+- [Common mallow](https://eaten676.github.io/foragetheworld/nz/plants/mallow/): Malva sylvestris; Common mallow. In season September to April.
+- [Fat hen](https://eaten676.github.io/foragetheworld/nz/plants/fathen/): Chenopodium album; Fat hen. In season November to March.
+- [Cleavers](https://eaten676.github.io/foragetheworld/nz/plants/cleavers/): Galium aparine; Cleavers. In season August to November.
+- [Gorse flowers](https://eaten676.github.io/foragetheworld/nz/plants/gorse/): Ulex europaeus; Gorse flowers. In season July to November.
+- [Cherry plum](https://eaten676.github.io/foragetheworld/nz/plants/cherryplum/): Prunus cerasifera; Cherry plum, Wild plum. In season December to February.
+- [Raupō](https://eaten676.github.io/foragetheworld/nz/plants/raupo/): Typha orientalis; Raupō. In season November to January.
+- [Hīnau](https://eaten676.github.io/foragetheworld/nz/plants/hinau/): Elaeocarpus dentatus; Hīnau. In season February to May.
+- [Kahikatea berries](https://eaten676.github.io/foragetheworld/nz/plants/kahikatea/): Dacrycarpus dacrydioides; Kahikatea berries. In season March to May.
 
 ## Dishes
 
@@ -74,3 +96,13 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Watercress and pork boil-up](https://eaten676.github.io/foragetheworld/nz/dishes/watercress-and-pork-boil-up/): Pork bones, potatoes and watercress, the Waikato way.
 - [Kiekie fruit (tāwhara)](https://eaten676.github.io/foragetheworld/nz/dishes/kiekie-fruit/): The sweet bracts eaten fresh in spring.
 - [Blackberry crumble](https://eaten676.github.io/foragetheworld/nz/dishes/blackberry-crumble/): Blackberries under an oat crumble.
+- [Feijoa crumble](https://eaten676.github.io/foragetheworld/nz/dishes/feijoa-crumble/): Scooped feijoa pulp under a buttery oat crumble.
+- [Feijoa chutney](https://eaten676.github.io/foragetheworld/nz/dishes/feijoa-chutney/): Feijoas, onion, ginger and vinegar cooked into chutney.
+- [Kānuka tea](https://eaten676.github.io/foragetheworld/nz/dishes/k-nuka-tea/): Fresh kānuka leaves steeped in hot water.
+- [Poroporo jam](https://eaten676.github.io/foragetheworld/nz/dishes/poroporo-jam/): Fully ripe orange poroporo cooked into jam.
+- [Pine mushrooms on toast](https://eaten676.github.io/foragetheworld/nz/dishes/pine-mushrooms-on-toast/): Saffron milk caps fried in butter on toast.
+- [Wood ear stir-fry](https://eaten676.github.io/foragetheworld/nz/dishes/wood-ear-stir-fry/): Hakeka with pork, ginger and spring onion.
+- [Oysters with lemon](https://eaten676.github.io/foragetheworld/nz/dishes/oysters-with-lemon/): Freshly shucked oysters with lemon.
+- [Pungapunga (raupō pollen cake)](https://eaten676.github.io/foragetheworld/nz/dishes/pungapunga/): Golden raupō pollen mixed with water and steamed or baked.
+- [Gorse flower cordial](https://eaten676.github.io/foragetheworld/nz/dishes/gorse-flower-cordial/): Coconut-scented cordial from gorse blossom.
+- [Cherry guava jelly](https://eaten676.github.io/foragetheworld/nz/dishes/cherry-guava-jelly/): Cherry guavas cooked and strained into jelly.

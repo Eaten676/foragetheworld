@@ -1,0 +1,239 @@
+# Forage India
+
+> A free guide to wild food in India: which wild plants are in season in each state and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 124 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/in/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/in/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/in/dishes/)
+
+## Wild plants
+
+- [Moringa](https://eaten676.github.io/foragetheworld/in/plants/moringa/): Moringa oleifera; Sahjan, Nugge, Murungai, Shevga. In season all year round.
+- [Amaranth](https://eaten676.github.io/foragetheworld/in/plants/amaranth/): Amaranthus viridis; Chaulai, Dantu soppu, Keerai, Math. In season June to November.
+- [Bathua](https://eaten676.github.io/foragetheworld/in/plants/bathua/): Chenopodium album; Bathua, Chakota soppu, Chakvat. In season November to March.
+- [Purslane](https://eaten676.github.io/foragetheworld/in/plants/purslane/): Portulaca oleracea; Kulfa, Goni soppu, Paruppu keerai, Ghol. In season March to September.
+- [Wood sorrel](https://eaten676.github.io/foragetheworld/in/plants/woodsorrel/): Oxalis corniculata; Amrul, Huli soppu, Puliyarai. In season June to February.
+- [Indian pennywort](https://eaten676.github.io/foragetheworld/in/plants/pennywort/): Centella asiatica; Brahmi, Ondelaga, Vallarai, Thankuni. In season June to October.
+- [Curry leaves](https://eaten676.github.io/foragetheworld/in/plants/curry/): Murraya koenigii; Kadi patta, Karibevu, Kariveppilai, Kadhi limdo. In season all year round.
+- [Colocasia leaves](https://eaten676.github.io/foragetheworld/in/plants/colocasia/): Colocasia esculenta; Arbi patta, Kesu, Alu, Chembu. In season June to September.
+- [Stinging nettle](https://eaten676.github.io/foragetheworld/in/plants/nettle/): Urtica dioica; Bichhu buti, Kandali, Sisnu. In season February to November.
+- [Fiddlehead fern](https://eaten676.github.io/foragetheworld/in/plants/fiddlehead/): Diplazium esculentum; Lingdu, Dhekia, Ningro. In season March to August.
+- [Bamboo shoots](https://eaten676.github.io/foragetheworld/in/plants/bamboo/): Bambusa; Bans karil, Kalale, Khorisa, Mesu. In season June to September.
+- [Amla](https://eaten676.github.io/foragetheworld/in/plants/amla/): Phyllanthus emblica; Amla, Nellikayi, Nellikai, Avla. In season November to February.
+- [Jamun](https://eaten676.github.io/foragetheworld/in/plants/jamun/): Syzygium cumini; Jamun, Nerale, Naaval, Kalojam. In season May to July.
+- [Ber](https://eaten676.github.io/foragetheworld/in/plants/ber/): Ziziphus mauritiana; Ber, Elachi hannu, Ilanthai, Bor. In season December to March.
+- [Wild mango](https://eaten676.github.io/foragetheworld/in/plants/mango/): Mangifera indica; Aam, Appe midi, Kaadu maavu. In season April to June.
+- [Jackfruit](https://eaten676.github.io/foragetheworld/in/plants/jackfruit/): Artocarpus heterophyllus; Kathal, Halasu, Pala, Phanas. In season March to July.
+- [Tamarind](https://eaten676.github.io/foragetheworld/in/plants/tamarind/): Tamarindus indica; Imli, Hunase, Puli, Chinch. In season January to April.
+- [Bael](https://eaten676.github.io/foragetheworld/in/plants/bael/): Aegle marmelos; Bael, Bilva, Vilvam, Bel. In season March to June.
+- [Cluster fig](https://eaten676.github.io/foragetheworld/in/plants/fig/): Ficus racemosa; Gular, Atti, Atthi, Umbar. In season March to August.
+- [Karonda](https://eaten676.github.io/foragetheworld/in/plants/karonda/): Carissa carandas; Karonda, Kavali, Kalakkai, Karvand. In season July to September.
+- [Kokum](https://eaten676.github.io/foragetheworld/in/plants/kokum/): Garcinia indica; Kokum, Murugalu, Bhirand. In season March to May.
+- [Cashew apple & nut](https://eaten676.github.io/foragetheworld/in/plants/cashew/): Anacardium occidentale; Kaju, Geru, Mundiri, Kaju bondu. In season March to May.
+- [Palmyra palm](https://eaten676.github.io/foragetheworld/in/plants/palmyra/): Borassus flabellifer; Tadgola, Taati nungu, Nungu, Taal. In season April to January.
+- [Khejri (sangri)](https://eaten676.github.io/foragetheworld/in/plants/sangri/): Prosopis cineraria; Sangri, Khejri, Shami. In season March to May.
+- [Ker](https://eaten676.github.io/foragetheworld/in/plants/ker/): Capparis decidua; Ker, Kair, Karil. In season April to June.
+- [Lasoda](https://eaten676.github.io/foragetheworld/in/plants/lasoda/): Cordia myxa; Lasoda, Gunda, Lasura. In season April to June.
+- [Seabuckthorn](https://eaten676.github.io/foragetheworld/in/plants/seabuckthorn/): Hippophae rhamnoides; Tsestalulu, Chharma. In season August to October.
+- [Kafal](https://eaten676.github.io/foragetheworld/in/plants/kafal/): Myrica esculenta; Kafal, Kaphal. In season April to June.
+- [Hisalu](https://eaten676.github.io/foragetheworld/in/plants/hisalu/): Rubus ellipticus; Hisalu, Ainselu. In season April to June.
+- [Walnut](https://eaten676.github.io/foragetheworld/in/plants/walnut/): Juglans regia; Akhrot, Doon. In season September to October.
+- [Chironji](https://eaten676.github.io/foragetheworld/in/plants/chironji/): Buchanania lanzan; Chironji, Charoli, Saara paruppu. In season April to May.
+- [Indian almond](https://eaten676.github.io/foragetheworld/in/plants/almond/): Terminalia catappa; Desi badam, Kaadu badaami, Nattuvadumai. In season July to December.
+- [Mahua](https://eaten676.github.io/foragetheworld/in/plants/mahua/): Madhuca longifolia; Mahua, Ippe, Iluppai, Moha. In season March to June.
+- [Wild yam](https://eaten676.github.io/foragetheworld/in/plants/yam/): Dioscorea; Jangli kand, Kaadu genasu, Kaattu kizhangu. In season October to February.
+- [Water chestnut](https://eaten676.github.io/foragetheworld/in/plants/singhara/): Trapa natans; Singhara, Paniphal. In season October to December.
+- [Lotus stem & seeds](https://eaten676.github.io/foragetheworld/in/plants/lotus/): Nelumbo nucifera; Kamal kakdi, Nadru, Bhein, Makhana. In season October to February.
+- [Wild honey](https://eaten676.github.io/foragetheworld/in/plants/honey/): Apis dorsata; Jangli shahad, Kaadu jenu, Kaattu then. In season March to May.
+- [Clams & shellfish](https://eaten676.github.io/foragetheworld/in/plants/shellfish/): Meretrix casta; Marvai, Tisrya, Kakka. In season October to March.
+- [Paddy snails & small fish](https://eaten676.github.io/foragetheworld/in/plants/snails/): Pila globosa; Gugli, Shamuk, Nathai. In season July to November.
+- [Sessile joyweed](https://eaten676.github.io/foragetheworld/in/plants/honagonne/): Alternanthera sessilis; Honagonne, Ponnanganni, Matsyakshi. In season all year round.
+- [Spiny amaranth](https://eaten676.github.io/foragetheworld/in/plants/spinyamaranth/): Amaranthus spinosus; Kateli chaulai, Mullu harive, Mullu keerai. In season June to October.
+- [Malabar spinach](https://eaten676.github.io/foragetheworld/in/plants/basale/): Basella alba; Poi saag, Basale, Pasalai, Mayalu. In season June to November.
+- [Water spinach](https://eaten676.github.io/foragetheworld/in/plants/kalmi/): Ipomoea aquatica; Kalmi saag, Nali bhaji, Vallal keerai. In season June to November.
+- [Sickle senna](https://eaten676.github.io/foragetheworld/in/plants/chakoda/): Senna tora; Chakoda, Takla, Thagache, Panwar. In season June to August.
+- [Spiny gourd](https://eaten676.github.io/foragetheworld/in/plants/kantola/): Momordica dioica; Kantola, Kakroda, Madahagala, Kartoli. In season July to September.
+- [Ivy gourd](https://eaten676.github.io/foragetheworld/in/plants/ivygourd/): Coccinia grandis; Kundru, Tondli, Thonde, Kovakkai. In season March to November.
+- [Wild banana flower & stem](https://eaten676.github.io/foragetheworld/in/plants/bananaflower/): Musa balbisiana; Kela phool, Bale hoovu, Vazhaipoo, Kol posola. In season all year round.
+- [Fishwort](https://eaten676.github.io/foragetheworld/in/plants/fishwort/): Houttuynia cordata; Ja mardoh, Toningkhok, Masundari. In season March to July.
+- [Culantro](https://eaten676.github.io/foragetheworld/in/plants/culantro/): Eryngium foetidum; Bilati dhonia, Bhot dhaniya. In season all year round.
+- [Tree bean](https://eaten676.github.io/foragetheworld/in/plants/treebean/): Parkia timoriana; Yongchak, Zawngtah, Kharial. In season November to March.
+- [Kachnar buds](https://eaten676.github.io/foragetheworld/in/plants/kachnar/): Bauhinia variegata; Kachnar, Kuler, Koliar. In season February to April.
+- [Agathi flowers & leaves](https://eaten676.github.io/foragetheworld/in/plants/agathi/): Sesbania grandiflora; Agastya, Agase, Agathi keerai, Bok phool. In season October to February.
+- [Buransh](https://eaten676.github.io/foragetheworld/in/plants/buransh/): Rhododendron arboreum; Buransh, Lali gurans. In season February to April.
+- [Neem flowers](https://eaten676.github.io/foragetheworld/in/plants/neemflower/): Azadirachta indica; Neem, Bevu hoovu, Veppam poo. In season March to April.
+- [Phog](https://eaten676.github.io/foragetheworld/in/plants/phog/): Calligonum polygonoides; Phog, Phogla. In season March to April.
+- [Kachri](https://eaten676.github.io/foragetheworld/in/plants/kachri/): Cucumis callosus; Kachri, Kachar, Kachariya. In season October to December.
+- [Matira](https://eaten676.github.io/foragetheworld/in/plants/matira/): Citrullus lanatus; Matira, Kalinga. In season August to October.
+- [Peelu](https://eaten676.github.io/foragetheworld/in/plants/peelu/): Salvadora oleoides; Peelu, Jaal, Mitha jaal. In season May to June.
+- [Kumat](https://eaten676.github.io/foragetheworld/in/plants/kumat/): Senegalia senegal; Kumat, Kumtha. In season November to January.
+- [Kendu](https://eaten676.github.io/foragetheworld/in/plants/kendu/): Diospyros melanoxylon; Tendu, Kendu, Beedi patta. In season April to June.
+- [Kusum](https://eaten676.github.io/foragetheworld/in/plants/kusum/): Schleichera oleosa; Kusum, Kosam, Puvam. In season May to July.
+- [Wild date palm](https://eaten676.github.io/foragetheworld/in/plants/wilddate/): Phoenix sylvestris; Khajur, Eechalu, Eechampazham, Shindi. In season May to July.
+- [Wild phalsa](https://eaten676.github.io/foragetheworld/in/plants/grewia/): Grewia; Phalsa, Dhaman. In season May to June.
+- [Wood apple](https://eaten676.github.io/foragetheworld/in/plants/kaith/): Limonia acidissima; Kaith, Bela, Vilampazham, Kavath. In season October to March.
+- [Wild custard apple](https://eaten676.github.io/foragetheworld/in/plants/custardapple/): Annona squamosa; Sitaphal, Seethaphala, Seetha pazham. In season August to November.
+- [Feral guava](https://eaten676.github.io/foragetheworld/in/plants/guava/): Psidium guajava; Amrood, Sebe hannu, Koyya, Peru. In season August to December.
+- [Monkey jack](https://eaten676.github.io/foragetheworld/in/plants/monkeyjack/): Artocarpus lacucha; Lakuch, Vate huli, Dehua. In season June to August.
+- [Malabar tamarind](https://eaten676.github.io/foragetheworld/in/plants/kudampuli/): Garcinia gummi-gutta; Kudampuli, Uppage, Kodampuli. In season June to August.
+- [Hog plum](https://eaten676.github.io/foragetheworld/in/plants/hogplum/): Spondias pinnata; Amra, Ambade, Amate, Ambazhanga. In season August to November.
+- [Jungle jalebi](https://eaten676.github.io/foragetheworld/in/plants/jalebi/): Pithecellobium dulce; Vilayati imli, Seemai puli, Kodukkapuli, Ganga imli. In season March to May.
+- [Elephant apple](https://eaten676.github.io/foragetheworld/in/plants/elephantapple/): Dillenia indica; Ou tenga, Chalta, Uva. In season October to January.
+- [Sohiong](https://eaten676.github.io/foragetheworld/in/plants/sohiong/): Prunus napaulensis; Sohiong. In season September to October.
+- [Mulberry](https://eaten676.github.io/foragetheworld/in/plants/mulberry/): Morus alba; Shahtoot, Hippunerale, Tuti. In season March to May.
+- [Wild Himalayan pear](https://eaten676.github.io/foragetheworld/in/plants/mehal/): Pyrus pashia; Mehal, Batangi, Kainth. In season October to December.
+- [Kilmora](https://eaten676.github.io/foragetheworld/in/plants/kilmora/): Berberis asiatica; Kilmora, Kingor, Chutro. In season May to July.
+- [Timla](https://eaten676.github.io/foragetheworld/in/plants/timla/): Ficus auriculata; Timla, Timul, Trembal. In season May to August.
+- [Ghain](https://eaten676.github.io/foragetheworld/in/plants/ghain/): Elaeagnus umbellata; Ghain, Kankoli. In season July to August.
+- [Wild pomegranate](https://eaten676.github.io/foragetheworld/in/plants/daru/): Punica granatum; Daru, Darim, Daruni. In season September to October.
+- [Wild apricot](https://eaten676.github.io/foragetheworld/in/plants/apricot/): Prunus armeniaca; Chulu, Chulli, Zardalu. In season June to July.
+- [Chilgoza pine nuts](https://eaten676.github.io/foragetheworld/in/plants/chilgoza/): Pinus gerardiana; Chilgoza, Neoza, Ri. In season September to October.
+- [Makhana](https://eaten676.github.io/foragetheworld/in/plants/makhana/): Euryale ferox; Makhana, Fox nut, Gorgon nut. In season August to October.
+- [Bamboo rice](https://eaten676.github.io/foragetheworld/in/plants/bamboorice/): Bambusa bambos; Mulayari, Bidiru akki, Moongil arisi. In season March to May.
+- [Wild elephant foot yam](https://eaten676.github.io/foragetheworld/in/plants/suran/): Amorphophallus paeoniifolius; Jangli suran, Suvarna gadde, Chena, Ol. In season November to March.
+- [Tikhur](https://eaten676.github.io/foragetheworld/in/plants/tikhur/): Curcuma angustifolia; Tikhur, Jangli aloo, East Indian arrowroot. In season December to February.
+- [Red ant chutney](https://eaten676.github.io/foragetheworld/in/plants/redant/): Oecophylla smaragdina; Kai pimpudi, Kai chutney, Chaprah. In season all year round.
+- [Paddy crabs](https://eaten676.github.io/foragetheworld/in/plants/crab/): Barytelphusa; Kekda, Chimbori, Nandu, Kakra. In season July to October.
+- [Wild taro corms](https://eaten676.github.io/foragetheworld/in/plants/taro/): Colocasia esculenta; Arbi, Kesuvina gadde, Seppankizhangu, Kosu. In season October to February.
+- [Wild asparagus shoots](https://eaten676.github.io/foragetheworld/in/plants/shatavari/): Asparagus racemosus; Shatavari, Satmuli, Halavu makkala thayi. In season June to August.
+- [Cane shoots](https://eaten676.github.io/foragetheworld/in/plants/cane/): Calamus tenuis; Bet gaaj, Chural. In season July to September.
+- [Palm tuber](https://eaten676.github.io/foragetheworld/in/plants/palmtuber/): Borassus flabellifer; Panang kizhangu, Thati gegulu. In season December to January.
+- [Vidarikand](https://eaten676.github.io/foragetheworld/in/plants/vidari/): Pueraria tuberosa; Vidarikand, Bilaikand. In season November to February.
+- [Jambu (Himalayan wild onion)](https://eaten676.github.io/foragetheworld/in/plants/jambu/): Allium stracheyi; Jambu, Jimbu, Faran. In season June to August.
+- [Wild rice](https://eaten676.github.io/foragetheworld/in/plants/wildrice/): Oryza rufipogon; Nivara, Neevar, Uri dhan, Kattu nellu. In season October to December.
+- [Jungle rice](https://eaten676.github.io/foragetheworld/in/plants/junglerice/): Echinochloa colona; Sawa, Sanwak, Kuthiraivali (wild). In season September to November.
+- [Bhurat](https://eaten676.github.io/foragetheworld/in/plants/bhurat/): Cenchrus biflorus; Bhurat, Bharut. In season September to October.
+- [Water lily seeds](https://eaten676.github.io/foragetheworld/in/plants/waterlily/): Nymphaea nouchali; Shapla, Kumudini, Ambal, Bheti. In season October to January.
+- [Wild mung](https://eaten676.github.io/foragetheworld/in/plants/wildmung/): Vigna radiata; Jangli moong, Kaadu hesaru. In season October to December.
+- [Rice bean](https://eaten676.github.io/foragetheworld/in/plants/ricebean/): Vigna umbellata; Naga dal, Sutri, Naurangi. In season October to December.
+- [Velvet bean](https://eaten676.github.io/foragetheworld/in/plants/mucuna/): Mucuna pruriens; Kaunch, Nasagunni, Poonaikkali. In season November to February.
+- [Siali seeds](https://eaten676.github.io/foragetheworld/in/plants/siali/): Phanera vahlii; Siali, Mahul, Maljhan. In season March to May.
+
+## Dishes
+
+- [Kokum sharbat](https://eaten676.github.io/foragetheworld/in/dishes/kokum-sharbat/): Soak dried kokum rinds overnight, mash and strain. Add jaggery, a pinch of roasted cumin and salt, then top up with cold water.
+- [Sol kadhi](https://eaten676.github.io/foragetheworld/in/dishes/sol-kadhi/): Soak kokum in warm water, then mix the pink extract with coconut milk, crushed garlic, green chilli and salt. Drink chilled after meals.
+- [Aam panna](https://eaten676.github.io/foragetheworld/in/dishes/aam-panna/): Boil or roast raw mangoes, scoop out the pulp and blend it with jaggery, roasted cumin, black salt and mint. Dilute with cold water.
+- [Amla juice](https://eaten676.github.io/foragetheworld/in/dishes/amla-juice/): Deseed amla, blend with water, ginger and a little honey or jaggery, then strain. Drink fresh, since vitamin C fades fast.
+- [Bael sharbat](https://eaten676.github.io/foragetheworld/in/dishes/bael-sharbat/): Crack the shell, soak the pulp in water, mash, and strain out the seeds and fibres. Sweeten with jaggery and add a pinch of black salt.
+- [Wood apple sharbat](https://eaten676.github.io/foragetheworld/in/dishes/wood-apple-sharbat/): Scoop out the pulp, mash it in water with jaggery, strain, and add roasted cumin.
+- [Jamun juice](https://eaten676.github.io/foragetheworld/in/dishes/jamun-juice/): Deseed ripe jamun, blend with water, lime, black salt and a little sugar. Strain and drink chilled.
+- [Phalsa sharbat](https://eaten676.github.io/foragetheworld/in/dishes/phalsa-sharbat/): Mash ripe berries in water, strain out the seeds, then add sugar, black salt and roasted cumin.
+- [Karonda squash](https://eaten676.github.io/foragetheworld/in/dishes/karonda-squash/): Boil ripe karondas, strain, then cook the juice with sugar into a syrup. Dilute 1:4 with water to serve.
+- [Buransh squash](https://eaten676.github.io/foragetheworld/in/dishes/buransh-squash/): Simmer red buransh petals in water, strain, then cook with sugar and lemon into a squash. Dilute to drink.
+- [Seabuckthorn juice](https://eaten676.github.io/foragetheworld/in/dishes/seabuckthorn-juice/): Crush berries, strain through cloth, and sweeten with honey. Very sour and full of vitamin C.
+- [Himalayan berry juice](https://eaten676.github.io/foragetheworld/in/dishes/himalayan-berry-juice/): Crush ripe wild berries with a little water, strain, then add honey and a pinch of salt.
+- [Mulberry sharbat](https://eaten676.github.io/foragetheworld/in/dishes/mulberry-sharbat/): Mash ripe mulberries, strain, cook with sugar into a syrup, and dilute with chilled water and lime.
+- [Imli sharbat](https://eaten676.github.io/foragetheworld/in/dishes/imli-sharbat/): Soak tamarind with jaggery, strain, then add roasted cumin, black salt and dry ginger. Dilute with cold water.
+- [Nungu drink](https://eaten676.github.io/foragetheworld/in/dishes/nungu-drink/): Peel and chop tender nungu, then mix with its own juice, chilled milk or water, and a little rose syrup or sugar.
+- [Neera (fresh palm sap)](https://eaten676.github.io/foragetheworld/in/dishes/neera/): Collected at dawn from tapped palms and drunk straight away.
+- [Cashew apple juice](https://eaten676.github.io/foragetheworld/in/dishes/cashew-apple-juice/): Squeeze ripe cashew apples, then mix the juice with a little rice kanji or salt to cut the throat-catching astringency.
+- [Moringa tea](https://eaten676.github.io/foragetheworld/in/dishes/moringa-tea/): Steep a spoon of dried moringa leaves or powder in hot water for 5 minutes, and add lemon and honey.
+- [Neer mor (spiced buttermilk)](https://eaten676.github.io/foragetheworld/in/dishes/neer-mor/): Whisk curd with water, crushed curry leaves, ginger, green chilli and salt.
+- [Ondelaga juice](https://eaten676.github.io/foragetheworld/in/dishes/ondelaga-juice/): Blend a handful of pennywort leaves with water, jaggery and lime, then strain. Or grind them into buttermilk for tambuli.
+- [Tikhur cooler](https://eaten676.github.io/foragetheworld/in/dishes/tikhur-cooler/): Stir a spoon of tikhur starch into cold water or milk with sugar. A traditional summer cooler in Chhattisgarh.
+- [Sohiong juice](https://eaten676.github.io/foragetheworld/in/dishes/sohiong-juice/): Crush the purple fruit with water and sugar, and strain.
+- [Matira juice](https://eaten676.github.io/foragetheworld/in/dishes/matira-juice/): Blend the flesh with a pinch of black salt and mint, and drink straight away.
+- [Nettle tea](https://eaten676.github.io/foragetheworld/in/dishes/nettle-tea/): Steep fresh (gloved) or dried nettle leaves in hot water for 5–10 minutes.
+- [Ambade cooler](https://eaten676.github.io/foragetheworld/in/dishes/ambade-cooler/): Boil ripe hog plums, mash, strain, and add jaggery, salt and a little chilli.
+- [Agase hoovina bajji](https://eaten676.github.io/foragetheworld/in/dishes/agase-hoovina-bajji/): Agathi flowers dipped in spiced besan batter and fried crisp. A Karnataka monsoon snack.
+- [Vazhaipoo vadai](https://eaten676.github.io/foragetheworld/in/dishes/vazhaipoo-vadai/): Chopped banana flower in a coarse chana dal batter with onion and curry leaves, shallow-fried.
+- [Drumstick leaf pakoda](https://eaten676.github.io/foragetheworld/in/dishes/drumstick-leaf-pakoda/): Moringa leaves stirred into besan with onion and chilli, fried in small fritters.
+- [Alu vadi / patra / pathrode](https://eaten676.github.io/foragetheworld/in/dishes/alu-vadi-patra-pathrode/): Colocasia leaves layered with spiced gram or rice batter, rolled, steamed, sliced and tempered.
+- [Basale pakoras](https://eaten676.github.io/foragetheworld/in/dishes/basale-pakoras/): Whole Malabar spinach leaves dipped in batter and fried.
+- [Ilanthai vadai](https://eaten676.github.io/foragetheworld/in/dishes/ilanthai-vadai/): Dried ber pounded with jaggery, chilli and salt, then pressed into sweet-sour sun-dried discs. Tamil Nadu's school-gate snack.
+- [Jackfruit chips](https://eaten676.github.io/foragetheworld/in/dishes/jackfruit-chips/): Firm unripe bulbs sliced thin and fried in coconut oil with salt.
+- [Roasted jackfruit seeds](https://eaten676.github.io/foragetheworld/in/dishes/roasted-jackfruit-seeds/): Seeds roasted in hot sand or a pan, then peeled and salted. Nutty and filling.
+- [Panang kizhangu](https://eaten676.github.io/foragetheworld/in/dishes/panang-kizhangu/): Palm tubers boiled with turmeric and salt, peeled and eaten warm.
+- [Roasted makhana](https://eaten676.github.io/foragetheworld/in/dishes/roasted-makhana/): Fox nuts tossed in ghee with salt, pepper and chaat masala until crunchy.
+- [Boiled singhara](https://eaten676.github.io/foragetheworld/in/dishes/boiled-singhara/): Fresh water chestnuts boiled in their shells, peeled and sprinkled with salt.
+- [Kamal kakdi chips](https://eaten676.github.io/foragetheworld/in/dishes/kamal-kakdi-chips/): Thinly sliced lotus stem, fried crisp with chilli and salt.
+- [Arbi fry](https://eaten676.github.io/foragetheworld/in/dishes/arbi-fry/): Boiled taro corms pan-fried with ajwain, chilli and amchur.
+- [Suran cutlets](https://eaten676.github.io/foragetheworld/in/dishes/suran-cutlets/): Boiled elephant foot yam mashed with spices, shaped and pan-fried.
+- [Singju](https://eaten676.github.io/foragetheworld/in/dishes/singju/): Manipuri salad of sliced tree bean, wild herbs and cabbage, dressed with roasted chilli and perilla.
+- [Purslane salad](https://eaten676.github.io/foragetheworld/in/dishes/purslane-salad/): Tender purslane tips with onion, tomato, lime and roasted peanuts.
+- [Kai chutney](https://eaten676.github.io/foragetheworld/in/dishes/kai-chutney/): Red ants and eggs ground with chilli, garlic, ginger and salt. Similipal's GI-tagged chutney.
+- [Kaith chutney](https://eaten676.github.io/foragetheworld/in/dishes/kaith-chutney/): Wood apple pulp ground with jaggery, green chilli and roasted cumin.
+- [Kachri chutney](https://eaten676.github.io/foragetheworld/in/dishes/kachri-chutney/): Dried kachri ground with garlic, red chilli and salt. Fiery Rajasthani chutney.
+- [Thankuni bata / ondelaga chutney](https://eaten676.github.io/foragetheworld/in/dishes/thankuni-bata-ondelaga-chutney/): Pennywort ground with coconut, green chilli and a little tamarind.
+- [Karibevu podi](https://eaten676.github.io/foragetheworld/in/dishes/karibevu-podi/): Dry-roasted curry leaves with urad dal, chilli and tamarind, ground to a powder for rice and dosa.
+- [Amla pickle](https://eaten676.github.io/foragetheworld/in/dishes/amla-pickle/): Steamed amla in mustard oil with fenugreek, mustard and chilli.
+- [Karonda pickle](https://eaten676.github.io/foragetheworld/in/dishes/karonda-pickle/): Halved karondas salted, then tossed in mustard oil with fennel and nigella.
+- [Lasoda pickle](https://eaten676.github.io/foragetheworld/in/dishes/lasoda-pickle/): Green lasoda berries pickled in mustard oil with fennel and turmeric.
+- [Appe midi uppinakai](https://eaten676.github.io/foragetheworld/in/dishes/appe-midi-uppinakai/): Whole tender wild mangoes brined with mustard, chilli and turmeric. Malnad's prized pickle.
+- [Ambade uppkari](https://eaten676.github.io/foragetheworld/in/dishes/ambade-uppkari/): Hog plums cooked with jaggery, chilli and mustard. A sweet-sour Konkani side.
+- [Ou tenga chutney](https://eaten676.github.io/foragetheworld/in/dishes/ou-tenga-chutney/): Elephant apple layers boiled and mashed with mustard oil, chilli and salt.
+- [Lingdu pickle](https://eaten676.github.io/foragetheworld/in/dishes/lingdu-pickle/): Boiled fiddleheads in mustard oil with lemon, chilli and salt.
+- [Timla pickle](https://eaten676.github.io/foragetheworld/in/dishes/timla-pickle/): Unripe hill figs boiled, then pickled with mustard and chilli.
+- [Akhrot chutney](https://eaten676.github.io/foragetheworld/in/dishes/akhrot-chutney/): Walnuts ground with curd, green chilli, mint and salt. A Kashmiri favourite.
+- [Imli chutney](https://eaten676.github.io/foragetheworld/in/dishes/imli-chutney/): Tamarind cooked down with jaggery, dry ginger and roasted cumin.
+- [Huli soppu chutney](https://eaten676.github.io/foragetheworld/in/dishes/huli-soppu-chutney/): Wood sorrel ground with coconut, chilli and a little jaggery. Small portions only.
+- [Phogla raita](https://eaten676.github.io/foragetheworld/in/dishes/phogla-raita/): Soaked phog buds stirred into whisked curd with cumin and salt.
+- [Bathua raita](https://eaten676.github.io/foragetheworld/in/dishes/bathua-raita/): Boiled, chopped bathua folded into curd with roasted cumin.
+- [Ugadi pachadi](https://eaten676.github.io/foragetheworld/in/dishes/ugadi-pachadi/): Neem flowers, raw mango, tamarind, jaggery, salt and chilli: six tastes in one spoonful for the new year.
+- [Shevgyachya shenganchi amti](https://eaten676.github.io/foragetheworld/in/dishes/shevgyachya-shenganchi-amti/): Maharashtrian drumstick amti: toor dal with goda masala, kokum or tamarind and a touch of jaggery.
+- [Chinch-gulachi amti](https://eaten676.github.io/foragetheworld/in/dishes/chinch-gulachi-amti/): Sweet-sour tamarind and jaggery dal with goda masala. A Pune and Konkan staple.
+- [Karvandachi chutney](https://eaten676.github.io/foragetheworld/in/dishes/karvandachi-chutney/): Raw karvanda ground with green chilli, jaggery and salt. A Maharashtrian monsoon side.
+- [Nugge soppu palya](https://eaten676.github.io/foragetheworld/in/dishes/nugge-soppu-palya/): Moringa leaves stir-fried with mustard, urad dal, onion and grated coconut.
+- [Drumstick sambar](https://eaten676.github.io/foragetheworld/in/dishes/drumstick-sambar/): Toor dal and tamarind sambar with drumstick pods simmered until tender.
+- [Dantu soppu saaru](https://eaten676.github.io/foragetheworld/in/dishes/dantu-soppu-saaru/): Amaranth simmered with dal, tamarind and rasam powder, tempered with garlic.
+- [Bathua saag](https://eaten676.github.io/foragetheworld/in/dishes/bathua-saag/): Bathua slow-cooked with mustard greens, garlic and makki atta, finished with ghee.
+- [Basale bassaru](https://eaten676.github.io/foragetheworld/in/dishes/basale-bassaru/): Malabar spinach and dal stock as a spicy saaru, with the greens as palya. Two dishes from one pot.
+- [Honagonne saaru](https://eaten676.github.io/foragetheworld/in/dishes/honagonne-saaru/): Sessile joyweed in a light dal saaru with garlic tempering.
+- [Kandali saag](https://eaten676.github.io/foragetheworld/in/dishes/kandali-saag/): Blanched nettles cooked with garlic, chilli and a little rice flour. A Kumaoni winter dish.
+- [Kalmi saag](https://eaten676.github.io/foragetheworld/in/dishes/kalmi-saag/): Water spinach stir-fried with nigella, garlic and dry chilli.
+- [Takla bhaji / chakoda bhaji](https://eaten676.github.io/foragetheworld/in/dishes/takla-bhaji-chakoda-bhaji/): Tender senna leaves cooked dry with onion, garlic and besan.
+- [Kartoli bhaji / kantola sabzi](https://eaten676.github.io/foragetheworld/in/dishes/kartoli-bhaji-kantola-sabzi/): Sliced spiny gourd stir-fried with onion and spices, or stuffed and fried.
+- [Tondli bhaji](https://eaten676.github.io/foragetheworld/in/dishes/tondli-bhaji/): Ivy gourd slices cooked with peanuts, coconut and goda masala.
+- [Ker sangri](https://eaten676.github.io/foragetheworld/in/dishes/ker-sangri/): Dried ker berries and sangri beans soaked, boiled and cooked with yoghurt, red chilli and amchur.
+- [Panchkuta](https://eaten676.github.io/foragetheworld/in/dishes/panchkuta/): The Thar's five-ingredient desert curry, cooked dry with spices and oil.
+- [Kachnar ki sabzi](https://eaten676.github.io/foragetheworld/in/dishes/kachnar-ki-sabzi/): Blanched kachnar buds cooked with onion, curd and garam masala.
+- [Kathal biryani](https://eaten676.github.io/foragetheworld/in/dishes/kathal-biryani/): Raw jackfruit chunks layered with rice and whole spices. It eats like meat.
+- [Kalale palya](https://eaten676.github.io/foragetheworld/in/dishes/kalale-palya/): Boiled bamboo shoots cooked dry with coconut and chilli. A Malnad monsoon dish.
+- [Bamboo shoot pork](https://eaten676.github.io/foragetheworld/in/dishes/bamboo-shoot-pork/): Pork cooked with fermented bamboo shoot and chilli. A Naga and Assamese classic.
+- [Bet gaaj bhaji](https://eaten676.github.io/foragetheworld/in/dishes/bet-gaaj-bhaji/): Bitter cane shoot core stir-fried with potato and mustard oil.
+- [Lingdu bhaji](https://eaten676.github.io/foragetheworld/in/dishes/lingdu-bhaji/): Fiddleheads boiled, then stir-fried with garlic, cumin and chilli.
+- [Nadru yakhni](https://eaten676.github.io/foragetheworld/in/dishes/nadru-yakhni/): Lotus stem in a fennel and dry-ginger yoghurt gravy. Kashmiri.
+- [Chena erissery](https://eaten676.github.io/foragetheworld/in/dishes/chena-erissery/): Elephant foot yam with black-eyed beans in roasted coconut. A Kerala Onam dish.
+- [Wild yam curry](https://eaten676.github.io/foragetheworld/in/dishes/wild-yam-curry/): Soaked and boiled yam chunks in a coconut or mustard curry.
+- [Eromba with yongchak](https://eaten676.github.io/foragetheworld/in/dishes/eromba-with-yongchak/): Manipuri mash of boiled tree bean, potato, fermented fish and fiery chilli.
+- [Kudampuli fish curry](https://eaten676.github.io/foragetheworld/in/dishes/kudampuli-fish-curry/): Kerala red fish curry soured with smoked Malabar tamarind.
+- [Kokum saaru](https://eaten676.github.io/foragetheworld/in/dishes/kokum-saaru/): Thin, tangy kokum rasam tempered with ghee and cumin.
+- [Ou tenga dal](https://eaten676.github.io/foragetheworld/in/dishes/ou-tenga-dal/): Masoor dal soured with elephant apple slices. Assamese summer comfort.
+- [Puliyogare](https://eaten676.github.io/foragetheworld/in/dishes/puliyogare/): Rice tossed in a thick tamarind paste with sesame, peanuts and curry leaves.
+- [Veppam poo rasam](https://eaten676.github.io/foragetheworld/in/dishes/veppam-poo-rasam/): Fried neem flowers in a tamarind rasam. Bitter, sour and soothing.
+- [Tisryo masala](https://eaten676.github.io/foragetheworld/in/dishes/tisryo-masala/): Clams on the half shell cooked dry with coconut and Goan spices.
+- [Nandu rasam / kekda curry](https://eaten676.github.io/foragetheworld/in/dishes/nandu-rasam-kekda-curry/): Paddy crabs in a peppery rasam or a thick coconut curry.
+- [Gugli curry](https://eaten676.github.io/foragetheworld/in/dishes/gugli-curry/): Boiled, cleaned snails in a spicy onion-garlic gravy. Odisha and Bengal.
+- [Jambu tadka dal](https://eaten676.github.io/foragetheworld/in/dishes/jambu-tadka-dal/): Dal finished with jambu leaves sizzled in ghee. The Garhwali signature.
+- [Shatavari stir-fry](https://eaten676.github.io/foragetheworld/in/dishes/shatavari-stir-fry/): Wild asparagus spears tossed in mustard oil with garlic.
+- [Atti kai palya](https://eaten676.github.io/foragetheworld/in/dishes/atti-kai-palya/): Unripe cluster figs boiled and cooked dry with coconut.
+- [Mahua bhat](https://eaten676.github.io/foragetheworld/in/dishes/mahua-bhat/): Dried mahua flowers cooked into rice for natural sweetness. A tribal staple.
+- [Bathua paratha](https://eaten676.github.io/foragetheworld/in/dishes/bathua-paratha/): Chopped bathua kneaded into wheat dough with ajwain, rolled and roasted with ghee.
+- [Moringa thepla](https://eaten676.github.io/foragetheworld/in/dishes/moringa-thepla/): Soft flatbreads of wheat and besan with moringa leaves and spices.
+- [Sogra](https://eaten676.github.io/foragetheworld/in/dishes/sogra/): Thick bajra rotis made with ground matira seeds. Desert winter fare.
+- [Singhara atta puri](https://eaten676.github.io/foragetheworld/in/dishes/singhara-atta-puri/): Water chestnut flour puris, eaten on fasting days.
+- [Wild greens dosa](https://eaten676.github.io/foragetheworld/in/dishes/wild-greens-dosa/): Ground rice and dal batter with a handful of greens. No fermentation needed.
+- [Bhagar / nivara khichdi](https://eaten676.github.io/foragetheworld/in/dishes/bhagar-nivara-khichdi/): Wild rice or jungle rice cooked with peanuts, cumin, green chilli and ghee. The classic fasting meal.
+- [Shapla khoi](https://eaten676.github.io/foragetheworld/in/dishes/shapla-khoi/): Water lily seeds popped in a hot pan like tiny popcorn, then salted.
+- [Roasted siali seeds](https://eaten676.github.io/foragetheworld/in/dishes/roasted-siali-seeds/): Siali seeds roasted in their shells, then cracked and eaten warm. A tribal Odisha snack.
+- [Wild mung dal](https://eaten676.github.io/foragetheworld/in/dishes/wild-mung-dal/): Small wild green gram cooked into a simple dal with garlic and cumin tempering.
+- [Rice bean with pork](https://eaten676.github.io/foragetheworld/in/dishes/rice-bean-with-pork/): Naga-style rice bean slow-cooked with smoked pork and chilli.
+- [Bhurat roti](https://eaten676.github.io/foragetheworld/in/dishes/bhurat-roti/): Ground bhurat seeds mixed into bajra flour and patted into thick rotis. Desert famine fare.
+- [Bamboo rice](https://eaten676.github.io/foragetheworld/in/dishes/bamboo-rice/): Cooked like ordinary rice, with a nutty, sticky bite.
+- [Mahua laddoo](https://eaten676.github.io/foragetheworld/in/dishes/mahua-laddoo/): Dried mahua flowers roasted and pounded with roasted grains and sesame.
+- [Tikhur barfi](https://eaten676.github.io/foragetheworld/in/dishes/tikhur-barfi/): Tikhur starch cooked with milk and sugar until it sets, then cut into squares. Chhattisgarh's festival sweet.
+- [Bamboo rice payasam](https://eaten676.github.io/foragetheworld/in/dishes/bamboo-rice-payasam/): Bamboo rice simmered in coconut milk and jaggery with cardamom.
+- [Makhana kheer](https://eaten676.github.io/foragetheworld/in/dishes/makhana-kheer/): Roasted fox nuts simmered in milk with sugar, cardamom and chironji.
+- [Aam papad](https://eaten676.github.io/foragetheworld/in/dishes/aam-papad/): Mango pulp and jaggery sun-dried in thin layers into fruit leather.
+- [Amla murabba](https://eaten676.github.io/foragetheworld/in/dishes/amla-murabba/): Whole amla slow-cooked in sugar syrup with cardamom.
+- [Chakka varatti](https://eaten676.github.io/foragetheworld/in/dishes/chakka-varatti/): Ripe jackfruit cooked down with jaggery and ghee into a dark jam. Kerala.
+- [Jamun sorbet](https://eaten676.github.io/foragetheworld/in/dishes/jamun-sorbet/): Jamun pulp blended with sugar, lime and black salt, then frozen.
+- [Mulberry jam](https://eaten676.github.io/foragetheworld/in/dishes/mulberry-jam/): Mulberries cooked with sugar and lemon until thick.
+- [Guava cheese](https://eaten676.github.io/foragetheworld/in/dishes/guava-cheese/): Guava pulp cooked with sugar and butter until it sets, then cut. A Goan Christmas sweet.
+- [Himalayan berry jam](https://eaten676.github.io/foragetheworld/in/dishes/himalayan-berry-jam/): Wild hill berries cooked with sugar into jam.
+- [Sitaphal basundi](https://eaten676.github.io/foragetheworld/in/dishes/sitaphal-basundi/): Custard apple pulp folded into reduced, sweetened milk.
+- [Nolen gur sandesh](https://eaten676.github.io/foragetheworld/in/dishes/nolen-gur-sandesh/): Fresh chhena kneaded with date-palm jaggery. Bengal's winter sweet.
+- [Chironji barfi](https://eaten676.github.io/foragetheworld/in/dishes/chironji-barfi/): Toasted chironji in a milk and sugar fudge.

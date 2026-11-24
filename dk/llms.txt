@@ -1,6 +1,6 @@
 # Forage Denmark
 
-> A free guide to wild food in Denmark: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 27 dishes to cook with them.
+> A free guide to wild food in Denmark: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 32 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -82,6 +82,37 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Wild chives](https://eaten676.github.io/foragetheworld/dk/plants/wildchives/): Allium schoenoprasum; Purløg. In season May to August.
 - [Periwinkles](https://eaten676.github.io/foragetheworld/dk/plants/periwinkle/): Littorina littorea; Strandsnegl. In season January to December.
 - [Sea purslane](https://eaten676.github.io/foragetheworld/dk/plants/seapurslane/): Atriplex portulacoides; Portulak-kilebæger. In season April to October.
+- [Sea aster](https://eaten676.github.io/foragetheworld/dk/plants/seaaster/): Tripolium pannonicum; Strandasters. In season April to July.
+- [Salad burnet](https://eaten676.github.io/foragetheworld/dk/plants/saladburnet/): Poterium sanguisorba; Bibernellerose. In season March to September.
+- [Crow garlic](https://eaten676.github.io/foragetheworld/dk/plants/crowgarlic/): Allium vineale; Vild løg. In season February to July.
+- [Common mallow](https://eaten676.github.io/foragetheworld/dk/plants/mallow/): Malva sylvestris; Almindelig katost. In season May to September.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/dk/plants/shepherdspurse/): Capsella bursa-pastoris; Hyrdetaske. In season February to October.
+- [Orache](https://eaten676.github.io/foragetheworld/dk/plants/orach/): Atriplex prostrata / A. patula; Mælde. In season May to September.
+- [Japanese knotweed shoots](https://eaten676.github.io/foragetheworld/dk/plants/knotweed/): Reynoutria japonica; Japansk pileurt. In season March to May.
+- [Silverweed](https://eaten676.github.io/foragetheworld/dk/plants/silverweed/): Argentina anserina; Gåse-potentil. In season September to November.
+- [Horseradish](https://eaten676.github.io/foragetheworld/dk/plants/horseradish/): Armoracia rusticana; Peberrod. In season September to March.
+- [Goat's-beard](https://eaten676.github.io/foragetheworld/dk/plants/goatsbeard/): Tragopogon pratensis; Gedeskæg. In season April to June.
+- [Damson and bullace](https://eaten676.github.io/foragetheworld/dk/plants/damson/): Prunus domestica subsp. insititia; Kræge. In season August to October.
+- [Dewberry](https://eaten676.github.io/foragetheworld/dk/plants/dewberry/): Rubus caesius; Korbær. In season July to September.
+- [Juneberry](https://eaten676.github.io/foragetheworld/dk/plants/serviceberry/): Amelanchier lamarckii; Bærmispel. In season June to July.
+- [Gutweed](https://eaten676.github.io/foragetheworld/dk/plants/gutweed/): Ulva intestinalis; Tarmrørhinde. In season March to October.
+- [Bladderwrack](https://eaten676.github.io/foragetheworld/dk/plants/bladderwrack/): Fucus vesiculosus; Blæretang. In season March to September.
+- [Cockles](https://eaten676.github.io/foragetheworld/dk/plants/cockleeu/): Cerastoderma edule; Hjertemusling. In season September to April.
+- [Razor clams](https://eaten676.github.io/foragetheworld/dk/plants/razorclam/): Ensis spp.; Knivmusling. In season October to April.
+- [Oysters](https://eaten676.github.io/foragetheworld/dk/plants/oyster/): Ostrea edulis / Magallana gigas; Østers. In season September to April.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/dk/plants/oystermush/): Pleurotus ostreatus; Østershat. In season October to March.
+- [Horn of plenty](https://eaten676.github.io/foragetheworld/dk/plants/blacktrumpet/): Craterellus cornucopioides; Trompetsvamp. In season August to November.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/dk/plants/shaggymane/): Coprinus comatus; Stor parykhat. In season May to November.
+- [St George's mushroom](https://eaten676.github.io/foragetheworld/dk/plants/stgeorge/): Calocybe gambosa; Vårmusseron. In season April to June.
+- [Jelly ear](https://eaten676.github.io/foragetheworld/dk/plants/jellyear/): Auricularia auricula-judae; Judasøre. In season all year round.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/dk/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Velsmagende mælkehat. In season August to October.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/dk/plants/blewit/): Lepista nuda; Violet hekseringshat. In season October to December.
+- [Morel](https://eaten676.github.io/foragetheworld/dk/plants/morel/): Morchella spp.; Morkel. In season March to May.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/dk/plants/fieldmushroom/): Agaricus campestris; Mark-champignon. In season August to October.
+- [Cauliflower fungus](https://eaten676.github.io/foragetheworld/dk/plants/cauliflowerfungus/): Sparassis crispa; Kruset blomkålssvamp. In season August to November.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/dk/plants/pineappleweed/): Matricaria discoidea; Skive-kamille. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/dk/plants/whiteclover/): Trifolium repens; Hvidkløver. In season May to September.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/dk/plants/fireweed/): Chamerion angustifolium; Gederams. In season April to August.
 
 ## Dishes
 
@@ -112,3 +143,8 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Puffball schnitzel](https://eaten676.github.io/foragetheworld/dk/dishes/puffball-schnitzel/): Breaded slices of young giant puffball, fried.
 - [Elderflower cake](https://eaten676.github.io/foragetheworld/dk/dishes/elderflower-cake/): Sponge soaked in elderflower syrup.
 - [Sea buckthorn sorbet](https://eaten676.github.io/foragetheworld/dk/dishes/sea-buckthorn-sorbet/): Tart orange sorbet of sea buckthorn juice.
+- [Fried morels on rye](https://eaten676.github.io/foragetheworld/dk/dishes/fried-morels-on-rye/): Morels fried in butter on rye bread.
+- [Steamed oysters from the Limfjord](https://eaten676.github.io/foragetheworld/dk/dishes/steamed-oysters-from-the-limfjord/): Limfjord oysters, raw or steamed.
+- [Saffron milk caps with eggs](https://eaten676.github.io/foragetheworld/dk/dishes/saffron-milk-caps-with-eggs/): Fried milk caps with scrambled eggs.
+- [Pickled sea aster](https://eaten676.github.io/foragetheworld/dk/dishes/pickled-sea-aster/): Strandasters in sweet vinegar.
+- [Damson compote](https://eaten676.github.io/foragetheworld/dk/dishes/damson-compote/): Krægekompot with cream.

@@ -1,6 +1,6 @@
 # Forage Norway
 
-> A free guide to wild food in Norway: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 28 dishes to cook with them.
+> A free guide to wild food in Norway: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 32 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -69,6 +69,26 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Wild gooseberry](https://eaten676.github.io/foragetheworld/no/plants/gooseberry/): Ribes uva-crispa; Stikkelsbær. In season July to August.
 - [Periwinkles](https://eaten676.github.io/foragetheworld/no/plants/periwinkle/): Littorina littorea; Strandsnegl. In season January to December.
 - [Lamb's lettuce](https://eaten676.github.io/foragetheworld/no/plants/lambslettuce/): Valerianella locusta; Lamb's lettuce. In season January to December.
+- [Sea aster](https://eaten676.github.io/foragetheworld/no/plants/seaaster/): Tripolium pannonicum; Strandstjerne. In season May to August.
+- [Bistort](https://eaten676.github.io/foragetheworld/no/plants/bistort/): Bistorta officinalis; Ormerot. In season May to June.
+- [Sweet cicely](https://eaten676.github.io/foragetheworld/no/plants/sweetcicely/): Myrrhis odorata; Spansk kjørvel. In season May to July.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/no/plants/shepherdspurse/): Capsella bursa-pastoris; Gjetertaske. In season April to September.
+- [Orache](https://eaten676.github.io/foragetheworld/no/plants/orach/): Atriplex prostrata / A. patula; Melde. In season June to September.
+- [Silverweed](https://eaten676.github.io/foragetheworld/no/plants/silverweed/): Argentina anserina; Gåsemure. In season September to November.
+- [Horseradish](https://eaten676.github.io/foragetheworld/no/plants/horseradish/): Armoracia rusticana; Pepperrot. In season September to November.
+- [Garden angelica](https://eaten676.github.io/foragetheworld/no/plants/angelica/): Angelica archangelica; Kvann. In season June to July.
+- [Bladderwrack](https://eaten676.github.io/foragetheworld/no/plants/bladderwrack/): Fucus vesiculosus; Blæretang. In season April to September.
+- [Oysters](https://eaten676.github.io/foragetheworld/no/plants/oyster/): Ostrea edulis / Magallana gigas; Østers. In season September to April.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/no/plants/oystermush/): Pleurotus ostreatus; Østerssopp. In season September to November.
+- [Horn of plenty](https://eaten676.github.io/foragetheworld/no/plants/blacktrumpet/): Craterellus cornucopioides; Svart trompetsopp. In season August to October.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/no/plants/shaggymane/): Coprinus comatus; Matblekksopp. In season August to October.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/no/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Furumatriske. In season August to October.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/no/plants/blewit/): Lepista nuda; Blåmusserong. In season September to November.
+- [Morel](https://eaten676.github.io/foragetheworld/no/plants/morel/): Morchella spp.; Morkel. In season May to June.
+- [Chaga](https://eaten676.github.io/foragetheworld/no/plants/chaga/): Inonotus obliquus; Kjuke, Chaga. In season all year round.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/no/plants/pineappleweed/): Matricaria discoidea; Tunbalderbrå. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/no/plants/whiteclover/): Trifolium repens; Kvitkløver. In season June to August.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/no/plants/fireweed/): Chamerion angustifolium; Geitrams. In season May to August.
 
 ## Dishes
 
@@ -100,3 +120,7 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Porcini on toast (steinsopp)](https://eaten676.github.io/foragetheworld/no/dishes/porcini-on-toast/): Sliced porcini fried in butter on toasted bread.
 - [Iceland moss flatbread](https://eaten676.github.io/foragetheworld/no/dishes/iceland-moss-flatbread/): Leached and dried Iceland moss ground into flatbread dough, an old northern famine food.
 - [Arctic bramble cream](https://eaten676.github.io/foragetheworld/no/dishes/arctic-bramble-cream/): Åkerbær folded into whipped cream.
+- [Fried saffron milk caps (stekt matriske)](https://eaten676.github.io/foragetheworld/no/dishes/fried-saffron-milk-caps/): Riske fried in butter on bread.
+- [Angelica and fish (kvann)](https://eaten676.github.io/foragetheworld/no/dishes/angelica-and-fish/): Young kvann stems cooked with fish, after Sámi and coastal tradition.
+- [Chaga tea (kjuke-te)](https://eaten676.github.io/foragetheworld/no/dishes/chaga-tea/): Chaga simmered for hours into tea.
+- [Fireweed tea (geitrams-te)](https://eaten676.github.io/foragetheworld/no/dishes/fireweed-tea/): Fermented fireweed leaves brewed as tea.

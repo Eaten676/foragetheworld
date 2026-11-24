@@ -1,6 +1,6 @@
 # Forage Germany
 
-> A free guide to wild food in Germany: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 29 dishes to cook with them.
+> A free guide to wild food in Germany: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 37 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -86,6 +86,42 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Bird cherry](https://eaten676.github.io/foragetheworld/de/plants/birdcherry/): Prunus padus; Traubenkirsche. In season July to August.
 - [Iceland moss](https://eaten676.github.io/foragetheworld/de/plants/icelandmoss/): Cetraria islandica; Isländisch Moos. In season May to October.
 - [Mountain sorrel](https://eaten676.github.io/foragetheworld/de/plants/mountainsorrel/): Oxyria digyna; Säuerling. In season June to August.
+- [Sea aster](https://eaten676.github.io/foragetheworld/de/plants/seaaster/): Tripolium pannonicum; Strand-Aster. In season April to July.
+- [Bistort](https://eaten676.github.io/foragetheworld/de/plants/bistort/): Bistorta officinalis; Schlangen-Knöterich. In season March to May.
+- [Salad burnet](https://eaten676.github.io/foragetheworld/de/plants/saladburnet/): Poterium sanguisorba; Kleiner Wiesenknopf. In season March to September.
+- [Sweet cicely](https://eaten676.github.io/foragetheworld/de/plants/sweetcicely/): Myrrhis odorata; Süßdolde. In season April to July.
+- [Crow garlic](https://eaten676.github.io/foragetheworld/de/plants/crowgarlic/): Allium vineale; Weinberg-Lauch. In season February to July.
+- [Common mallow](https://eaten676.github.io/foragetheworld/de/plants/mallow/): Malva sylvestris; Wilde Malve. In season May to September.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/de/plants/shepherdspurse/): Capsella bursa-pastoris; Hirtentäschel. In season February to October.
+- [Wall rocket](https://eaten676.github.io/foragetheworld/de/plants/wallrocket/): Diplotaxis tenuifolia; Wilde Rauke. In season April to October.
+- [Orache](https://eaten676.github.io/foragetheworld/de/plants/orach/): Atriplex prostrata / A. patula; Melde. In season May to September.
+- [Japanese knotweed shoots](https://eaten676.github.io/foragetheworld/de/plants/knotweed/): Reynoutria japonica; Japanischer Staudenknöterich. In season March to May.
+- [Silverweed](https://eaten676.github.io/foragetheworld/de/plants/silverweed/): Argentina anserina; Gänse-Fingerkraut. In season September to November.
+- [Horseradish](https://eaten676.github.io/foragetheworld/de/plants/horseradish/): Armoracia rusticana; Meerrettich, Kren. In season September to March.
+- [Goat's-beard](https://eaten676.github.io/foragetheworld/de/plants/goatsbeard/): Tragopogon pratensis; Wiesen-Bocksbart. In season April to June.
+- [Medlar](https://eaten676.github.io/foragetheworld/de/plants/medlar/): Mespilus germanica; Mispel. In season October to December.
+- [Damson and bullace](https://eaten676.github.io/foragetheworld/de/plants/damson/): Prunus domestica subsp. insititia; Kriechenpflaume, Haferpflaume. In season August to October.
+- [Wild pear](https://eaten676.github.io/foragetheworld/de/plants/wildpear/): Pyrus pyraster; Wildbirne. In season September to October.
+- [Wild service tree](https://eaten676.github.io/foragetheworld/de/plants/wildservice/): Sorbus torminalis; Elsbeere. In season September to October.
+- [Dewberry](https://eaten676.github.io/foragetheworld/de/plants/dewberry/): Rubus caesius; Kratzbeere. In season July to September.
+- [Juneberry](https://eaten676.github.io/foragetheworld/de/plants/serviceberry/): Amelanchier lamarckii; Kupfer-Felsenbirne. In season June to July.
+- [Bladderwrack](https://eaten676.github.io/foragetheworld/de/plants/bladderwrack/): Fucus vesiculosus; Blasentang. In season March to September.
+- [Cockles](https://eaten676.github.io/foragetheworld/de/plants/cockleeu/): Cerastoderma edule; Herzmuschel. In season September to April.
+- [Razor clams](https://eaten676.github.io/foragetheworld/de/plants/razorclam/): Ensis spp.; Schwertmuschel. In season October to April.
+- [Oysters](https://eaten676.github.io/foragetheworld/de/plants/oyster/): Ostrea edulis / Magallana gigas; Austern. In season September to April.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/de/plants/oystermush/): Pleurotus ostreatus; Austernseitling. In season October to March.
+- [Horn of plenty](https://eaten676.github.io/foragetheworld/de/plants/blacktrumpet/): Craterellus cornucopioides; Herbsttrompete. In season August to November.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/de/plants/shaggymane/): Coprinus comatus; Schopf-Tintling. In season May to November.
+- [St George's mushroom](https://eaten676.github.io/foragetheworld/de/plants/stgeorge/): Calocybe gambosa; Mairitterling. In season April to June.
+- [Jelly ear](https://eaten676.github.io/foragetheworld/de/plants/jellyear/): Auricularia auricula-judae; Judasohr. In season all year round.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/de/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Edel-Reizker. In season August to October.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/de/plants/blewit/): Lepista nuda; Violetter Rötelritterling. In season October to December.
+- [Morel](https://eaten676.github.io/foragetheworld/de/plants/morel/): Morchella spp.; Morchel. In season March to May.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/de/plants/fieldmushroom/): Agaricus campestris; Wiesen-Champignon. In season August to October.
+- [Cauliflower fungus](https://eaten676.github.io/foragetheworld/de/plants/cauliflowerfungus/): Sparassis crispa; Krause Glucke. In season August to November.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/de/plants/pineappleweed/): Matricaria discoidea; Strahlenlose Kamille. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/de/plants/whiteclover/): Trifolium repens; Weißklee. In season May to September.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/de/plants/fireweed/): Chamerion angustifolium; Schmalblättriges Weidenröschen. In season April to August.
 
 ## Dishes
 
@@ -118,3 +154,11 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Chicken of the woods schnitzel](https://eaten676.github.io/foragetheworld/de/dishes/chicken-of-the-woods-schnitzel/): Breaded slices of Schwefelporling, fried.
 - [Elderflower cake (Holunderblütenkuchen)](https://eaten676.github.io/foragetheworld/de/dishes/elderflower-cake/): Sponge with elderflower syrup glaze.
 - [Elderberry and plum compote](https://eaten676.github.io/foragetheworld/de/dishes/elderberry-and-plum-compote/): Fliederbeeren and plums stewed with cinnamon.
+- [Morels in cream (Rahmmorcheln)](https://eaten676.github.io/foragetheworld/de/dishes/morels-in-cream/): Morels in a cream sauce with toast.
+- [Fried saffron milk caps (gebratene Reizker)](https://eaten676.github.io/foragetheworld/de/dishes/fried-saffron-milk-caps/): Reizker fried in butter with onion.
+- [Horseradish with apple (Apfelkren)](https://eaten676.github.io/foragetheworld/de/dishes/horseradish-with-apple/): Grated horseradish with apple, a Bavarian side for boiled beef.
+- [Medlar jelly (Mispelgelee)](https://eaten676.github.io/foragetheworld/de/dishes/medlar-jelly/): Bletted medlars set into jelly.
+- [Saint George's mushroom omelette (Mairitterling-Omelett)](https://eaten676.github.io/foragetheworld/de/dishes/saint-george-s-mushroom-omelette/): Spring Mairitterlinge in an omelette.
+- [Cauliflower fungus in batter (Krause Glucke)](https://eaten676.github.io/foragetheworld/de/dishes/cauliflower-fungus-in-batter/): Krause Glucke slices battered and fried like schnitzel.
+- [Damson cake (Zwetschgendatschi)](https://eaten676.github.io/foragetheworld/de/dishes/damson-cake/): Sheet cake topped with halved plums.
+- [Wild pear schnapps (Wildbirnenschnaps)](https://eaten676.github.io/foragetheworld/de/dishes/wild-pear-schnapps/): Dried wild pears infused in brandy.

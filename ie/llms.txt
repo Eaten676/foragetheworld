@@ -1,6 +1,6 @@
 # Forage Ireland
 
-> A free guide to wild food in Ireland: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 30 dishes to cook with them.
+> A free guide to wild food in Ireland: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 39 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -82,6 +82,36 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Sea lettuce](https://eaten676.github.io/foragetheworld/ie/plants/sealettuce/): Ulva lactuca; Sea lettuce, Glasán. In season April to September.
 - [Birch sap](https://eaten676.github.io/foragetheworld/ie/plants/birchsap/): Betula pendula; Birch sap. In season March to April.
 - [Cherry plum](https://eaten676.github.io/foragetheworld/ie/plants/cherryplum/): Prunus cerasifera; Cherry plum, Mirabelle. In season July to August.
+- [Alexanders](https://eaten676.github.io/foragetheworld/ie/plants/alexanders/): Smyrnium olusatrum; Alexanders, Lusrán grándubh. In season January to April.
+- [Wild fennel](https://eaten676.github.io/foragetheworld/ie/plants/wildfennel/): Foeniculum vulgare; Wild fennel, Finéal. In season March to September.
+- [Sea aster](https://eaten676.github.io/foragetheworld/ie/plants/seaaster/): Tripolium pannonicum; Sea aster. In season April to July.
+- [Crow garlic](https://eaten676.github.io/foragetheworld/ie/plants/crowgarlic/): Allium vineale; Crow garlic. In season February to July.
+- [Common mallow](https://eaten676.github.io/foragetheworld/ie/plants/mallow/): Malva sylvestris; Common mallow. In season May to September.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/ie/plants/shepherdspurse/): Capsella bursa-pastoris; Shepherd's purse. In season February to October.
+- [Orache](https://eaten676.github.io/foragetheworld/ie/plants/orach/): Atriplex prostrata / A. patula; Orache. In season May to September.
+- [Japanese knotweed shoots](https://eaten676.github.io/foragetheworld/ie/plants/knotweed/): Reynoutria japonica; Japanese knotweed. In season March to May.
+- [Silverweed](https://eaten676.github.io/foragetheworld/ie/plants/silverweed/): Argentina anserina; Silverweed, Briosclán. In season September to November.
+- [Pignut](https://eaten676.github.io/foragetheworld/ie/plants/pignut/): Conopodium majus; Pignut, Earthnut, Cúlarán. In season April to June.
+- [Horseradish](https://eaten676.github.io/foragetheworld/ie/plants/horseradish/): Armoracia rusticana; Horseradish. In season September to March.
+- [Damson and bullace](https://eaten676.github.io/foragetheworld/ie/plants/damson/): Prunus domestica subsp. insititia; Damson, Bullace, Daimsín. In season August to October.
+- [Pepper dulse](https://eaten676.github.io/foragetheworld/ie/plants/pepperdulse/): Osmundea pinnatifida; Pepper dulse, Míobhán. In season all year round.
+- [Gutweed](https://eaten676.github.io/foragetheworld/ie/plants/gutweed/): Ulva intestinalis; Gutweed, Líneáil. In season March to October.
+- [Bladderwrack](https://eaten676.github.io/foragetheworld/ie/plants/bladderwrack/): Fucus vesiculosus; Bladderwrack, Feamainn bhuí. In season March to September.
+- [Sea spaghetti](https://eaten676.github.io/foragetheworld/ie/plants/seaspaghetti/): Himanthalia elongata; Sea spaghetti, Thongweed, Ríseach. In season April to July.
+- [Cockles](https://eaten676.github.io/foragetheworld/ie/plants/cockleeu/): Cerastoderma edule; Cockles, Ruacain. In season September to April.
+- [Razor clams](https://eaten676.github.io/foragetheworld/ie/plants/razorclam/): Ensis spp.; Razor clams, Scian mhara. In season October to April.
+- [Oysters](https://eaten676.github.io/foragetheworld/ie/plants/oyster/): Ostrea edulis / Magallana gigas; Oysters, Oisrí. In season September to April.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/ie/plants/oystermush/): Pleurotus ostreatus; Oyster mushroom, Beacán oisre. In season October to March.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/ie/plants/shaggymane/): Coprinus comatus; Shaggy inkcap, Lawyer's wig, Caipín dúigh. In season May to November.
+- [St George's mushroom](https://eaten676.github.io/foragetheworld/ie/plants/stgeorge/): Calocybe gambosa; St George's mushroom. In season April to June.
+- [Jelly ear](https://eaten676.github.io/foragetheworld/ie/plants/jellyear/): Auricularia auricula-judae; Jelly ear, Wood ear. In season all year round.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/ie/plants/blewit/): Lepista nuda; Wood blewit. In season October to December.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/ie/plants/fieldmushroom/): Agaricus campestris; Field mushroom, Beacán. In season August to October.
+- [Cauliflower fungus](https://eaten676.github.io/foragetheworld/ie/plants/cauliflowerfungus/): Sparassis crispa; Cauliflower fungus. In season August to November.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/ie/plants/pineappleweed/): Matricaria discoidea; Pineapple weed, Lus na hiothlainne. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/ie/plants/whiteclover/): Trifolium repens; White clover, Seamair bhán. In season May to September.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/ie/plants/fireweed/): Chamerion angustifolium; Rosebay willowherb, Fireweed. In season April to August.
+- [Salad burnet](https://eaten676.github.io/foragetheworld/ie/plants/saladburnet/): Poterium sanguisorba; Salad burnet. In season March to September.
 
 ## Dishes
 
@@ -115,3 +145,12 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Bog myrtle and heather beer](https://eaten676.github.io/foragetheworld/ie/dishes/bog-myrtle-and-heather-beer/): Old-style gruit ale brewed with bog myrtle and heather instead of hops.
 - [Pickled rock samphire](https://eaten676.github.io/foragetheworld/ie/dishes/pickled-rock-samphire/): Rock samphire in spiced vinegar.
 - [Seaweed chowder](https://eaten676.github.io/foragetheworld/ie/dishes/seaweed-chowder/): Creamy West Coast chowder with mussels and seaweed.
+- [Steamed alexanders with butter](https://eaten676.github.io/foragetheworld/ie/dishes/steamed-alexanders-with-butter/): Peeled young stems steamed and buttered like asparagus.
+- [Pan-fried razor clams](https://eaten676.github.io/foragetheworld/ie/dishes/pan-fried-razor-clams/): Razor clams seared with garlic and parsley.
+- [Field mushrooms on toast](https://eaten676.github.io/foragetheworld/ie/dishes/field-mushrooms-on-toast/): Fried field mushrooms on brown soda bread.
+- [Crispy fried gutweed](https://eaten676.github.io/foragetheworld/ie/dishes/crispy-fried-gutweed/): Dried gutweed flash-fried crisp.
+- [Pepper dulse seasoning](https://eaten676.github.io/foragetheworld/ie/dishes/pepper-dulse-seasoning/): Dried pepper dulse crumbled over eggs, fish and chips.
+- [Cockles and mussels](https://eaten676.github.io/foragetheworld/ie/dishes/cockles-and-mussels/): Steamed cockles and mussels with cream, garlic and cider, as in Molly Malone.
+- [Sea spaghetti carbonara](https://eaten676.github.io/foragetheworld/ie/dishes/sea-spaghetti-carbonara/): Blanched sea spaghetti tossed with bacon, egg and cheese.
+- [Wild mushroom and blewit stew](https://eaten676.github.io/foragetheworld/ie/dishes/wild-mushroom-and-blewit-stew/): Autumn mushrooms braised with onions and stout.
+- [Damson jam](https://eaten676.github.io/foragetheworld/ie/dishes/damson-jam/): Old-orchard damsons cooked into jam.

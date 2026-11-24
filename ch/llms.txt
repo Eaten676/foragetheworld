@@ -1,6 +1,6 @@
 # Forage Switzerland
 
-> A free guide to wild food in Switzerland: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 29 dishes to cook with them.
+> A free guide to wild food in Switzerland: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 34 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -76,6 +76,35 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Iceland moss](https://eaten676.github.io/foragetheworld/ch/plants/icelandmoss/): Cetraria islandica; Isländisch Moos. In season May to October.
 - [Mountain sorrel](https://eaten676.github.io/foragetheworld/ch/plants/mountainsorrel/): Oxyria digyna; Säuerling. In season June to August.
 - [Heather flowers](https://eaten676.github.io/foragetheworld/ch/plants/heather/): Calluna vulgaris; Besenheide. In season August to September.
+- [Bistort](https://eaten676.github.io/foragetheworld/ch/plants/bistort/): Bistorta officinalis; Schlangen-Knöterich, Renouée bistorte, Bistorta. In season March to May.
+- [Salad burnet](https://eaten676.github.io/foragetheworld/ch/plants/saladburnet/): Poterium sanguisorba; Kleiner Wiesenknopf, Petite pimprenelle, Pimpinella. In season March to September.
+- [Sweet cicely](https://eaten676.github.io/foragetheworld/ch/plants/sweetcicely/): Myrrhis odorata; Süßdolde, Cerfeuil musqué, Finocchiella. In season April to July.
+- [Crow garlic](https://eaten676.github.io/foragetheworld/ch/plants/crowgarlic/): Allium vineale; Weinberg-Lauch, Ail des vignes, Aglio delle vigne. In season February to July.
+- [Common mallow](https://eaten676.github.io/foragetheworld/ch/plants/mallow/): Malva sylvestris; Wilde Malve, Mauve sylvestre, Malva. In season May to September.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/ch/plants/shepherdspurse/): Capsella bursa-pastoris; Hirtentäschel, Bourse-à-pasteur, Borsa del pastore. In season February to October.
+- [Wall rocket](https://eaten676.github.io/foragetheworld/ch/plants/wallrocket/): Diplotaxis tenuifolia; Wilde Rauke, Roquette sauvage, Rucola selvatica. In season April to October.
+- [Japanese knotweed shoots](https://eaten676.github.io/foragetheworld/ch/plants/knotweed/): Reynoutria japonica; Japanischer Staudenknöterich, Renouée du Japon. In season March to May.
+- [Silverweed](https://eaten676.github.io/foragetheworld/ch/plants/silverweed/): Argentina anserina; Gänse-Fingerkraut. In season September to November.
+- [Horseradish](https://eaten676.github.io/foragetheworld/ch/plants/horseradish/): Armoracia rusticana; Meerrettich, Kren, Raifort, Rafano. In season September to March.
+- [Goat's-beard](https://eaten676.github.io/foragetheworld/ch/plants/goatsbeard/): Tragopogon pratensis; Wiesen-Bocksbart, Salsifis des prés. In season April to June.
+- [Medlar](https://eaten676.github.io/foragetheworld/ch/plants/medlar/): Mespilus germanica; Mispel, Nèfle, Nespolo. In season October to December.
+- [Damson and bullace](https://eaten676.github.io/foragetheworld/ch/plants/damson/): Prunus domestica subsp. insititia; Kriechenpflaume, Haferpflaume, Prune de Damas. In season August to October.
+- [Wild pear](https://eaten676.github.io/foragetheworld/ch/plants/wildpear/): Pyrus pyraster; Wildbirne, Poirier sauvage, Perastro. In season September to October.
+- [Wild service tree](https://eaten676.github.io/foragetheworld/ch/plants/wildservice/): Sorbus torminalis; Elsbeere, Alisier torminal, Ciavardello. In season September to October.
+- [Dewberry](https://eaten676.github.io/foragetheworld/ch/plants/dewberry/): Rubus caesius; Kratzbeere, Ronce bleuâtre. In season July to September.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/ch/plants/oystermush/): Pleurotus ostreatus; Austernseitling, Pleurote, Orecchione. In season October to March.
+- [Horn of plenty](https://eaten676.github.io/foragetheworld/ch/plants/blacktrumpet/): Craterellus cornucopioides; Herbsttrompete, Trompette des morts, Trombetta dei morti. In season August to November.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/ch/plants/shaggymane/): Coprinus comatus; Schopf-Tintling, Coprin chevelu, Coprino chiomato. In season May to November.
+- [St George's mushroom](https://eaten676.github.io/foragetheworld/ch/plants/stgeorge/): Calocybe gambosa; Mairitterling, Tricholome de la Saint-Georges, Prugnolo. In season April to June.
+- [Jelly ear](https://eaten676.github.io/foragetheworld/ch/plants/jellyear/): Auricularia auricula-judae; Judasohr, Oreille de Judas, Orecchio di Giuda. In season all year round.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/ch/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Edel-Reizker, Lactaire délicieux, Sanguinello. In season August to October.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/ch/plants/blewit/): Lepista nuda; Violetter Rötelritterling, Pied bleu, Agarico violetto. In season October to December.
+- [Morel](https://eaten676.github.io/foragetheworld/ch/plants/morel/): Morchella spp.; Morchel, Morille, Spugnola. In season March to May.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/ch/plants/fieldmushroom/): Agaricus campestris; Wiesen-Champignon, Rosé des prés, Prataiolo. In season August to October.
+- [Cauliflower fungus](https://eaten676.github.io/foragetheworld/ch/plants/cauliflowerfungus/): Sparassis crispa; Krause Glucke, Sparassis crépu. In season August to November.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/ch/plants/pineappleweed/): Matricaria discoidea; Strahlenlose Kamille, Matricaire odorante. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/ch/plants/whiteclover/): Trifolium repens; Weißklee, Trèfle blanc, Trifoglio bianco. In season May to September.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/ch/plants/fireweed/): Chamerion angustifolium; Schmalblättriges Weidenröschen. In season April to August.
 
 ## Dishes
 
@@ -108,3 +137,8 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Porcini risotto (risotto ai funghi porcini)](https://eaten676.github.io/foragetheworld/ch/dishes/porcini-risotto/): Ticino risotto with porcini.
 - [Wild chive potatoes (Gschwellti)](https://eaten676.github.io/foragetheworld/ch/dishes/wild-chive-potatoes/): Jacket potatoes with quark and alpine chives.
 - [Elderberry and plum jam](https://eaten676.github.io/foragetheworld/ch/dishes/elderberry-and-plum-jam/): Holunder and plum jam.
+- [Morel toast (Morchelschnitte)](https://eaten676.github.io/foragetheworld/ch/dishes/morel-toast/): Morels in cream on fried bread.
+- [Morel rösti](https://eaten676.github.io/foragetheworld/ch/dishes/morel-r-sti/): Rösti topped with creamy morels.
+- [Horn of plenty pasta (Herbsttrompeten)](https://eaten676.github.io/foragetheworld/ch/dishes/horn-of-plenty-pasta/): Black trumpets with butter, garlic and tagliatelle.
+- [Wild pear butter (Birnenhonig)](https://eaten676.github.io/foragetheworld/ch/dishes/wild-pear-butter/): Wild pear juice boiled down to a dark syrup, a Swiss tradition.
+- [Medlar compote (Mispelkompott)](https://eaten676.github.io/foragetheworld/ch/dishes/medlar-compote/): Bletted medlars stewed with sugar.

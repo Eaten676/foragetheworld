@@ -1,6 +1,6 @@
 # Forage Netherlands
 
-> A free guide to wild food in the Netherlands: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 25 dishes to cook with them.
+> A free guide to wild food in the Netherlands: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 31 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -79,6 +79,40 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Gorse flowers](https://eaten676.github.io/foragetheworld/nl/plants/gorse/): Ulex europaeus; Gaspeldoorn. In season February to May.
 - [Periwinkles](https://eaten676.github.io/foragetheworld/nl/plants/periwinkle/): Littorina littorea; Alikruik. In season January to December.
 - [Three-cornered leek](https://eaten676.github.io/foragetheworld/nl/plants/threecorner/): Allium triquetrum; Three-cornered leek. In season February to May.
+- [Sea aster](https://eaten676.github.io/foragetheworld/nl/plants/seaaster/): Tripolium pannonicum; Zulte. In season April to July.
+- [Salad burnet](https://eaten676.github.io/foragetheworld/nl/plants/saladburnet/): Poterium sanguisorba; Kleine pimpernel. In season March to September.
+- [Crow garlic](https://eaten676.github.io/foragetheworld/nl/plants/crowgarlic/): Allium vineale; Kraailook. In season February to July.
+- [Common mallow](https://eaten676.github.io/foragetheworld/nl/plants/mallow/): Malva sylvestris; Groot kaasjeskruid. In season May to September.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/nl/plants/shepherdspurse/): Capsella bursa-pastoris; Herderstasje. In season February to October.
+- [Wall rocket](https://eaten676.github.io/foragetheworld/nl/plants/wallrocket/): Diplotaxis tenuifolia; Grote zandkool. In season April to October.
+- [Orache](https://eaten676.github.io/foragetheworld/nl/plants/orach/): Atriplex prostrata / A. patula; Spiesmelde. In season May to September.
+- [Japanese knotweed shoots](https://eaten676.github.io/foragetheworld/nl/plants/knotweed/): Reynoutria japonica; Japanse duizendknoop. In season March to May.
+- [Silverweed](https://eaten676.github.io/foragetheworld/nl/plants/silverweed/): Argentina anserina; Zilverschoon. In season September to November.
+- [Horseradish](https://eaten676.github.io/foragetheworld/nl/plants/horseradish/): Armoracia rusticana; Mierik. In season September to March.
+- [Goat's-beard](https://eaten676.github.io/foragetheworld/nl/plants/goatsbeard/): Tragopogon pratensis; Gele morgenster. In season April to June.
+- [Medlar](https://eaten676.github.io/foragetheworld/nl/plants/medlar/): Mespilus germanica; Mispel. In season October to December.
+- [Damson and bullace](https://eaten676.github.io/foragetheworld/nl/plants/damson/): Prunus domestica subsp. insititia; Kroosjespruim. In season August to October.
+- [Wild pear](https://eaten676.github.io/foragetheworld/nl/plants/wildpear/): Pyrus pyraster; Wilde peer. In season September to October.
+- [Dewberry](https://eaten676.github.io/foragetheworld/nl/plants/dewberry/): Rubus caesius; Dauwbraam. In season July to September.
+- [Juneberry](https://eaten676.github.io/foragetheworld/nl/plants/serviceberry/): Amelanchier lamarckii; Krentenboompje. In season June to July.
+- [Gutweed](https://eaten676.github.io/foragetheworld/nl/plants/gutweed/): Ulva intestinalis; Darmwier. In season March to October.
+- [Bladderwrack](https://eaten676.github.io/foragetheworld/nl/plants/bladderwrack/): Fucus vesiculosus; Blaaswier. In season March to September.
+- [Cockles](https://eaten676.github.io/foragetheworld/nl/plants/cockleeu/): Cerastoderma edule; Kokkel. In season September to April.
+- [Razor clams](https://eaten676.github.io/foragetheworld/nl/plants/razorclam/): Ensis spp.; Zwaardschede. In season October to April.
+- [Oysters](https://eaten676.github.io/foragetheworld/nl/plants/oyster/): Ostrea edulis / Magallana gigas; Oesters. In season September to April.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/nl/plants/oystermush/): Pleurotus ostreatus; Oesterzwam. In season October to March.
+- [Horn of plenty](https://eaten676.github.io/foragetheworld/nl/plants/blacktrumpet/): Craterellus cornucopioides; Hoorn des overvloeds. In season August to November.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/nl/plants/shaggymane/): Coprinus comatus; Geschubde inktzwam. In season May to November.
+- [St George's mushroom](https://eaten676.github.io/foragetheworld/nl/plants/stgeorge/): Calocybe gambosa; Voorjaarspronkridder. In season April to June.
+- [Jelly ear](https://eaten676.github.io/foragetheworld/nl/plants/jellyear/): Auricularia auricula-judae; Echt judasoor. In season all year round.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/nl/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Edelreizker. In season August to October.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/nl/plants/blewit/): Lepista nuda; Paarse schijnridderzwam. In season October to December.
+- [Morel](https://eaten676.github.io/foragetheworld/nl/plants/morel/): Morchella spp.; Morielje. In season March to May.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/nl/plants/fieldmushroom/): Agaricus campestris; Weidechampignon. In season August to October.
+- [Cauliflower fungus](https://eaten676.github.io/foragetheworld/nl/plants/cauliflowerfungus/): Sparassis crispa; Grote sponszwam. In season August to November.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/nl/plants/pineappleweed/): Matricaria discoidea; Schijfkamille. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/nl/plants/whiteclover/): Trifolium repens; Witte klaver. In season May to September.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/nl/plants/fireweed/): Chamerion angustifolium; Wilgenroosje. In season April to August.
 
 ## Dishes
 
@@ -107,3 +141,9 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Elderflower pancakes](https://eaten676.github.io/foragetheworld/nl/dishes/elderflower-pancakes/): Pancakes with elderflower heads cooked into the batter.
 - [Sloe gin jelly](https://eaten676.github.io/foragetheworld/nl/dishes/sloe-gin-jelly/): Sleedoorn gin set into a jelly.
 - [Blackberry and apple pie (appeltaart)](https://eaten676.github.io/foragetheworld/nl/dishes/blackberry-and-apple-pie/): Dutch lattice apple pie with blackberries.
+- [Sea aster with butter (zulte)](https://eaten676.github.io/foragetheworld/nl/dishes/sea-aster-with-butter/): Blanched zulte in butter, a Zeeland spring vegetable.
+- [Pan-fried razor clams (scheermessen)](https://eaten676.github.io/foragetheworld/nl/dishes/pan-fried-razor-clams/): Scheermessen with garlic and parsley.
+- [Cockles in white wine (kokkels)](https://eaten676.github.io/foragetheworld/nl/dishes/cockles-in-white-wine/): Steamed kokkels with wine and shallots.
+- [Oyster mushroom stir-fry](https://eaten676.github.io/foragetheworld/nl/dishes/oyster-mushroom-stir-fry/): Oesterzwammen fried crisp with garlic.
+- [Juneberry jam (krentenjam)](https://eaten676.github.io/foragetheworld/nl/dishes/juneberry-jam/): Krentenboompje berries cooked into jam.
+- [Medlar compote (mispel)](https://eaten676.github.io/foragetheworld/nl/dishes/medlar-compote/): Bletted medlars stewed with cinnamon.

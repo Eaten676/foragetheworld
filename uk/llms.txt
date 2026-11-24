@@ -1,6 +1,6 @@
 # Forage United Kingdom
 
-> A free guide to wild food in the UK: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 30 dishes to cook with them.
+> A free guide to wild food in the UK: which wild plants are in season in each region and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 44 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -84,6 +84,47 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Birch sap](https://eaten676.github.io/foragetheworld/uk/plants/birchsap/): Betula pendula; Birch sap. In season March to April.
 - [Carrageen moss](https://eaten676.github.io/foragetheworld/uk/plants/carrageen/): Chondrus crispus; Carrageen, Irish moss. In season April to August.
 - [Periwinkles](https://eaten676.github.io/foragetheworld/uk/plants/periwinkle/): Littorina littorea; Periwinkles, Winkles. In season January to December.
+- [Alexanders](https://eaten676.github.io/foragetheworld/uk/plants/alexanders/): Smyrnium olusatrum; Alexanders. In season January to April.
+- [Sea kale](https://eaten676.github.io/foragetheworld/uk/plants/seakale/): Crambe maritima; Sea kale. In season March to May.
+- [Wild fennel](https://eaten676.github.io/foragetheworld/uk/plants/wildfennel/): Foeniculum vulgare; Wild fennel. In season March to September.
+- [Sea aster](https://eaten676.github.io/foragetheworld/uk/plants/seaaster/): Tripolium pannonicum; Sea aster. In season April to July.
+- [Bistort](https://eaten676.github.io/foragetheworld/uk/plants/bistort/): Bistorta officinalis; Bistort, Easter ledges. In season March to May.
+- [Salad burnet](https://eaten676.github.io/foragetheworld/uk/plants/saladburnet/): Poterium sanguisorba; Salad burnet. In season March to September.
+- [Sweet cicely](https://eaten676.github.io/foragetheworld/uk/plants/sweetcicely/): Myrrhis odorata; Sweet cicely. In season April to July.
+- [Crow garlic](https://eaten676.github.io/foragetheworld/uk/plants/crowgarlic/): Allium vineale; Crow garlic. In season February to July.
+- [Common mallow](https://eaten676.github.io/foragetheworld/uk/plants/mallow/): Malva sylvestris; Common mallow. In season May to September.
+- [Shepherd's purse](https://eaten676.github.io/foragetheworld/uk/plants/shepherdspurse/): Capsella bursa-pastoris; Shepherd's purse. In season February to October.
+- [Wall rocket](https://eaten676.github.io/foragetheworld/uk/plants/wallrocket/): Diplotaxis tenuifolia; Wild rocket, Wall rocket. In season April to October.
+- [Orache](https://eaten676.github.io/foragetheworld/uk/plants/orach/): Atriplex prostrata / A. patula; Orache. In season May to September.
+- [Japanese knotweed shoots](https://eaten676.github.io/foragetheworld/uk/plants/knotweed/): Reynoutria japonica; Japanese knotweed. In season March to May.
+- [Silverweed](https://eaten676.github.io/foragetheworld/uk/plants/silverweed/): Argentina anserina; Silverweed. In season September to November.
+- [Pignut](https://eaten676.github.io/foragetheworld/uk/plants/pignut/): Conopodium majus; Pignut, Earthnut. In season April to June.
+- [Horseradish](https://eaten676.github.io/foragetheworld/uk/plants/horseradish/): Armoracia rusticana; Horseradish. In season September to March.
+- [Goat's-beard](https://eaten676.github.io/foragetheworld/uk/plants/goatsbeard/): Tragopogon pratensis; Goat's-beard, Jack-go-to-bed-at-noon. In season April to June.
+- [Medlar](https://eaten676.github.io/foragetheworld/uk/plants/medlar/): Mespilus germanica; Medlar. In season October to December.
+- [Damson and bullace](https://eaten676.github.io/foragetheworld/uk/plants/damson/): Prunus domestica subsp. insititia; Damson, Bullace. In season August to October.
+- [Wild service tree](https://eaten676.github.io/foragetheworld/uk/plants/wildservice/): Sorbus torminalis; Wild service, Chequers. In season September to October.
+- [Dewberry](https://eaten676.github.io/foragetheworld/uk/plants/dewberry/): Rubus caesius; Dewberry. In season July to September.
+- [Pepper dulse](https://eaten676.github.io/foragetheworld/uk/plants/pepperdulse/): Osmundea pinnatifida; Pepper dulse. In season all year round.
+- [Gutweed](https://eaten676.github.io/foragetheworld/uk/plants/gutweed/): Ulva intestinalis; Gutweed. In season March to October.
+- [Bladderwrack](https://eaten676.github.io/foragetheworld/uk/plants/bladderwrack/): Fucus vesiculosus; Bladderwrack. In season March to September.
+- [Sea spaghetti](https://eaten676.github.io/foragetheworld/uk/plants/seaspaghetti/): Himanthalia elongata; Sea spaghetti, Thongweed. In season April to July.
+- [Cockles](https://eaten676.github.io/foragetheworld/uk/plants/cockleeu/): Cerastoderma edule; Cockles. In season September to April.
+- [Razor clams](https://eaten676.github.io/foragetheworld/uk/plants/razorclam/): Ensis spp.; Razor clams. In season October to April.
+- [Oysters](https://eaten676.github.io/foragetheworld/uk/plants/oyster/): Ostrea edulis / Magallana gigas; Oysters. In season September to April.
+- [Oyster mushroom](https://eaten676.github.io/foragetheworld/uk/plants/oystermush/): Pleurotus ostreatus; Oyster mushroom. In season October to March.
+- [Horn of plenty](https://eaten676.github.io/foragetheworld/uk/plants/blacktrumpet/): Craterellus cornucopioides; Horn of plenty, Black trumpet. In season August to November.
+- [Shaggy inkcap](https://eaten676.github.io/foragetheworld/uk/plants/shaggymane/): Coprinus comatus; Shaggy inkcap, Lawyer's wig. In season May to November.
+- [St George's mushroom](https://eaten676.github.io/foragetheworld/uk/plants/stgeorge/): Calocybe gambosa; St George's mushroom. In season April to June.
+- [Jelly ear](https://eaten676.github.io/foragetheworld/uk/plants/jellyear/): Auricularia auricula-judae; Jelly ear, Wood ear. In season all year round.
+- [Saffron milk cap](https://eaten676.github.io/foragetheworld/uk/plants/saffronmilkcap/): Lactarius deliciosus / L. deterrimus; Saffron milk cap. In season August to October.
+- [Wood blewit](https://eaten676.github.io/foragetheworld/uk/plants/blewit/): Lepista nuda; Wood blewit. In season October to December.
+- [Morel](https://eaten676.github.io/foragetheworld/uk/plants/morel/): Morchella spp.; Morel. In season March to May.
+- [Field mushroom](https://eaten676.github.io/foragetheworld/uk/plants/fieldmushroom/): Agaricus campestris; Field mushroom. In season August to October.
+- [Cauliflower fungus](https://eaten676.github.io/foragetheworld/uk/plants/cauliflowerfungus/): Sparassis crispa; Cauliflower fungus. In season August to November.
+- [Pineapple weed](https://eaten676.github.io/foragetheworld/uk/plants/pineappleweed/): Matricaria discoidea; Pineapple weed. In season June to September.
+- [White clover](https://eaten676.github.io/foragetheworld/uk/plants/whiteclover/): Trifolium repens; White clover. In season May to September.
+- [Rosebay willowherb](https://eaten676.github.io/foragetheworld/uk/plants/fireweed/): Chamerion angustifolium; Rosebay willowherb, Fireweed. In season April to August.
 
 ## Dishes
 
@@ -117,3 +158,17 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Wild mushroom risotto](https://eaten676.github.io/foragetheworld/uk/dishes/wild-mushroom-risotto/): Risotto with porcini and hedgehog mushrooms.
 - [Sea purslane with sea bass](https://eaten676.github.io/foragetheworld/uk/dishes/sea-purslane-with-sea-bass/): Pan-fried bass with butter-fried sea purslane.
 - [Nettle and cheese scones](https://eaten676.github.io/foragetheworld/uk/dishes/nettle-and-cheese-scones/): Savoury scones with blanched nettles and cheddar.
+- [Steamed alexanders with butter](https://eaten676.github.io/foragetheworld/uk/dishes/steamed-alexanders-with-butter/): Peeled young stems steamed and buttered like asparagus.
+- [Sea kale with hollandaise](https://eaten676.github.io/foragetheworld/uk/dishes/sea-kale-with-hollandaise/): Steamed young shoots with hollandaise, a Victorian delicacy.
+- [Crispy fried gutweed](https://eaten676.github.io/foragetheworld/uk/dishes/crispy-fried-gutweed/): Dried gutweed flash-fried crisp and salted.
+- [Pan-fried razor clams](https://eaten676.github.io/foragetheworld/uk/dishes/pan-fried-razor-clams/): Razor clams seared with garlic, chilli and parsley.
+- [Mushrooms on toast](https://eaten676.github.io/foragetheworld/uk/dishes/mushrooms-on-toast/): Field mushrooms fried in butter on sourdough.
+- [Horseradish sauce](https://eaten676.github.io/foragetheworld/uk/dishes/horseradish-sauce/): Freshly grated horseradish with cream, mustard and vinegar.
+- [Medlar jelly](https://eaten676.github.io/foragetheworld/uk/dishes/medlar-jelly/): Bletted medlars simmered, strained and set into an amber jelly.
+- [Damson cheese](https://eaten676.github.io/foragetheworld/uk/dishes/damson-cheese/): Damson pulp boiled down into a firm fruit paste for cheese boards.
+- [Damson gin](https://eaten676.github.io/foragetheworld/uk/dishes/damson-gin/): Damsons steeped in gin with sugar until Christmas.
+- [Easter-ledger pudding](https://eaten676.github.io/foragetheworld/uk/dishes/easter-ledger-pudding/): Cumbrian pudding of bistort, nettles, oats and egg, served with bacon.
+- [Laverbread, cockles and bacon](https://eaten676.github.io/foragetheworld/uk/dishes/laverbread-cockles-and-bacon/): The Welsh breakfast of cockles, laverbread and bacon.
+- [Wood blewits with garlic](https://eaten676.github.io/foragetheworld/uk/dishes/wood-blewits-with-garlic/): Blewits fried with garlic and parsley on toast.
+- [Knotweed crumble](https://eaten676.github.io/foragetheworld/uk/dishes/knotweed-crumble/): Young knotweed stems under an oat crumble, like rhubarb.
+- [Gooseberry and sweet cicely fool](https://eaten676.github.io/foragetheworld/uk/dishes/gooseberry-and-sweet-cicely-fool/): Gooseberries stewed with sweet cicely and folded into cream.
