@@ -1,0 +1,47 @@
+# Forage United Arab Emirates
+
+> A free guide to wild food in the UAE: which wild plants are in season in each emirate and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 15 dishes to cook with them.
+
+Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
+
+- [App](https://eaten676.github.io/foragetheworld/ae/): pick a region and month to see what is wild near you
+- [All wild plants](https://eaten676.github.io/foragetheworld/ae/plants/)
+- [All dishes](https://eaten676.github.io/foragetheworld/ae/dishes/)
+
+## Wild plants
+
+- [Sidr fruit](https://eaten676.github.io/foragetheworld/ae/plants/sidr/): Ziziphus spina-christi; Sidr, Nabq, Christ's thorn jujube. In season November to April.
+- [Dates](https://eaten676.github.io/foragetheworld/ae/plants/date/): Phoenix dactylifera; Nakhla, Rutab (soft), Tamr (dried). In season June to September.
+- [Ghaf leaves and pods](https://eaten676.github.io/foragetheworld/ae/plants/ghaf/): Prosopis cineraria; Ghaf, Khejri. In season March to June.
+- [Desert truffle](https://eaten676.github.io/foragetheworld/ae/plants/truffle/): Terfezia and Tirmania species; Faqa', Kama, Fagaa. In season January to April.
+- [Bladder dock](https://eaten676.github.io/foragetheworld/ae/plants/hummaid/): Rumex vesicarius; Hummaid, Hambaz. In season December to March.
+- [Arta fruit](https://eaten676.github.io/foragetheworld/ae/plants/arta/): Calligonum comosum; Arta, Abal. In season February to April.
+- [Purslane](https://eaten676.github.io/foragetheworld/ae/plants/purslane/): Portulaca oleracea; Baqla, Rijla. In season March to November.
+- [Wild drumstick tree](https://eaten676.github.io/foragetheworld/ae/plants/moringa/): Moringa peregrina; Yasar, Shu'. In season February to May.
+- [Capers](https://eaten676.github.io/foragetheworld/ae/plants/caper/): Capparis spinosa; Kabir. In season March to June.
+- [Mallow](https://eaten676.github.io/foragetheworld/ae/plants/mallowae/): Malva parviflora; Khubbeiza. In season November to April.
+- [Nettle-leaved goosefoot](https://eaten676.github.io/foragetheworld/ae/plants/goosefoot/): Chenopodium murale; Goosefoot. In season November to April.
+- [Green amaranth](https://eaten676.github.io/foragetheworld/ae/plants/amaranthae/): Amaranthus viridis; Amaranth. In season April to November.
+- [Sow thistle](https://eaten676.github.io/foragetheworld/ae/plants/sowthistle/): Sonchus oleraceus; Sow thistle. In season November to April.
+- [Mesquite pods](https://eaten676.github.io/foragetheworld/ae/plants/mesquiteae/): Prosopis juliflora; Mesquite, Ghaf bahri. In season May to August.
+- [Arak berries](https://eaten676.github.io/foragetheworld/ae/plants/arak/): Salvadora persica; Arak, Kabath, Toothbrush tree. In season April to June.
+- [Tropical almond](https://eaten676.github.io/foragetheworld/ae/plants/tropicalalmond/): Terminalia catappa; Beydam, Indian almond. In season May to November.
+- [Mulberries](https://eaten676.github.io/foragetheworld/ae/plants/mulberryae/): Morus alba; Toot. In season March to May.
+
+## Dishes
+
+- [Mulberry juice](https://eaten676.github.io/foragetheworld/ae/dishes/mulberry-juice/): Ripe mulberries blended with water and a little sugar, served cold.
+- [Moringa leaf tea](https://eaten676.github.io/foragetheworld/ae/dishes/moringa-leaf-tea/): Dried drumstick leaves steeped in hot water.
+- [Grilled desert truffles](https://eaten676.github.io/foragetheworld/ae/dishes/grilled-desert-truffles/): Peeled faqa' sliced, brushed with olive oil and grilled, finished with salt and coriander.
+- [Hummaid salad](https://eaten676.github.io/foragetheworld/ae/dishes/hummaid-salad/): Sour bladder dock leaves with tomato, onion and lemon.
+- [Purslane fattoush](https://eaten676.github.io/foragetheworld/ae/dishes/purslane-fattoush/): Toasted bread, purslane, tomato, cucumber and sumac dressing.
+- [Pickled capers](https://eaten676.github.io/foragetheworld/ae/dishes/pickled-capers/): Caper buds salted, then kept in vinegar brine.
+- [Date syrup (dibs)](https://eaten676.github.io/foragetheworld/ae/dishes/date-syrup/): Dates simmered, pressed and reduced to a dark syrup.
+- [Ghaf leaf salad](https://eaten676.github.io/foragetheworld/ae/dishes/ghaf-leaf-salad/): Finely minced young ghaf leaves mixed with fish and rice.
+- [Truffle saloona](https://eaten676.github.io/foragetheworld/ae/dishes/truffle-saloona/): Emirati tomato-based meat stew with chunks of desert truffle.
+- [Khubbeiza (mallow stew)](https://eaten676.github.io/foragetheworld/ae/dishes/khubbeiza/): Mallow leaves sautéed with onion, garlic, olive oil and lemon.
+- [Wild greens with eggs](https://eaten676.github.io/foragetheworld/ae/dishes/wild-greens-with-eggs/): Wilted wild greens cooked with onion and spices, then eggs scrambled in.
+- [Mesquite flour flatbread](https://eaten676.github.io/foragetheworld/ae/dishes/mesquite-flour-flatbread/): Part mesquite flour, part wheat flour, cooked on a hot griddle.
+- [Luqaimat with date syrup](https://eaten676.github.io/foragetheworld/ae/dishes/luqaimat-with-date-syrup/): Crisp fried dough balls drizzled with dibs.
+- [Fresh rutab](https://eaten676.github.io/foragetheworld/ae/dishes/fresh-rutab/): Soft, half-ripe summer dates eaten straight from the bunch with Arabic coffee.
+- [Sidr fruit snack](https://eaten676.github.io/foragetheworld/ae/dishes/sidr-fruit-snack/): Ripe nabq eaten fresh or sun-dried.

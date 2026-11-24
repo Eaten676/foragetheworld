@@ -15,3 +15,4 @@
 - [Forage Sweden](https://eaten676.github.io/foragetheworld/se/llms.txt)
 - [Forage New Zealand](https://eaten676.github.io/foragetheworld/nz/llms.txt)
 - [Forage India](https://eaten676.github.io/foragetheworld/in/llms.txt)
+- [Forage United Arab Emirates](https://eaten676.github.io/foragetheworld/ae/llms.txt)
