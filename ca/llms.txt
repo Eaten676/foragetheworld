@@ -1,6 +1,6 @@
 # Forage Canada
 
-> A free guide to wild food in Canada: which wild plants are in season in each province and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 46 dishes to cook with them.
+> A free guide to wild food in Canada: which wild plants are in season in each province and month, how to recognise and harvest them, the dangerous lookalikes to avoid, and 69 dishes to cook with them.
 
 Seasons and ranges are approximate. Every plant should be confirmed with an experienced local forager before eating.
 
@@ -152,6 +152,22 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Wild amaranth](https://eaten676.github.io/foragetheworld/ca/plants/amaranth/): Amaranthus retroflexus; Pigweed, Amarante. In season July to October.
 - [Pickleweed](https://eaten676.github.io/foragetheworld/ca/plants/pickleweed/): Salicornia pacifica; Pickleweed, Salicorne. In season June to September.
 - [Field garlic](https://eaten676.github.io/foragetheworld/ca/plants/fieldgarlic/): Allium vineale; Crow garlic, Ail des champs. In season March to June.
+- [Rowan berries](https://eaten676.github.io/foragetheworld/ca/plants/rowan/): Sorbus americana / S. aucuparia; American mountain ash, Sorbier d'Amérique. In season August to November.
+- [Wild chives](https://eaten676.github.io/foragetheworld/ca/plants/wildchives/): Allium schoenoprasum; Wild chives, Ciboulette sauvage. In season May to July.
+- [Nodding onion](https://eaten676.github.io/foragetheworld/ca/plants/noddingonion/): Allium cernuum; Nodding onion, Ail penché. In season May to August.
+- [Common milkweed](https://eaten676.github.io/foragetheworld/ca/plants/milkweed/): Asclepias syriaca; Milkweed, Asclépiade commune. In season May to August.
+- [Pin cherry](https://eaten676.github.io/foragetheworld/ca/plants/pincherry/): Prunus pensylvanica; Pin cherry, Cerisier de Pennsylvanie. In season July to August.
+- [Haskap](https://eaten676.github.io/foragetheworld/ca/plants/haskap/): Lonicera caerulea; Haskap, Honeyberry, Camérise. In season June to July.
+- [Red huckleberry](https://eaten676.github.io/foragetheworld/ca/plants/redhuckleberry/): Vaccinium parvifolium; Red huckleberry, Airelle à petites feuilles. In season June to August.
+- [White pine needles](https://eaten676.github.io/foragetheworld/ca/plants/whitepine/): Pinus strobus; Eastern white pine, Pin blanc. In season all year round.
+- [Anise hyssop](https://eaten676.github.io/foragetheworld/ca/plants/anisehyssop/): Agastache foeniculum; Anise hyssop, Agastache fenouil. In season June to September.
+- [Sea sandwort](https://eaten676.github.io/foragetheworld/ca/plants/seasandwort/): Honckenya peploides; Sea purslane, Beach greens, Honckénya. In season May to August.
+- [Roseroot](https://eaten676.github.io/foragetheworld/ca/plants/roseroot/): Rhodiola rosea; Roseroot, Rhodiole rosée. In season May to July.
+- [Pine mushroom](https://eaten676.github.io/foragetheworld/ca/plants/matsutake/): Tricholoma murrillianum; Pine mushroom, Matsutake, Matsutaké. In season September to October.
+- [Lobster mushroom](https://eaten676.github.io/foragetheworld/ca/plants/lobster/): Hypomyces lactifluorum; Lobster mushroom, Champignon homard. In season July to September.
+- [Periwinkles](https://eaten676.github.io/foragetheworld/ca/plants/periwinkle/): Littorina littorea; Periwinkles, Wrinkles, Bigorneaux. In season all year round.
+- [Razor clams](https://eaten676.github.io/foragetheworld/ca/plants/razorclam/): Siliqua patula; Pacific razor clam, Couteau. In season March to October.
+- [Butternut](https://eaten676.github.io/foragetheworld/ca/plants/butternut/): Juglans cinerea; Butternut, White walnut, Noyer cendré. In season September to October.
 
 ## Dishes
 
@@ -201,3 +217,26 @@ Seasons and ranges are approximate. Every plant should be confirmed with an expe
 - [Irish moss pudding](https://eaten676.github.io/foragetheworld/ca/dishes/irish-moss-pudding/): Irish moss set in milk with vanilla, a PEI tradition.
 - [Tarte aux framboises](https://eaten676.github.io/foragetheworld/ca/dishes/tarte-aux-framboises/): Wild raspberries in a Quebec pastry tart.
 - [Nannyberry fruit leather](https://eaten676.github.io/foragetheworld/ca/dishes/nannyberry-fruit-leather/): Sieved nannyberry pulp dried into chewy leather.
+- [White pine needle tea](https://eaten676.github.io/foragetheworld/ca/dishes/white-pine-needle-tea/): Chopped fresh needles steeped (not boiled) for a lemony, vitamin C-rich tea.
+- [Anise hyssop tea](https://eaten676.github.io/foragetheworld/ca/dishes/anise-hyssop-tea/): Fresh or dried leaves and flowers steeped for a sweet liquorice tea.
+- [Rose hip tea](https://eaten676.github.io/foragetheworld/ca/dishes/rose-hip-tea/): Dried, seeded rose hips simmered into a tart red tea.
+- [Pin cherry syrup soda](https://eaten676.github.io/foragetheworld/ca/dishes/pin-cherry-syrup-soda/): Strained pin cherry syrup topped with sparkling water.
+- [Sautéed milkweed pods](https://eaten676.github.io/foragetheworld/ca/dishes/saut-ed-milkweed-pods/): Small pods boiled, then sautéed with butter and garlic.
+- [Cattail on the cob](https://eaten676.github.io/foragetheworld/ca/dishes/cattail-on-the-cob/): Green cattail flower spikes boiled and eaten with butter like corn.
+- [Steamed periwinkles (wrinkles)](https://eaten676.github.io/foragetheworld/ca/dishes/steamed-periwinkles/): Periwinkles boiled in salted water and picked out with a pin.
+- [Razor clam fritters](https://eaten676.github.io/foragetheworld/ca/dishes/razor-clam-fritters/): Chopped razor clams in a light batter, fried until golden.
+- [Sea asparagus salad](https://eaten676.github.io/foragetheworld/ca/dishes/sea-asparagus-salad/): Blanched sea asparagus with sesame oil and vinegar, a BC and Maritime favourite.
+- [Wild chive butter](https://eaten676.github.io/foragetheworld/ca/dishes/wild-chive-butter/): Chopped wild chives beaten into soft butter.
+- [Pin cherry jelly](https://eaten676.github.io/foragetheworld/ca/dishes/pin-cherry-jelly/): Pin cherries cooked, strained and set into a tart jelly.
+- [Rowan jelly](https://eaten676.github.io/foragetheworld/ca/dishes/rowan-jelly/): Frost-sweetened mountain ash berries cooked with apples and strained.
+- [Haskap jam](https://eaten676.github.io/foragetheworld/ca/dishes/haskap-jam/): Haskap berries cooked with sugar: deep purple and tangy.
+- [Red huckleberry jam](https://eaten676.github.io/foragetheworld/ca/dishes/red-huckleberry-jam/): Tart coastal huckleberries cooked with sugar.
+- [Ramp pesto](https://eaten676.github.io/foragetheworld/ca/dishes/ramp-pesto/): Wild leek leaves blended with oil, nuts and cheese.
+- [Matsutake rice](https://eaten676.github.io/foragetheworld/ca/dishes/matsutake-rice/): Thin-sliced pine mushrooms steamed with rice, soy and dashi.
+- [Lobster mushroom bisque](https://eaten676.github.io/foragetheworld/ca/dishes/lobster-mushroom-bisque/): Lobster mushrooms simmered with shallots and cream, then blended.
+- [Morel and fiddlehead pasta](https://eaten676.github.io/foragetheworld/ca/dishes/morel-and-fiddlehead-pasta/): Spring morels and boiled fiddleheads tossed with butter and pasta.
+- [Birch syrup glazed salmon](https://eaten676.github.io/foragetheworld/ca/dishes/birch-syrup-glazed-salmon/): Salmon brushed with birch syrup and roasted.
+- [Puffball schnitzel](https://eaten676.github.io/foragetheworld/ca/dishes/puffball-schnitzel/): Thick slices of white puffball breaded and fried.
+- [Tarte au sucre with maple](https://eaten676.github.io/foragetheworld/ca/dishes/tarte-au-sucre-with-maple/): Quebec sugar pie made with maple syrup.
+- [Haskap ice cream](https://eaten676.github.io/foragetheworld/ca/dishes/haskap-ice-cream/): Haskap purée churned with cream and sugar.
+- [Wild strawberry shortcake](https://eaten676.github.io/foragetheworld/ca/dishes/wild-strawberry-shortcake/): Tiny wild strawberries over biscuits and cream.
